@@ -131,3 +131,12 @@ dmypy.json
 
 # Ignore DataSpell
 .idea/
+
+# --- Project-specific ---
+# Raw Comtrade API cache (~13 GB, re-fetchable via scripts/10_fetch_comtrade.py).
+raw_data/
+# Intermediate tables (derived; rebuilt by scripts/20_aggregate.py etc.).
+interim/
+# Internal working notes — keep private, not published.
+context/
+# output/ IS committed (the deliverable CSVs/workbook).

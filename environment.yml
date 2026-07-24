@@ -1,0 +1,24 @@
+# Conda environment for the us_china_africa_trade pipeline.
+#
+# The uv-managed .venv (python-build-standalone) cannot complete a TLS
+# handshake on this machine (OpenSSL applink defect), so the pipeline runs on
+# this conda env instead. See context/04_decision_log.md (2026-06-15).
+#
+# Create / update:
+#   conda env create -f environment.yml
+#   conda env update -f environment.yml --prune
+#
+# Run scripts with:
+#   conda run -n us_china_africa_trade python scripts/10_fetch_comtrade.py
+#
+# Note: on a network with TLS interception, conda needs the OS trust store:
+#   conda config --set ssl_verify truststore
+name: us_china_africa_trade
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - requests
+  - country_converter
+  - openpyxl   # for the master Excel workbook (later, 30_build_outputs.py)
