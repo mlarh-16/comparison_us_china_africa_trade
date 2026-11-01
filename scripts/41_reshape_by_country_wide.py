@@ -20,7 +20,7 @@ ID_COLS = ["Year", "flow", "reporter", "country_iso3", "country_name"]
 # Category column order (left -> right).
 CATEGORIES = [
     "agricultural goods",
-    "mined goods",
+    "minerals & metals",
     "apparel",
     "other manufactured goods",
     "unspecified (HS 99)",

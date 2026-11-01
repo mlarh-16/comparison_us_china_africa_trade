@@ -18,17 +18,20 @@ MAIN = [
      "All food and farm products: live animals, meat, fish, dairy/eggs, vegetables, "
      "fruit & nuts, coffee/tea/spices, cereals, oilseeds, fats & oils, and prepared "
      "foods, beverages, spirits and tobacco."),
-    ("Mined goods", "25, 26, 27, 71",
-     "Extractive raw materials: salt/stone/cement (25), metal ores, slag & ash (26), "
-     "mineral fuels — oil, gas, coal (27), and pearls, precious & semi-precious stones "
-     "and precious metals incl. gold, diamonds, platinum (71)."),
+    ("Minerals & metals", "25, 26, 27, 71, 72, 74–81",
+     "The full extractive/metals value chain: salt/stone/cement (25), metal ores, slag & "
+     "ash (26), mineral fuels — oil, gas, coal (27), pearls, precious stones & metals incl. "
+     "gold, diamonds, platinum (71), AND refined base metals — copper incl. cathodes (74), "
+     "cobalt/tantalum/tungsten (81), iron/steel & ferroalloys (72), aluminium, nickel, lead, "
+     "zinc, tin (75, 76, 78–80). Refined metals were moved here from manufacturing (2026-09-07)."),
     ("Apparel (wide)", "50–63",
      "Textiles and clothing in the broad sense: silk, wool, cotton and man-made fibres, "
      "knitted and woven garments, and made-up textile articles."),
-    ("Other manufactured goods", "28–49, 64–70, 72–97",
+    ("Other manufactured goods", "28–49, 64–70, 73, 77, 82–97",
      "All remaining manufactures: chemicals, plastics & rubber, leather, wood, paper, "
-     "footwear, glass & ceramics, base metals and articles, machinery, electronics, "
-     "vehicles, and instruments."),
+     "footwear, glass & ceramics, articles of base metal (iron/steel articles 73, tools 82, "
+     "misc 83), machinery, electronics, vehicles, and instruments. Excludes the refined base "
+     "metals (72, 74–81), which are now in Minerals & metals."),
 ]
 
 ALT = [
@@ -43,30 +46,40 @@ ALT = [
      "HS chapter 27 — mineral fuels and oils: crude and refined petroleum, natural gas, "
      "coal, coke, bitumen and mineral waxes. Effectively fossil fuels; for Africa, "
      "dominated by crude oil. (Oil cannot be separated from gas/coal at the 2-digit level.)"),
-    ("Critical minerals", "26",
+    ("Unrefined minerals", "26",
      "HS chapter 26 — ores, slag and ash: metal ores and concentrates (iron, copper, "
-     "manganese, cobalt, aluminium/bauxite, chromium, etc.). NOTE: this is the whole ores "
-     "chapter, not a curated strategic critical-minerals list, and it excludes refined "
-     "metals (which sit in 72–81 → other manufactured)."),
-    ("Precious metals & stones", "71",
-     "HS chapter 71 — natural or cultured pearls, precious & semi-precious stones, "
-     "precious metals (gold, silver, platinum), metal clad with precious metal, jewellery "
-     "and coin. For Africa, overwhelmingly raw gold, diamonds and platinum, with a small "
-     "worked-jewellery/coin share."),
+     "manganese, cobalt, aluminium/bauxite, chromium, etc.) — minerals BEFORE smelting or "
+     "refining. Renamed from 'critical minerals' (this is the whole ores chapter, not a "
+     "curated strategic list). Pairs with Refined minerals to show Africa's value-addition."),
+    ("Refined minerals", "71, 72, 74–81",
+     "Refined / semi-processed metals and precious minerals: refined copper incl. cathodes "
+     "(74), cobalt/tantalum/tungsten (81), iron/steel & ferroalloys (72), aluminium, nickel, "
+     "lead, zinc, tin (75, 76, 78–80), and precious metals & stones — gold, platinum, "
+     "diamonds (71). The refined counterpart to Unrefined minerals; for Africa dominated by "
+     "copper cathodes (DRC/Zambia) and gold/platinum (South Africa)."),
     ("Apparel (wide)", "50–63",
      "Same as the main scheme: textiles and clothing — silk, wool, cotton and man-made "
      "fibres, knitted/woven garments, and made-up textile articles."),
-    ("Other manufactured", "25, 28–49, 64–70, 72–97",
-     "All remaining manufactures plus salt/stone/cement (25): chemicals, plastics & "
-     "rubber, leather, wood, paper, footwear, glass & ceramics, base metals and articles, "
-     "machinery, electronics, vehicles, and instruments."),
+    ("Other manufactured", "25, 28–49, 64–70, 73, 77, 82–97",
+     "All remaining manufactures plus salt/stone/cement (25): chemicals, plastics & rubber, "
+     "leather, wood, paper, footwear, glass & ceramics, articles of base metal (73/82/83), "
+     "machinery, electronics, vehicles, and instruments. Excludes refined base metals "
+     "(72, 74–81), which are in Refined minerals."),
 ]
 
 NOTES = [
-    ("HS 71 → mineral", "Pearls, precious stones, gold and platinum (HS 71) are treated as "
-     "a mineral/extractive flow. In the main scheme they are folded into Mined goods; in "
-     "the alt scheme they form their own Precious metals & stones bucket. Caveat: HS 71 "
-     "also contains worked jewellery and coin, which are not extractive (a small share for Africa)."),
+    ("Refined metals → minerals (2026-09-07)", "Refined base metals (HS 72, 74–81) — "
+     "overwhelmingly refined copper cathodes (74), plus cobalt (81), ferroalloys (72) and "
+     "aluminium (76) — were reclassified from 'other manufactured' into the mineral "
+     "categories: Minerals & metals (main), and split Unrefined minerals (26, ores) vs "
+     "Refined minerals (71 + 72,74–81) in the alt scheme. For African exports this is ~73% "
+     "of the old 'other manufactured' bucket. HS 73 (iron/steel articles), 82 (tools) and "
+     "83 (misc base-metal articles) are genuine manufactures and stay in 'other manufactured'."),
+    ("HS 71 (precious metals & stones)", "Pearls, precious stones, gold and platinum (HS 71) "
+     "are treated as a mineral/extractive flow: in Minerals & metals (main) and folded into "
+     "Refined minerals (alt). For US/China–Africa flows it is overwhelmingly refined gold and "
+     "platinum. Caveat: HS 71 also holds rough diamonds (unrefined) and a little worked "
+     "jewellery/coin, which cannot be separated at the 2-digit level."),
     ("Chapter 99 (unspecified)", "HS chapter 99 (“commodities not elsewhere specified”) "
      "is outside the sector schemes and is reported as a separate “unspecified (HS 99)” "
      "line. The sector categories sum to the classified HS 01–97 subtotal; adding the "
@@ -112,7 +125,7 @@ def main():
 
     doc.add_heading("2. Alternative category scheme (7 buckets)", level=1)
     doc.add_paragraph("Applies to the aggregate-Africa outputs only. Splits the single "
-                      "“Mined goods” bucket into energy / critical / precious, and "
+                      "“Minerals & metals” bucket into energy / unrefined / refined, and "
                       "agriculture into raw vs processed.")
     add_table(doc, ALT)
 

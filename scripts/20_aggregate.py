@@ -123,12 +123,16 @@ def load_reporter_partner() -> pd.DataFrame:
 # two_way = imports + exports (derived), appended as a third flow
 # ---------------------------------------------------------------------------
 def add_two_way(df: pd.DataFrame, group_cols: list[str]) -> pd.DataFrame:
+    # two_way = imports + exports summed over each identity key. `flow` must NOT
+    # be a grouping key here, or imports and exports stay in separate groups and
+    # get emitted as two duplicate two_way rows instead of one summed row.
+    keys = [c for c in group_cols if c != "flow"]
     two = (df[df["flow"].isin(["imports", "exports"])]
-           .groupby(group_cols, as_index=False)["value_usd"].sum())
+           .groupby(keys, as_index=False)["value_usd"].sum())
     two["flow"] = "two_way"
     out = pd.concat([df, two[df.columns]], ignore_index=True)
     out["flow"] = pd.Categorical(out["flow"], categories=FLOW_ORDER, ordered=True)
-    return out.sort_values(group_cols[:-1] if "flow" in group_cols else group_cols).reset_index(drop=True)
+    return out.sort_values(keys).reset_index(drop=True)
 
 
 # ---------------------------------------------------------------------------

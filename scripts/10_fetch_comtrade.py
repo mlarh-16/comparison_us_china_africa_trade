@@ -144,6 +144,15 @@ def fetch_cell(session, keys, *, reporter_code, partner_codes, year, flow_code):
         "period": str(year),
         "flowCode": flow_code,
         "cmdCode": "AG2",
+        # Pin the aggregation dimensions to the TOTAL rows only. Without this,
+        # reporters that file mode-of-transport / customs / partner2 breakdowns
+        # return those detail rows too — summing them double-counts (e.g. Canada
+        # 2023 vs AU: $15.5B unpinned vs $7.7B pinned), and a large reporter can
+        # exceed Comtrade's 100k-row cap and be SILENTLY truncated. C00 = customs
+        # total, motCode 0 = all modes, partner2Code 0 = world 2nd partner.
+        "partner2Code": "0",
+        "motCode": "0",
+        "customsCode": "C00",
     }
     if partner_codes is not None:
         params["partnerCode"] = partner_codes
@@ -194,6 +203,20 @@ def iter_jobs(setups, years, flows):
                 for flow_name, flow_code in flows.items():
                     # partner_codes=None -> all partners (aggregated to regions later)
                     yield ("africa_reporter", meta["iso3"], code, None, year, flow_name, flow_code)
+
+    if "partner_mirror" in setups:
+        # each external (non-African) country as reporter vs the 54 AU partners.
+        # Flipped downstream (48_africa_reporter_comtrade.py): reporter exports to
+        # AU = Africa's imports from that region, and vice versa. Reporter universe
+        # from 11_enum_mirror_reporters.py. Label = numeric reporter code.
+        mirror_path = config.Paths.raw_data / "mirror_reporters.json"
+        if not mirror_path.exists():
+            raise SystemExit(f"Missing {mirror_path}. Run 11_enum_mirror_reporters.py first.")
+        mirror = json.loads(mirror_path.read_text(encoding="utf-8"))
+        for code in mirror["reporter_region"]:
+            for year in years:
+                for flow_name, flow_code in flows.items():
+                    yield ("partner_mirror", code, code, au_partner_str, year, flow_name, flow_code)
 
 
 def run(setups, years, flows, limit):
@@ -246,8 +269,11 @@ def run(setups, years, flows, limit):
 
 def parse_args(argv=None):
     p = argparse.ArgumentParser(description="Fetch raw Comtrade data (resumable).")
-    p.add_argument("--setup", choices=["reporter_partner", "reporter_world", "africa_reporter"],
-                   action="append", help="Limit to one setup (repeatable). Default: all three.")
+    p.add_argument("--setup",
+                   choices=["reporter_partner", "reporter_world", "africa_reporter", "partner_mirror"],
+                   action="append",
+                   help="Limit to one setup (repeatable). Default: the three core setups "
+                        "(partner_mirror is opt-in — it is the ~8,800-call Comtrade-mirror pull).")
     p.add_argument("--years", type=int, nargs="+", help="Specific years. Default: 2000-2025.")
     p.add_argument("--flows", choices=list(FLOWS), nargs="+", help="Default: imports exports.")
     p.add_argument("--limit", type=int, default=0, help="Stop after N successful fetches (smoke test).")

@@ -23,10 +23,10 @@ ID = ["Year", "flow", "reporter", "country_iso3", "country_name"]
 TOP_N = 7
 FLOW_ORDER = ["imports", "exports", "two_way"]
 
-MAIN_CATS = ["agricultural goods", "mined goods", "apparel",
+MAIN_CATS = ["agricultural goods", "minerals & metals", "apparel",
              "other manufactured goods", "unspecified (HS 99)"]
 ALT_CATS = ["raw agrifood", "processed agrifood", "energy minerals",
-            "critical minerals", "precious metals & stones", "apparel",
+            "unrefined minerals", "refined minerals", "apparel",
             "other manufactured", "unspecified (HS 99)"]
 
 

@@ -1,0 +1,2407 @@
+Year,flow,partner_region,category,value_usd,source
+2000,imports,USA,agricultural goods,2829230373.0,baci_reconciled
+2000,imports,USA,minerals & metals,676481010.9999999,baci_reconciled
+2000,imports,USA,apparel,265610140.0,baci_reconciled
+2000,imports,USA,other manufactured goods,8464894053.0,baci_reconciled
+2000,imports,China,agricultural goods,657124633.0,baci_reconciled
+2000,imports,China,minerals & metals,198897919.0,baci_reconciled
+2000,imports,China,apparel,1249359112.0,baci_reconciled
+2000,imports,China,other manufactured goods,3259306740.0,baci_reconciled
+2000,imports,N_America_ex_US,agricultural goods,718695784.0,baci_reconciled
+2000,imports,N_America_ex_US,minerals & metals,90812251.0,baci_reconciled
+2000,imports,N_America_ex_US,apparel,46334625.0,baci_reconciled
+2000,imports,N_America_ex_US,other manufactured goods,579046930.0,baci_reconciled
+2000,imports,S_America,agricultural goods,1983550037.0,baci_reconciled
+2000,imports,S_America,minerals & metals,488073034.0,baci_reconciled
+2000,imports,S_America,apparel,22672762.0,baci_reconciled
+2000,imports,S_America,other manufactured goods,1076742365.0,baci_reconciled
+2000,imports,Asia_ex_China,agricultural goods,2505573306.0,baci_reconciled
+2000,imports,Asia_ex_China,minerals & metals,8871651171.0,baci_reconciled
+2000,imports,Asia_ex_China,apparel,3380337435.0,baci_reconciled
+2000,imports,Asia_ex_China,other manufactured goods,16710005998.0,baci_reconciled
+2000,imports,Europe,agricultural goods,8344027066.0,baci_reconciled
+2000,imports,Europe,minerals & metals,7292070925.0,baci_reconciled
+2000,imports,Europe,apparel,4587662641.0,baci_reconciled
+2000,imports,Europe,other manufactured goods,47908338961.0,baci_reconciled
+2000,imports,Oceania,agricultural goods,866833165.0,baci_reconciled
+2000,imports,Oceania,minerals & metals,284066478.0,baci_reconciled
+2000,imports,Oceania,apparel,33497981.0,baci_reconciled
+2000,imports,Oceania,other manufactured goods,823333444.0,baci_reconciled
+2000,imports,Intra_Africa,agricultural goods,4105658457.0,baci_reconciled
+2000,imports,Intra_Africa,minerals & metals,6741120846.0,baci_reconciled
+2000,imports,Intra_Africa,apparel,1030360937.0,baci_reconciled
+2000,imports,Intra_Africa,other manufactured goods,7985905979.0,baci_reconciled
+2001,imports,USA,agricultural goods,2746910750.0,baci_reconciled
+2001,imports,USA,minerals & metals,481464574.0,baci_reconciled
+2001,imports,USA,apparel,266982705.0,baci_reconciled
+2001,imports,USA,other manufactured goods,9683909166.0,baci_reconciled
+2001,imports,China,agricultural goods,569312966.0,baci_reconciled
+2001,imports,China,minerals & metals,207034470.0,baci_reconciled
+2001,imports,China,apparel,1371554970.0,baci_reconciled
+2001,imports,China,other manufactured goods,3910854364.0,baci_reconciled
+2001,imports,N_America_ex_US,agricultural goods,717690384.0,baci_reconciled
+2001,imports,N_America_ex_US,minerals & metals,66402021.0,baci_reconciled
+2001,imports,N_America_ex_US,apparel,61754586.0,baci_reconciled
+2001,imports,N_America_ex_US,other manufactured goods,511218043.0,baci_reconciled
+2001,imports,S_America,agricultural goods,2616792645.0,baci_reconciled
+2001,imports,S_America,minerals & metals,627259807.0,baci_reconciled
+2001,imports,S_America,apparel,36797334.0,baci_reconciled
+2001,imports,S_America,other manufactured goods,1525465351.0,baci_reconciled
+2001,imports,Asia_ex_China,agricultural goods,3001793947.0,baci_reconciled
+2001,imports,Asia_ex_China,minerals & metals,8383644434.0,baci_reconciled
+2001,imports,Asia_ex_China,apparel,3392488923.0,baci_reconciled
+2001,imports,Asia_ex_China,other manufactured goods,17309772172.0,baci_reconciled
+2001,imports,Europe,agricultural goods,8600725784.0,baci_reconciled
+2001,imports,Europe,minerals & metals,7349417678.0,baci_reconciled
+2001,imports,Europe,apparel,4813480966.0,baci_reconciled
+2001,imports,Europe,other manufactured goods,48842061069.0,baci_reconciled
+2001,imports,Oceania,agricultural goods,994851634.0,baci_reconciled
+2001,imports,Oceania,minerals & metals,446019768.0,baci_reconciled
+2001,imports,Oceania,apparel,41266841.0,baci_reconciled
+2001,imports,Oceania,other manufactured goods,804830643.0,baci_reconciled
+2001,imports,Intra_Africa,agricultural goods,4416742621.0,baci_reconciled
+2001,imports,Intra_Africa,minerals & metals,6713679008.0,baci_reconciled
+2001,imports,Intra_Africa,apparel,1148597883.0,baci_reconciled
+2001,imports,Intra_Africa,other manufactured goods,8053219996.0,baci_reconciled
+2001,imports,Other_residual (nes),agricultural goods,26326.0,baci_reconciled
+2001,imports,Other_residual (nes),other manufactured goods,21648.0,baci_reconciled
+2002,imports,USA,agricultural goods,2917592238.0,baci_reconciled
+2002,imports,USA,minerals & metals,480402440.0,baci_reconciled
+2002,imports,USA,apparel,215991697.0,baci_reconciled
+2002,imports,USA,other manufactured goods,9216840074.0,baci_reconciled
+2002,imports,China,agricultural goods,542641592.0,baci_reconciled
+2002,imports,China,minerals & metals,220421693.0,baci_reconciled
+2002,imports,China,apparel,1473535762.0,baci_reconciled
+2002,imports,China,other manufactured goods,4744821885.0,baci_reconciled
+2002,imports,N_America_ex_US,agricultural goods,759156517.0,baci_reconciled
+2002,imports,N_America_ex_US,minerals & metals,95771212.0,baci_reconciled
+2002,imports,N_America_ex_US,apparel,64136919.0,baci_reconciled
+2002,imports,N_America_ex_US,other manufactured goods,530137859.0,baci_reconciled
+2002,imports,S_America,agricultural goods,3016242604.0,baci_reconciled
+2002,imports,S_America,minerals & metals,633422359.0,baci_reconciled
+2002,imports,S_America,apparel,46309681.0,baci_reconciled
+2002,imports,S_America,other manufactured goods,1388468174.0,baci_reconciled
+2002,imports,Asia_ex_China,agricultural goods,3519220629.0,baci_reconciled
+2002,imports,Asia_ex_China,minerals & metals,7445404159.0,baci_reconciled
+2002,imports,Asia_ex_China,apparel,3446040710.0,baci_reconciled
+2002,imports,Asia_ex_China,other manufactured goods,19854429464.0,baci_reconciled
+2002,imports,Europe,agricultural goods,9173018314.0,baci_reconciled
+2002,imports,Europe,minerals & metals,7109734831.0,baci_reconciled
+2002,imports,Europe,apparel,4886852723.0,baci_reconciled
+2002,imports,Europe,other manufactured goods,51414651906.0,baci_reconciled
+2002,imports,Oceania,agricultural goods,989189708.0,baci_reconciled
+2002,imports,Oceania,minerals & metals,507180254.0,baci_reconciled
+2002,imports,Oceania,apparel,41921166.0,baci_reconciled
+2002,imports,Oceania,other manufactured goods,841664742.0,baci_reconciled
+2002,imports,Intra_Africa,agricultural goods,4726363262.0,baci_reconciled
+2002,imports,Intra_Africa,minerals & metals,6921066484.0,baci_reconciled
+2002,imports,Intra_Africa,apparel,1267834752.0,baci_reconciled
+2002,imports,Intra_Africa,other manufactured goods,10658880468.0,baci_reconciled
+2002,imports,Other_residual (nes),other manufactured goods,3296.0,baci_reconciled
+2003,imports,USA,agricultural goods,3558251665.0,baci_reconciled
+2003,imports,USA,minerals & metals,606200503.0,baci_reconciled
+2003,imports,USA,apparel,234159569.0,baci_reconciled
+2003,imports,USA,other manufactured goods,9268140904.0,baci_reconciled
+2003,imports,China,agricultural goods,787173266.0,baci_reconciled
+2003,imports,China,minerals & metals,349332338.0,baci_reconciled
+2003,imports,China,apparel,2447922913.0,baci_reconciled
+2003,imports,China,other manufactured goods,6892411535.0,baci_reconciled
+2003,imports,N_America_ex_US,agricultural goods,642642101.0,baci_reconciled
+2003,imports,N_America_ex_US,minerals & metals,124960503.0,baci_reconciled
+2003,imports,N_America_ex_US,apparel,79251736.0,baci_reconciled
+2003,imports,N_America_ex_US,other manufactured goods,708788807.0,baci_reconciled
+2003,imports,S_America,agricultural goods,3411331014.0,baci_reconciled
+2003,imports,S_America,minerals & metals,793941855.0,baci_reconciled
+2003,imports,S_America,apparel,53538776.0,baci_reconciled
+2003,imports,S_America,other manufactured goods,1944445665.0000002,baci_reconciled
+2003,imports,Asia_ex_China,agricultural goods,4174924709.0,baci_reconciled
+2003,imports,Asia_ex_China,minerals & metals,8674797995.0,baci_reconciled
+2003,imports,Asia_ex_China,apparel,4045199740.0,baci_reconciled
+2003,imports,Asia_ex_China,other manufactured goods,21725697808.0,baci_reconciled
+2003,imports,Europe,agricultural goods,10013089644.0,baci_reconciled
+2003,imports,Europe,minerals & metals,9034671423.0,baci_reconciled
+2003,imports,Europe,apparel,5468272291.0,baci_reconciled
+2003,imports,Europe,other manufactured goods,61797584822.0,baci_reconciled
+2003,imports,Oceania,agricultural goods,690325435.0,baci_reconciled
+2003,imports,Oceania,minerals & metals,535356247.0,baci_reconciled
+2003,imports,Oceania,apparel,41662679.0,baci_reconciled
+2003,imports,Oceania,other manufactured goods,831607544.0,baci_reconciled
+2003,imports,Intra_Africa,agricultural goods,5703215926.0,baci_reconciled
+2003,imports,Intra_Africa,minerals & metals,8550750154.0,baci_reconciled
+2003,imports,Intra_Africa,apparel,1673312813.0,baci_reconciled
+2003,imports,Intra_Africa,other manufactured goods,11881706885.0,baci_reconciled
+2004,imports,USA,agricultural goods,3795808036.0,baci_reconciled
+2004,imports,USA,minerals & metals,688309573.0,baci_reconciled
+2004,imports,USA,apparel,231616963.0,baci_reconciled
+2004,imports,USA,other manufactured goods,9894398813.0,baci_reconciled
+2004,imports,China,agricultural goods,691748765.0,baci_reconciled
+2004,imports,China,minerals & metals,484527185.0,baci_reconciled
+2004,imports,China,apparel,3423207348.0,baci_reconciled
+2004,imports,China,other manufactured goods,10129310810.0,baci_reconciled
+2004,imports,N_America_ex_US,agricultural goods,650790970.0,baci_reconciled
+2004,imports,N_America_ex_US,minerals & metals,123821173.0,baci_reconciled
+2004,imports,N_America_ex_US,apparel,83750929.0,baci_reconciled
+2004,imports,N_America_ex_US,other manufactured goods,932717142.0,baci_reconciled
+2004,imports,S_America,agricultural goods,5199076998.0,baci_reconciled
+2004,imports,S_America,minerals & metals,1249445869.0,baci_reconciled
+2004,imports,S_America,apparel,50463563.0,baci_reconciled
+2004,imports,S_America,other manufactured goods,2395340245.0,baci_reconciled
+2004,imports,Asia_ex_China,agricultural goods,5244521895.0,baci_reconciled
+2004,imports,Asia_ex_China,minerals & metals,11750367348.0,baci_reconciled
+2004,imports,Asia_ex_China,apparel,4618069905.0,baci_reconciled
+2004,imports,Asia_ex_China,other manufactured goods,30112218034.0,baci_reconciled
+2004,imports,Europe,agricultural goods,10853937278.0,baci_reconciled
+2004,imports,Europe,minerals & metals,12302604094.0,baci_reconciled
+2004,imports,Europe,apparel,5789345009.0,baci_reconciled
+2004,imports,Europe,other manufactured goods,73475359093.0,baci_reconciled
+2004,imports,Oceania,agricultural goods,1006818803.0,baci_reconciled
+2004,imports,Oceania,minerals & metals,609584291.0,baci_reconciled
+2004,imports,Oceania,apparel,43194025.0,baci_reconciled
+2004,imports,Oceania,other manufactured goods,1069763812.0,baci_reconciled
+2004,imports,Intra_Africa,agricultural goods,6041325840.0,baci_reconciled
+2004,imports,Intra_Africa,minerals & metals,11913345615.0,baci_reconciled
+2004,imports,Intra_Africa,apparel,2073942135.0,baci_reconciled
+2004,imports,Intra_Africa,other manufactured goods,13669841169.0,baci_reconciled
+2005,imports,USA,agricultural goods,3606549262.0,baci_reconciled
+2005,imports,USA,minerals & metals,870514935.0,baci_reconciled
+2005,imports,USA,apparel,246352859.0,baci_reconciled
+2005,imports,USA,other manufactured goods,11564946893.0,baci_reconciled
+2005,imports,China,agricultural goods,687192370.0,baci_reconciled
+2005,imports,China,minerals & metals,728711245.0,baci_reconciled
+2005,imports,China,apparel,3834083128.0,baci_reconciled
+2005,imports,China,other manufactured goods,14381752791.0,baci_reconciled
+2005,imports,N_America_ex_US,agricultural goods,706677254.0,baci_reconciled
+2005,imports,N_America_ex_US,minerals & metals,201389192.0,baci_reconciled
+2005,imports,N_America_ex_US,apparel,93222979.0,baci_reconciled
+2005,imports,N_America_ex_US,other manufactured goods,1082171660.0,baci_reconciled
+2005,imports,S_America,agricultural goods,5895026356.0,baci_reconciled
+2005,imports,S_America,minerals & metals,1889659152.0000002,baci_reconciled
+2005,imports,S_America,apparel,66845111.0,baci_reconciled
+2005,imports,S_America,other manufactured goods,3272361838.0,baci_reconciled
+2005,imports,Asia_ex_China,agricultural goods,6523552262.0,baci_reconciled
+2005,imports,Asia_ex_China,minerals & metals,18020974997.0,baci_reconciled
+2005,imports,Asia_ex_China,apparel,4948424939.0,baci_reconciled
+2005,imports,Asia_ex_China,other manufactured goods,38834747969.0,baci_reconciled
+2005,imports,Europe,agricultural goods,11672578139.0,baci_reconciled
+2005,imports,Europe,minerals & metals,16475910313.0,baci_reconciled
+2005,imports,Europe,apparel,5487145285.0,baci_reconciled
+2005,imports,Europe,other manufactured goods,82444569413.0,baci_reconciled
+2005,imports,Oceania,agricultural goods,1080691872.0,baci_reconciled
+2005,imports,Oceania,minerals & metals,893068640.0,baci_reconciled
+2005,imports,Oceania,apparel,51701055.0,baci_reconciled
+2005,imports,Oceania,other manufactured goods,1431939892.0,baci_reconciled
+2005,imports,Intra_Africa,agricultural goods,6377747525.0,baci_reconciled
+2005,imports,Intra_Africa,minerals & metals,17868805390.0,baci_reconciled
+2005,imports,Intra_Africa,apparel,1397378932.0,baci_reconciled
+2005,imports,Intra_Africa,other manufactured goods,14946900395.0,baci_reconciled
+2006,imports,USA,agricultural goods,4321349425.0,baci_reconciled
+2006,imports,USA,minerals & metals,1388340612.0,baci_reconciled
+2006,imports,USA,apparel,279712853.0,baci_reconciled
+2006,imports,USA,other manufactured goods,15745930862.0,baci_reconciled
+2006,imports,China,agricultural goods,1113784869.0,baci_reconciled
+2006,imports,China,minerals & metals,1344270979.0,baci_reconciled
+2006,imports,China,apparel,4671469047.0,baci_reconciled
+2006,imports,China,other manufactured goods,20424475530.0,baci_reconciled
+2006,imports,N_America_ex_US,agricultural goods,945623653.0,baci_reconciled
+2006,imports,N_America_ex_US,minerals & metals,187777934.0,baci_reconciled
+2006,imports,N_America_ex_US,apparel,117518478.0,baci_reconciled
+2006,imports,N_America_ex_US,other manufactured goods,1253500025.0,baci_reconciled
+2006,imports,S_America,agricultural goods,6510300603.0,baci_reconciled
+2006,imports,S_America,minerals & metals,2382153019.0,baci_reconciled
+2006,imports,S_America,apparel,114815352.0,baci_reconciled
+2006,imports,S_America,other manufactured goods,4488273549.0,baci_reconciled
+2006,imports,Asia_ex_China,agricultural goods,7420773915.0,baci_reconciled
+2006,imports,Asia_ex_China,minerals & metals,25008473935.0,baci_reconciled
+2006,imports,Asia_ex_China,apparel,4955621230.0,baci_reconciled
+2006,imports,Asia_ex_China,other manufactured goods,44651053934.0,baci_reconciled
+2006,imports,Europe,agricultural goods,13742485554.0,baci_reconciled
+2006,imports,Europe,minerals & metals,19706419130.0,baci_reconciled
+2006,imports,Europe,apparel,5754042233.0,baci_reconciled
+2006,imports,Europe,other manufactured goods,93313788850.0,baci_reconciled
+2006,imports,Oceania,agricultural goods,1274300097.0,baci_reconciled
+2006,imports,Oceania,minerals & metals,984337621.0,baci_reconciled
+2006,imports,Oceania,apparel,56173792.0,baci_reconciled
+2006,imports,Oceania,other manufactured goods,1859023861.0,baci_reconciled
+2006,imports,Intra_Africa,agricultural goods,6993678040.0,baci_reconciled
+2006,imports,Intra_Africa,minerals & metals,21337064239.0,baci_reconciled
+2006,imports,Intra_Africa,apparel,1408932007.0,baci_reconciled
+2006,imports,Intra_Africa,other manufactured goods,16912763496.0,baci_reconciled
+2007,imports,USA,agricultural goods,6835457311.0,baci_reconciled
+2007,imports,USA,minerals & metals,2056842622.0,baci_reconciled
+2007,imports,USA,apparel,296469070.0,baci_reconciled
+2007,imports,USA,other manufactured goods,17813672165.0,baci_reconciled
+2007,imports,China,agricultural goods,1354051407.0,baci_reconciled
+2007,imports,China,minerals & metals,2347667849.0,baci_reconciled
+2007,imports,China,apparel,5760393794.0,baci_reconciled
+2007,imports,China,other manufactured goods,27141544935.0,baci_reconciled
+2007,imports,N_America_ex_US,agricultural goods,1287083817.0,baci_reconciled
+2007,imports,N_America_ex_US,minerals & metals,202155343.0,baci_reconciled
+2007,imports,N_America_ex_US,apparel,102553470.0,baci_reconciled
+2007,imports,N_America_ex_US,other manufactured goods,1746300017.0,baci_reconciled
+2007,imports,S_America,agricultural goods,8685087613.0,baci_reconciled
+2007,imports,S_America,minerals & metals,3261461975.0,baci_reconciled
+2007,imports,S_America,apparel,324181453.0,baci_reconciled
+2007,imports,S_America,other manufactured goods,4968249041.0,baci_reconciled
+2007,imports,Asia_ex_China,agricultural goods,9985927343.0,baci_reconciled
+2007,imports,Asia_ex_China,minerals & metals,28524174862.0,baci_reconciled
+2007,imports,Asia_ex_China,apparel,5919505446.0,baci_reconciled
+2007,imports,Asia_ex_China,other manufactured goods,56739448849.0,baci_reconciled
+2007,imports,Europe,agricultural goods,18097054746.0,baci_reconciled
+2007,imports,Europe,minerals & metals,24654753195.0,baci_reconciled
+2007,imports,Europe,apparel,6551164094.0,baci_reconciled
+2007,imports,Europe,other manufactured goods,110195376115.0,baci_reconciled
+2007,imports,Oceania,agricultural goods,1222198669.0,baci_reconciled
+2007,imports,Oceania,minerals & metals,933392456.0,baci_reconciled
+2007,imports,Oceania,apparel,57355636.0,baci_reconciled
+2007,imports,Oceania,other manufactured goods,1903614870.0,baci_reconciled
+2007,imports,Intra_Africa,agricultural goods,8628947953.0,baci_reconciled
+2007,imports,Intra_Africa,minerals & metals,26309176199.0,baci_reconciled
+2007,imports,Intra_Africa,apparel,2234651093.0,baci_reconciled
+2007,imports,Intra_Africa,other manufactured goods,23120026907.0,baci_reconciled
+2008,imports,USA,agricultural goods,6794546168.0,baci_reconciled
+2008,imports,USA,minerals & metals,3509156165.0,baci_reconciled
+2008,imports,USA,apparel,428720876.0,baci_reconciled
+2008,imports,USA,other manufactured goods,21094664252.0,baci_reconciled
+2008,imports,China,agricultural goods,1533059608.0,baci_reconciled
+2008,imports,China,minerals & metals,4009837120.0,baci_reconciled
+2008,imports,China,apparel,6292061261.0,baci_reconciled
+2008,imports,China,other manufactured goods,38697564994.0,baci_reconciled
+2008,imports,N_America_ex_US,agricultural goods,2299237224.0,baci_reconciled
+2008,imports,N_America_ex_US,minerals & metals,752612156.0,baci_reconciled
+2008,imports,N_America_ex_US,apparel,137970516.0,baci_reconciled
+2008,imports,N_America_ex_US,other manufactured goods,1782054732.0,baci_reconciled
+2008,imports,S_America,agricultural goods,11526217008.0,baci_reconciled
+2008,imports,S_America,minerals & metals,4220813606.0,baci_reconciled
+2008,imports,S_America,apparel,254733441.0,baci_reconciled
+2008,imports,S_America,other manufactured goods,7478008632.0,baci_reconciled
+2008,imports,Asia_ex_China,agricultural goods,15091395405.0,baci_reconciled
+2008,imports,Asia_ex_China,minerals & metals,42649973673.0,baci_reconciled
+2008,imports,Asia_ex_China,apparel,6831335462.0,baci_reconciled
+2008,imports,Asia_ex_China,other manufactured goods,69064068276.0,baci_reconciled
+2008,imports,Europe,agricultural goods,22937439547.0,baci_reconciled
+2008,imports,Europe,minerals & metals,40297995783.0,baci_reconciled
+2008,imports,Europe,apparel,6925066637.0,baci_reconciled
+2008,imports,Europe,other manufactured goods,130181374184.0,baci_reconciled
+2008,imports,Oceania,agricultural goods,1506557323.0,baci_reconciled
+2008,imports,Oceania,minerals & metals,989957623.0,baci_reconciled
+2008,imports,Oceania,apparel,56523459.0,baci_reconciled
+2008,imports,Oceania,other manufactured goods,2100851689.0,baci_reconciled
+2008,imports,Intra_Africa,agricultural goods,10350763887.0,baci_reconciled
+2008,imports,Intra_Africa,minerals & metals,33609431300.0,baci_reconciled
+2008,imports,Intra_Africa,apparel,2747028269.0,baci_reconciled
+2008,imports,Intra_Africa,other manufactured goods,29350697579.0,baci_reconciled
+2009,imports,USA,agricultural goods,4951698923.0,baci_reconciled
+2009,imports,USA,minerals & metals,2764597170.0,baci_reconciled
+2009,imports,USA,apparel,397454288.0,baci_reconciled
+2009,imports,USA,other manufactured goods,19716480338.0,baci_reconciled
+2009,imports,China,agricultural goods,1585280390.0,baci_reconciled
+2009,imports,China,minerals & metals,2443077366.0,baci_reconciled
+2009,imports,China,apparel,6454637816.0,baci_reconciled
+2009,imports,China,other manufactured goods,39330587508.0,baci_reconciled
+2009,imports,N_America_ex_US,agricultural goods,1270423826.0,baci_reconciled
+2009,imports,N_America_ex_US,minerals & metals,378445225.0,baci_reconciled
+2009,imports,N_America_ex_US,apparel,128906947.0,baci_reconciled
+2009,imports,N_America_ex_US,other manufactured goods,1703975298.0,baci_reconciled
+2009,imports,S_America,agricultural goods,9726612875.0,baci_reconciled
+2009,imports,S_America,minerals & metals,2616148838.0,baci_reconciled
+2009,imports,S_America,apparel,162773857.0,baci_reconciled
+2009,imports,S_America,other manufactured goods,8133837016.0,baci_reconciled
+2009,imports,Asia_ex_China,agricultural goods,12056741155.0,baci_reconciled
+2009,imports,Asia_ex_China,minerals & metals,30967462539.0,baci_reconciled
+2009,imports,Asia_ex_China,apparel,6216448629.0,baci_reconciled
+2009,imports,Asia_ex_China,other manufactured goods,64614810807.0,baci_reconciled
+2009,imports,Europe,agricultural goods,21860980932.0,baci_reconciled
+2009,imports,Europe,minerals & metals,29368051756.0,baci_reconciled
+2009,imports,Europe,apparel,6225822671.0,baci_reconciled
+2009,imports,Europe,other manufactured goods,118106360547.0,baci_reconciled
+2009,imports,Oceania,agricultural goods,1925136179.0,baci_reconciled
+2009,imports,Oceania,minerals & metals,604064856.0,baci_reconciled
+2009,imports,Oceania,apparel,61723233.0,baci_reconciled
+2009,imports,Oceania,other manufactured goods,1769565457.0,baci_reconciled
+2009,imports,Intra_Africa,agricultural goods,12028517221.0,baci_reconciled
+2009,imports,Intra_Africa,minerals & metals,27765648546.0,baci_reconciled
+2009,imports,Intra_Africa,apparel,2020897075.0,baci_reconciled
+2009,imports,Intra_Africa,other manufactured goods,31642680596.0,baci_reconciled
+2010,imports,USA,agricultural goods,6333896532.0,baci_reconciled
+2010,imports,USA,minerals & metals,4210973634.0,baci_reconciled
+2010,imports,USA,apparel,578772766.0,baci_reconciled
+2010,imports,USA,other manufactured goods,23102928826.0,baci_reconciled
+2010,imports,China,agricultural goods,1820753008.0,baci_reconciled
+2010,imports,China,minerals & metals,3155475729.0,baci_reconciled
+2010,imports,China,apparel,8103029231.0,baci_reconciled
+2010,imports,China,other manufactured goods,50296302542.0,baci_reconciled
+2010,imports,N_America_ex_US,agricultural goods,1340855697.0,baci_reconciled
+2010,imports,N_America_ex_US,minerals & metals,486059274.00000006,baci_reconciled
+2010,imports,N_America_ex_US,apparel,116378085.0,baci_reconciled
+2010,imports,N_America_ex_US,other manufactured goods,1934699763.0,baci_reconciled
+2010,imports,S_America,agricultural goods,11096118878.0,baci_reconciled
+2010,imports,S_America,minerals & metals,3212378216.0,baci_reconciled
+2010,imports,S_America,apparel,135191759.0,baci_reconciled
+2010,imports,S_America,other manufactured goods,7964405138.0,baci_reconciled
+2010,imports,Asia_ex_China,agricultural goods,14590745671.0,baci_reconciled
+2010,imports,Asia_ex_China,minerals & metals,36322268289.0,baci_reconciled
+2010,imports,Asia_ex_China,apparel,7894948401.0,baci_reconciled
+2010,imports,Asia_ex_China,other manufactured goods,77334365734.0,baci_reconciled
+2010,imports,Europe,agricultural goods,23995339691.0,baci_reconciled
+2010,imports,Europe,minerals & metals,37807760857.0,baci_reconciled
+2010,imports,Europe,apparel,6161307871.0,baci_reconciled
+2010,imports,Europe,other manufactured goods,123833800429.0,baci_reconciled
+2010,imports,Oceania,agricultural goods,2196360618.0,baci_reconciled
+2010,imports,Oceania,minerals & metals,944191691.0,baci_reconciled
+2010,imports,Oceania,apparel,60895870.0,baci_reconciled
+2010,imports,Oceania,other manufactured goods,2726417048.0,baci_reconciled
+2010,imports,Intra_Africa,agricultural goods,13066889252.0,baci_reconciled
+2010,imports,Intra_Africa,minerals & metals,36542565299.0,baci_reconciled
+2010,imports,Intra_Africa,apparel,2057937946.0,baci_reconciled
+2010,imports,Intra_Africa,other manufactured goods,33171869479.0,baci_reconciled
+2011,imports,USA,agricultural goods,8401455843.0,baci_reconciled
+2011,imports,USA,minerals & metals,5745553595.0,baci_reconciled
+2011,imports,USA,apparel,583608962.0,baci_reconciled
+2011,imports,USA,other manufactured goods,23617704511.0,baci_reconciled
+2011,imports,China,agricultural goods,2657411047.0,baci_reconciled
+2011,imports,China,minerals & metals,4318891581.0,baci_reconciled
+2011,imports,China,apparel,9944070257.0,baci_reconciled
+2011,imports,China,other manufactured goods,57288774863.0,baci_reconciled
+2011,imports,N_America_ex_US,agricultural goods,1546055868.0,baci_reconciled
+2011,imports,N_America_ex_US,minerals & metals,674424919.0,baci_reconciled
+2011,imports,N_America_ex_US,apparel,130413847.0,baci_reconciled
+2011,imports,N_America_ex_US,other manufactured goods,2032113979.0,baci_reconciled
+2011,imports,S_America,agricultural goods,21137113604.0,baci_reconciled
+2011,imports,S_America,minerals & metals,3122178142.0,baci_reconciled
+2011,imports,S_America,apparel,186655433.0,baci_reconciled
+2011,imports,S_America,other manufactured goods,6942433909.0,baci_reconciled
+2011,imports,Asia_ex_China,agricultural goods,21205327297.0,baci_reconciled
+2011,imports,Asia_ex_China,minerals & metals,47060250262.0,baci_reconciled
+2011,imports,Asia_ex_China,apparel,7951035361.0,baci_reconciled
+2011,imports,Asia_ex_China,other manufactured goods,85862796792.0,baci_reconciled
+2011,imports,Europe,agricultural goods,31145226830.0,baci_reconciled
+2011,imports,Europe,minerals & metals,47294714330.0,baci_reconciled
+2011,imports,Europe,apparel,6674823434.0,baci_reconciled
+2011,imports,Europe,other manufactured goods,131337132492.0,baci_reconciled
+2011,imports,Oceania,agricultural goods,3207519408.0,baci_reconciled
+2011,imports,Oceania,minerals & metals,755699858.0,baci_reconciled
+2011,imports,Oceania,apparel,65618731.0,baci_reconciled
+2011,imports,Oceania,other manufactured goods,2581187009.0,baci_reconciled
+2011,imports,Intra_Africa,agricultural goods,15140068583.0,baci_reconciled
+2011,imports,Intra_Africa,minerals & metals,44311929213.0,baci_reconciled
+2011,imports,Intra_Africa,apparel,2972376772.0,baci_reconciled
+2011,imports,Intra_Africa,other manufactured goods,37825304188.0,baci_reconciled
+2012,imports,USA,agricultural goods,6521859740.0,baci_reconciled
+2012,imports,USA,minerals & metals,4592299857.0,baci_reconciled
+2012,imports,USA,apparel,497190340.0,baci_reconciled
+2012,imports,USA,other manufactured goods,24327088938.0,baci_reconciled
+2012,imports,China,agricultural goods,2758000822.0,baci_reconciled
+2012,imports,China,minerals & metals,4702653803.0,baci_reconciled
+2012,imports,China,apparel,11608049839.0,baci_reconciled
+2012,imports,China,other manufactured goods,63078907630.0,baci_reconciled
+2012,imports,N_America_ex_US,agricultural goods,1736741306.0,baci_reconciled
+2012,imports,N_America_ex_US,minerals & metals,438695063.0,baci_reconciled
+2012,imports,N_America_ex_US,apparel,132483529.0,baci_reconciled
+2012,imports,N_America_ex_US,other manufactured goods,2163543513.0,baci_reconciled
+2012,imports,S_America,agricultural goods,16922096436.0,baci_reconciled
+2012,imports,S_America,minerals & metals,2669118837.0,baci_reconciled
+2012,imports,S_America,apparel,110578130.0,baci_reconciled
+2012,imports,S_America,other manufactured goods,7267180558.0,baci_reconciled
+2012,imports,Asia_ex_China,agricultural goods,21503177868.0,baci_reconciled
+2012,imports,Asia_ex_China,minerals & metals,49968222517.0,baci_reconciled
+2012,imports,Asia_ex_China,apparel,8492594612.0,baci_reconciled
+2012,imports,Asia_ex_China,other manufactured goods,87975937894.0,baci_reconciled
+2012,imports,Europe,agricultural goods,32590837798.0,baci_reconciled
+2012,imports,Europe,minerals & metals,55774319365.0,baci_reconciled
+2012,imports,Europe,apparel,6075688479.0,baci_reconciled
+2012,imports,Europe,other manufactured goods,132550127735.0,baci_reconciled
+2012,imports,Oceania,agricultural goods,2694611728.0,baci_reconciled
+2012,imports,Oceania,minerals & metals,518122379.0,baci_reconciled
+2012,imports,Oceania,apparel,108695792.0,baci_reconciled
+2012,imports,Oceania,other manufactured goods,2487960770.0,baci_reconciled
+2012,imports,Intra_Africa,agricultural goods,15142964351.0,baci_reconciled
+2012,imports,Intra_Africa,minerals & metals,48928179795.0,baci_reconciled
+2012,imports,Intra_Africa,apparel,2471079632.0,baci_reconciled
+2012,imports,Intra_Africa,other manufactured goods,40088652891.0,baci_reconciled
+2013,imports,USA,agricultural goods,5682164318.0,baci_reconciled
+2013,imports,USA,minerals & metals,6898527560.0,baci_reconciled
+2013,imports,USA,apparel,524460503.0,baci_reconciled
+2013,imports,USA,other manufactured goods,23284885596.0,baci_reconciled
+2013,imports,China,agricultural goods,2802067236.0,baci_reconciled
+2013,imports,China,minerals & metals,5739135948.0,baci_reconciled
+2013,imports,China,apparel,11757052917.0,baci_reconciled
+2013,imports,China,other manufactured goods,68533411337.0,baci_reconciled
+2013,imports,N_America_ex_US,agricultural goods,1790453951.0,baci_reconciled
+2013,imports,N_America_ex_US,minerals & metals,820171315.0,baci_reconciled
+2013,imports,N_America_ex_US,apparel,117829319.0,baci_reconciled
+2013,imports,N_America_ex_US,other manufactured goods,1861247386.0,baci_reconciled
+2013,imports,S_America,agricultural goods,14874119982.0,baci_reconciled
+2013,imports,S_America,minerals & metals,2580614086.0,baci_reconciled
+2013,imports,S_America,apparel,124984878.0,baci_reconciled
+2013,imports,S_America,other manufactured goods,7249106828.0,baci_reconciled
+2013,imports,Asia_ex_China,agricultural goods,21732839770.0,baci_reconciled
+2013,imports,Asia_ex_China,minerals & metals,55223395935.0,baci_reconciled
+2013,imports,Asia_ex_China,apparel,8836551770.0,baci_reconciled
+2013,imports,Asia_ex_China,other manufactured goods,90431785560.0,baci_reconciled
+2013,imports,Europe,agricultural goods,30665171579.0,baci_reconciled
+2013,imports,Europe,minerals & metals,51335653429.0,baci_reconciled
+2013,imports,Europe,apparel,6173196928.0,baci_reconciled
+2013,imports,Europe,other manufactured goods,141812312144.0,baci_reconciled
+2013,imports,Oceania,agricultural goods,3040159561.0000005,baci_reconciled
+2013,imports,Oceania,minerals & metals,407950586.0,baci_reconciled
+2013,imports,Oceania,apparel,83753283.0,baci_reconciled
+2013,imports,Oceania,other manufactured goods,2438532784.0,baci_reconciled
+2013,imports,Intra_Africa,agricultural goods,16630088070.0,baci_reconciled
+2013,imports,Intra_Africa,minerals & metals,42797301227.0,baci_reconciled
+2013,imports,Intra_Africa,apparel,2673248632.0,baci_reconciled
+2013,imports,Intra_Africa,other manufactured goods,44523738687.0,baci_reconciled
+2014,imports,USA,agricultural goods,6065059316.0,baci_reconciled
+2014,imports,USA,minerals & metals,5895847504.999999,baci_reconciled
+2014,imports,USA,apparel,592360671.0,baci_reconciled
+2014,imports,USA,other manufactured goods,26333709276.0,baci_reconciled
+2014,imports,China,agricultural goods,2486262403.0,baci_reconciled
+2014,imports,China,minerals & metals,7455217010.0,baci_reconciled
+2014,imports,China,apparel,13140485268.0,baci_reconciled
+2014,imports,China,other manufactured goods,77572098867.0,baci_reconciled
+2014,imports,N_America_ex_US,agricultural goods,2207166776.0,baci_reconciled
+2014,imports,N_America_ex_US,minerals & metals,1362556152.0,baci_reconciled
+2014,imports,N_America_ex_US,apparel,126421164.0,baci_reconciled
+2014,imports,N_America_ex_US,other manufactured goods,1907621640.0,baci_reconciled
+2014,imports,S_America,agricultural goods,14073568690.0,baci_reconciled
+2014,imports,S_America,minerals & metals,3106786660.0,baci_reconciled
+2014,imports,S_America,apparel,90347155.0,baci_reconciled
+2014,imports,S_America,other manufactured goods,8211088926.0,baci_reconciled
+2014,imports,Asia_ex_China,agricultural goods,23470995397.0,baci_reconciled
+2014,imports,Asia_ex_China,minerals & metals,56274524857.0,baci_reconciled
+2014,imports,Asia_ex_China,apparel,9307663784.0,baci_reconciled
+2014,imports,Asia_ex_China,other manufactured goods,91483816057.0,baci_reconciled
+2014,imports,Europe,agricultural goods,37457676254.0,baci_reconciled
+2014,imports,Europe,minerals & metals,48725780699.0,baci_reconciled
+2014,imports,Europe,apparel,6488904242.0,baci_reconciled
+2014,imports,Europe,other manufactured goods,142880183708.0,baci_reconciled
+2014,imports,Oceania,agricultural goods,3216887164.0,baci_reconciled
+2014,imports,Oceania,minerals & metals,330770484.0,baci_reconciled
+2014,imports,Oceania,apparel,83992392.0,baci_reconciled
+2014,imports,Oceania,other manufactured goods,2234364248.0,baci_reconciled
+2014,imports,Intra_Africa,agricultural goods,15864068297.0,baci_reconciled
+2014,imports,Intra_Africa,minerals & metals,45502400960.0,baci_reconciled
+2014,imports,Intra_Africa,apparel,2749435599.0,baci_reconciled
+2014,imports,Intra_Africa,other manufactured goods,39851254702.0,baci_reconciled
+2015,imports,USA,agricultural goods,4747852120.0,baci_reconciled
+2015,imports,USA,minerals & metals,2970336463.0,baci_reconciled
+2015,imports,USA,apparel,503997024.0,baci_reconciled
+2015,imports,USA,other manufactured goods,24470212859.0,baci_reconciled
+2015,imports,China,agricultural goods,2320314540.0,baci_reconciled
+2015,imports,China,minerals & metals,8068610295.0,baci_reconciled
+2015,imports,China,apparel,13931978583.0,baci_reconciled
+2015,imports,China,other manufactured goods,75920036783.0,baci_reconciled
+2015,imports,N_America_ex_US,agricultural goods,1886572047.0000002,baci_reconciled
+2015,imports,N_America_ex_US,minerals & metals,724002543.0,baci_reconciled
+2015,imports,N_America_ex_US,apparel,101696246.0,baci_reconciled
+2015,imports,N_America_ex_US,other manufactured goods,1851837770.0,baci_reconciled
+2015,imports,S_America,agricultural goods,11923129336.0,baci_reconciled
+2015,imports,S_America,minerals & metals,1840979433.0,baci_reconciled
+2015,imports,S_America,apparel,70639642.0,baci_reconciled
+2015,imports,S_America,other manufactured goods,6240731650.0,baci_reconciled
+2015,imports,Asia_ex_China,agricultural goods,20252240594.0,baci_reconciled
+2015,imports,Asia_ex_China,minerals & metals,42661257960.0,baci_reconciled
+2015,imports,Asia_ex_China,apparel,9071909022.0,baci_reconciled
+2015,imports,Asia_ex_China,other manufactured goods,83968702921.0,baci_reconciled
+2015,imports,Europe,agricultural goods,29959330662.0,baci_reconciled
+2015,imports,Europe,minerals & metals,37896556709.0,baci_reconciled
+2015,imports,Europe,apparel,5510708342.0,baci_reconciled
+2015,imports,Europe,other manufactured goods,126536266326.0,baci_reconciled
+2015,imports,Oceania,agricultural goods,2536247965.0,baci_reconciled
+2015,imports,Oceania,minerals & metals,302993877.0,baci_reconciled
+2015,imports,Oceania,apparel,81220558.0,baci_reconciled
+2015,imports,Oceania,other manufactured goods,2422695859.0,baci_reconciled
+2015,imports,Intra_Africa,agricultural goods,14532217866.0,baci_reconciled
+2015,imports,Intra_Africa,minerals & metals,34699817605.0,baci_reconciled
+2015,imports,Intra_Africa,apparel,2467144072.0,baci_reconciled
+2015,imports,Intra_Africa,other manufactured goods,39309718587.0,baci_reconciled
+2016,imports,USA,agricultural goods,4124483096.0,baci_reconciled
+2016,imports,USA,minerals & metals,2418223296.0,baci_reconciled
+2016,imports,USA,apparel,434443850.0,baci_reconciled
+2016,imports,USA,other manufactured goods,20805116440.0,baci_reconciled
+2016,imports,China,agricultural goods,2251341936.0,baci_reconciled
+2016,imports,China,minerals & metals,6965312126.0,baci_reconciled
+2016,imports,China,apparel,12673488787.0,baci_reconciled
+2016,imports,China,other manufactured goods,67520279691.0,baci_reconciled
+2016,imports,N_America_ex_US,agricultural goods,1620155439.0,baci_reconciled
+2016,imports,N_America_ex_US,minerals & metals,526451537.0,baci_reconciled
+2016,imports,N_America_ex_US,apparel,88438244.0,baci_reconciled
+2016,imports,N_America_ex_US,other manufactured goods,1272722834.0,baci_reconciled
+2016,imports,S_America,agricultural goods,12626495352.0,baci_reconciled
+2016,imports,S_America,minerals & metals,1845672453.0,baci_reconciled
+2016,imports,S_America,apparel,86401456.0,baci_reconciled
+2016,imports,S_America,other manufactured goods,6026750864.0,baci_reconciled
+2016,imports,Asia_ex_China,agricultural goods,20014187201.0,baci_reconciled
+2016,imports,Asia_ex_China,minerals & metals,34394221523.0,baci_reconciled
+2016,imports,Asia_ex_China,apparel,8050654077.0,baci_reconciled
+2016,imports,Asia_ex_China,other manufactured goods,78822320161.0,baci_reconciled
+2016,imports,Europe,agricultural goods,32340708724.0,baci_reconciled
+2016,imports,Europe,minerals & metals,33682965231.0,baci_reconciled
+2016,imports,Europe,apparel,5225098487.0,baci_reconciled
+2016,imports,Europe,other manufactured goods,122741597072.0,baci_reconciled
+2016,imports,Oceania,agricultural goods,2091815055.0,baci_reconciled
+2016,imports,Oceania,minerals & metals,421542727.0,baci_reconciled
+2016,imports,Oceania,apparel,74165479.0,baci_reconciled
+2016,imports,Oceania,other manufactured goods,2108682514.0,baci_reconciled
+2016,imports,Intra_Africa,agricultural goods,14677437025.0,baci_reconciled
+2016,imports,Intra_Africa,minerals & metals,28715940946.0,baci_reconciled
+2016,imports,Intra_Africa,apparel,2341794946.0,baci_reconciled
+2016,imports,Intra_Africa,other manufactured goods,31829167094.0,baci_reconciled
+2017,imports,USA,agricultural goods,4567093193.0,baci_reconciled
+2017,imports,USA,minerals & metals,3914632632.0,baci_reconciled
+2017,imports,USA,apparel,459599412.0,baci_reconciled
+2017,imports,USA,other manufactured goods,19592859219.0,baci_reconciled
+2017,imports,China,agricultural goods,2948526922.0,baci_reconciled
+2017,imports,China,minerals & metals,6080354589.0,baci_reconciled
+2017,imports,China,apparel,13304835079.0,baci_reconciled
+2017,imports,China,other manufactured goods,69960810288.0,baci_reconciled
+2017,imports,N_America_ex_US,agricultural goods,1753952263.0,baci_reconciled
+2017,imports,N_America_ex_US,minerals & metals,698385208.0,baci_reconciled
+2017,imports,N_America_ex_US,apparel,91494127.0,baci_reconciled
+2017,imports,N_America_ex_US,other manufactured goods,1271534444.0,baci_reconciled
+2017,imports,S_America,agricultural goods,14511563647.0,baci_reconciled
+2017,imports,S_America,minerals & metals,2059925451.0,baci_reconciled
+2017,imports,S_America,apparel,73236880.0,baci_reconciled
+2017,imports,S_America,other manufactured goods,6189593394.0,baci_reconciled
+2017,imports,Asia_ex_China,agricultural goods,22287105010.0,baci_reconciled
+2017,imports,Asia_ex_China,minerals & metals,40019341378.0,baci_reconciled
+2017,imports,Asia_ex_China,apparel,8352411825.0,baci_reconciled
+2017,imports,Asia_ex_China,other manufactured goods,72725950690.0,baci_reconciled
+2017,imports,Europe,agricultural goods,31181869764.0,baci_reconciled
+2017,imports,Europe,minerals & metals,38248260875.0,baci_reconciled
+2017,imports,Europe,apparel,5428856242.0,baci_reconciled
+2017,imports,Europe,other manufactured goods,122070494289.0,baci_reconciled
+2017,imports,Oceania,agricultural goods,2113725649.0,baci_reconciled
+2017,imports,Oceania,minerals & metals,499356822.0,baci_reconciled
+2017,imports,Oceania,apparel,55569520.0,baci_reconciled
+2017,imports,Oceania,other manufactured goods,2135856989.0,baci_reconciled
+2017,imports,Intra_Africa,agricultural goods,15431247677.0,baci_reconciled
+2017,imports,Intra_Africa,minerals & metals,34051776375.0,baci_reconciled
+2017,imports,Intra_Africa,apparel,2600192804.0,baci_reconciled
+2017,imports,Intra_Africa,other manufactured goods,29426559056.0,baci_reconciled
+2018,imports,USA,agricultural goods,5236777166.0,baci_reconciled
+2018,imports,USA,minerals & metals,5404187205.0,baci_reconciled
+2018,imports,USA,apparel,499677226.0,baci_reconciled
+2018,imports,USA,other manufactured goods,19711093674.0,baci_reconciled
+2018,imports,China,agricultural goods,3298451171.0,baci_reconciled
+2018,imports,China,minerals & metals,7046061615.000001,baci_reconciled
+2018,imports,China,apparel,14976485720.0,baci_reconciled
+2018,imports,China,other manufactured goods,77843983527.0,baci_reconciled
+2018,imports,N_America_ex_US,agricultural goods,1654379542.0,baci_reconciled
+2018,imports,N_America_ex_US,minerals & metals,757778000.0,baci_reconciled
+2018,imports,N_America_ex_US,apparel,92387219.0,baci_reconciled
+2018,imports,N_America_ex_US,other manufactured goods,1544894169.0,baci_reconciled
+2018,imports,S_America,agricultural goods,11760695151.0,baci_reconciled
+2018,imports,S_America,minerals & metals,2180356855.0,baci_reconciled
+2018,imports,S_America,apparel,89303480.0,baci_reconciled
+2018,imports,S_America,other manufactured goods,4913869870.0,baci_reconciled
+2018,imports,Asia_ex_China,agricultural goods,22914525089.0,baci_reconciled
+2018,imports,Asia_ex_China,minerals & metals,51143303177.0,baci_reconciled
+2018,imports,Asia_ex_China,apparel,8904004896.0,baci_reconciled
+2018,imports,Asia_ex_China,other manufactured goods,84807608006.0,baci_reconciled
+2018,imports,Europe,agricultural goods,34268730024.0,baci_reconciled
+2018,imports,Europe,minerals & metals,45276482612.0,baci_reconciled
+2018,imports,Europe,apparel,6008330158.0,baci_reconciled
+2018,imports,Europe,other manufactured goods,123710015567.0,baci_reconciled
+2018,imports,Oceania,agricultural goods,1801602629.0,baci_reconciled
+2018,imports,Oceania,minerals & metals,567900438.0,baci_reconciled
+2018,imports,Oceania,apparel,71008604.0,baci_reconciled
+2018,imports,Oceania,other manufactured goods,2475209413.0,baci_reconciled
+2018,imports,Intra_Africa,agricultural goods,16517857978.0,baci_reconciled
+2018,imports,Intra_Africa,minerals & metals,41236142816.0,baci_reconciled
+2018,imports,Intra_Africa,apparel,2714212380.0,baci_reconciled
+2018,imports,Intra_Africa,other manufactured goods,32075025189.0,baci_reconciled
+2019,imports,USA,agricultural goods,5346441336.0,baci_reconciled
+2019,imports,USA,minerals & metals,4835615934.0,baci_reconciled
+2019,imports,USA,apparel,430361661.0,baci_reconciled
+2019,imports,USA,other manufactured goods,20560102554.0,baci_reconciled
+2019,imports,China,agricultural goods,3472549845.0,baci_reconciled
+2019,imports,China,minerals & metals,6595451726.0,baci_reconciled
+2019,imports,China,apparel,14934446201.0,baci_reconciled
+2019,imports,China,other manufactured goods,82003045737.0,baci_reconciled
+2019,imports,N_America_ex_US,agricultural goods,1544298877.0,baci_reconciled
+2019,imports,N_America_ex_US,minerals & metals,765130593.0,baci_reconciled
+2019,imports,N_America_ex_US,apparel,102375778.0,baci_reconciled
+2019,imports,N_America_ex_US,other manufactured goods,2050576488.0,baci_reconciled
+2019,imports,S_America,agricultural goods,12055088216.0,baci_reconciled
+2019,imports,S_America,minerals & metals,2260474596.0,baci_reconciled
+2019,imports,S_America,apparel,72805349.0,baci_reconciled
+2019,imports,S_America,other manufactured goods,4336760111.0,baci_reconciled
+2019,imports,Asia_ex_China,agricultural goods,21552517402.0,baci_reconciled
+2019,imports,Asia_ex_China,minerals & metals,48933254310.0,baci_reconciled
+2019,imports,Asia_ex_China,apparel,8943096921.0,baci_reconciled
+2019,imports,Asia_ex_China,other manufactured goods,81381241693.0,baci_reconciled
+2019,imports,Europe,agricultural goods,32387250262.0,baci_reconciled
+2019,imports,Europe,minerals & metals,39777614243.0,baci_reconciled
+2019,imports,Europe,apparel,5745589873.0,baci_reconciled
+2019,imports,Europe,other manufactured goods,123511373530.0,baci_reconciled
+2019,imports,Oceania,agricultural goods,1360847534.0,baci_reconciled
+2019,imports,Oceania,minerals & metals,515092050.0,baci_reconciled
+2019,imports,Oceania,apparel,74271499.0,baci_reconciled
+2019,imports,Oceania,other manufactured goods,2088224384.0,baci_reconciled
+2019,imports,Intra_Africa,agricultural goods,15758984968.0,baci_reconciled
+2019,imports,Intra_Africa,minerals & metals,38293540262.0,baci_reconciled
+2019,imports,Intra_Africa,apparel,2591256774.0,baci_reconciled
+2019,imports,Intra_Africa,other manufactured goods,35437379126.0,baci_reconciled
+2020,imports,USA,agricultural goods,5105544179.0,baci_reconciled
+2020,imports,USA,minerals & metals,3321613900.0,baci_reconciled
+2020,imports,USA,apparel,361578693.0,baci_reconciled
+2020,imports,USA,other manufactured goods,18612328424.0,baci_reconciled
+2020,imports,China,agricultural goods,3462407365.0,baci_reconciled
+2020,imports,China,minerals & metals,6481113109.0,baci_reconciled
+2020,imports,China,apparel,15377664373.0,baci_reconciled
+2020,imports,China,other manufactured goods,84380479977.0,baci_reconciled
+2020,imports,N_America_ex_US,agricultural goods,1773288662.0000002,baci_reconciled
+2020,imports,N_America_ex_US,minerals & metals,634793276.0,baci_reconciled
+2020,imports,N_America_ex_US,apparel,68895349.0,baci_reconciled
+2020,imports,N_America_ex_US,other manufactured goods,1682556274.0,baci_reconciled
+2020,imports,S_America,agricultural goods,12446618062.0,baci_reconciled
+2020,imports,S_America,minerals & metals,1600197914.0,baci_reconciled
+2020,imports,S_America,apparel,48956204.0,baci_reconciled
+2020,imports,S_America,other manufactured goods,3821026511.0,baci_reconciled
+2020,imports,Asia_ex_China,agricultural goods,23716915550.0,baci_reconciled
+2020,imports,Asia_ex_China,minerals & metals,36308101856.0,baci_reconciled
+2020,imports,Asia_ex_China,apparel,7605694333.0,baci_reconciled
+2020,imports,Asia_ex_China,other manufactured goods,73401061922.0,baci_reconciled
+2020,imports,Europe,agricultural goods,36124753959.0,baci_reconciled
+2020,imports,Europe,minerals & metals,31962414849.0,baci_reconciled
+2020,imports,Europe,apparel,5075243715.0,baci_reconciled
+2020,imports,Europe,other manufactured goods,106689823457.0,baci_reconciled
+2020,imports,Oceania,agricultural goods,1496989099.0,baci_reconciled
+2020,imports,Oceania,minerals & metals,282704716.0,baci_reconciled
+2020,imports,Oceania,apparel,45283351.0,baci_reconciled
+2020,imports,Oceania,other manufactured goods,1481906380.0,baci_reconciled
+2020,imports,Intra_Africa,agricultural goods,15436345774.0,baci_reconciled
+2020,imports,Intra_Africa,minerals & metals,31781028744.0,baci_reconciled
+2020,imports,Intra_Africa,apparel,2208279744.0,baci_reconciled
+2020,imports,Intra_Africa,other manufactured goods,29502575639.0,baci_reconciled
+2021,imports,USA,agricultural goods,6227572832.0,baci_reconciled
+2021,imports,USA,minerals & metals,5580389393.0,baci_reconciled
+2021,imports,USA,apparel,434057064.0,baci_reconciled
+2021,imports,USA,other manufactured goods,18626057913.0,baci_reconciled
+2021,imports,China,agricultural goods,3484510525.0,baci_reconciled
+2021,imports,China,minerals & metals,8940005602.0,baci_reconciled
+2021,imports,China,apparel,16848043468.0,baci_reconciled
+2021,imports,China,other manufactured goods,98378503903.0,baci_reconciled
+2021,imports,N_America_ex_US,agricultural goods,2242010881.0,baci_reconciled
+2021,imports,N_America_ex_US,minerals & metals,705782618.0,baci_reconciled
+2021,imports,N_America_ex_US,apparel,79682522.0,baci_reconciled
+2021,imports,N_America_ex_US,other manufactured goods,1835429756.0,baci_reconciled
+2021,imports,S_America,agricultural goods,14308621424.0,baci_reconciled
+2021,imports,S_America,minerals & metals,2049515330.0,baci_reconciled
+2021,imports,S_America,apparel,66177755.0,baci_reconciled
+2021,imports,S_America,other manufactured goods,4460300227.0,baci_reconciled
+2021,imports,Asia_ex_China,agricultural goods,29838879901.0,baci_reconciled
+2021,imports,Asia_ex_China,minerals & metals,55842684294.0,baci_reconciled
+2021,imports,Asia_ex_China,apparel,9513568094.0,baci_reconciled
+2021,imports,Asia_ex_China,other manufactured goods,95239782171.0,baci_reconciled
+2021,imports,Europe,agricultural goods,39674529186.0,baci_reconciled
+2021,imports,Europe,minerals & metals,44804973640.0,baci_reconciled
+2021,imports,Europe,apparel,6016376113.0,baci_reconciled
+2021,imports,Europe,other manufactured goods,120423511745.0,baci_reconciled
+2021,imports,Oceania,agricultural goods,2373826906.0,baci_reconciled
+2021,imports,Oceania,minerals & metals,551053597.0,baci_reconciled
+2021,imports,Oceania,apparel,45901864.0,baci_reconciled
+2021,imports,Oceania,other manufactured goods,1616323269.0,baci_reconciled
+2021,imports,Intra_Africa,agricultural goods,19540255058.0,baci_reconciled
+2021,imports,Intra_Africa,minerals & metals,37507731069.0,baci_reconciled
+2021,imports,Intra_Africa,apparel,2917850584.0,baci_reconciled
+2021,imports,Intra_Africa,other manufactured goods,36374152919.0,baci_reconciled
+2022,imports,USA,agricultural goods,7270929042.000001,baci_reconciled
+2022,imports,USA,minerals & metals,8155875138.0,baci_reconciled
+2022,imports,USA,apparel,328498644.0,baci_reconciled
+2022,imports,USA,other manufactured goods,19486075589.0,baci_reconciled
+2022,imports,China,agricultural goods,3386267388.0,baci_reconciled
+2022,imports,China,minerals & metals,10549150136.0,baci_reconciled
+2022,imports,China,apparel,16801146167.0,baci_reconciled
+2022,imports,China,other manufactured goods,109654452029.0,baci_reconciled
+2022,imports,N_America_ex_US,agricultural goods,1985369198.0,baci_reconciled
+2022,imports,N_America_ex_US,minerals & metals,860803234.0,baci_reconciled
+2022,imports,N_America_ex_US,apparel,79946659.0,baci_reconciled
+2022,imports,N_America_ex_US,other manufactured goods,2050504729.0,baci_reconciled
+2022,imports,S_America,agricultural goods,19089361317.0,baci_reconciled
+2022,imports,S_America,minerals & metals,3806571212.0,baci_reconciled
+2022,imports,S_America,apparel,86678094.0,baci_reconciled
+2022,imports,S_America,other manufactured goods,5954174289.0,baci_reconciled
+2022,imports,Asia_ex_China,agricultural goods,33415771621.0,baci_reconciled
+2022,imports,Asia_ex_China,minerals & metals,93446009832.0,baci_reconciled
+2022,imports,Asia_ex_China,apparel,9680365003.0,baci_reconciled
+2022,imports,Asia_ex_China,other manufactured goods,104587332219.0,baci_reconciled
+2022,imports,Europe,agricultural goods,38830237836.0,baci_reconciled
+2022,imports,Europe,minerals & metals,59625962068.0,baci_reconciled
+2022,imports,Europe,apparel,5959954757.0,baci_reconciled
+2022,imports,Europe,other manufactured goods,117445520349.0,baci_reconciled
+2022,imports,Oceania,agricultural goods,2964316973.0,baci_reconciled
+2022,imports,Oceania,minerals & metals,586428962.0,baci_reconciled
+2022,imports,Oceania,apparel,70277574.0,baci_reconciled
+2022,imports,Oceania,other manufactured goods,2396049796.0,baci_reconciled
+2022,imports,Intra_Africa,agricultural goods,20774261236.0,baci_reconciled
+2022,imports,Intra_Africa,minerals & metals,45760310903.0,baci_reconciled
+2022,imports,Intra_Africa,apparel,3435309568.0,baci_reconciled
+2022,imports,Intra_Africa,other manufactured goods,39901764506.0,baci_reconciled
+2023,imports,USA,agricultural goods,4680370261.0,baci_reconciled
+2023,imports,USA,minerals & metals,8363826796.0,baci_reconciled
+2023,imports,USA,apparel,372996104.0,baci_reconciled
+2023,imports,USA,other manufactured goods,21267686423.0,baci_reconciled
+2023,imports,China,agricultural goods,3728097857.0,baci_reconciled
+2023,imports,China,minerals & metals,10413527263.0,baci_reconciled
+2023,imports,China,apparel,17054359806.0,baci_reconciled
+2023,imports,China,other manufactured goods,118769700239.0,baci_reconciled
+2023,imports,N_America_ex_US,agricultural goods,2523785468.0,baci_reconciled
+2023,imports,N_America_ex_US,minerals & metals,633687067.0,baci_reconciled
+2023,imports,N_America_ex_US,apparel,76522764.0,baci_reconciled
+2023,imports,N_America_ex_US,other manufactured goods,1893961888.0,baci_reconciled
+2023,imports,S_America,agricultural goods,16240493562.0,baci_reconciled
+2023,imports,S_America,minerals & metals,3685444976.0,baci_reconciled
+2023,imports,S_America,apparel,64401805.0,baci_reconciled
+2023,imports,S_America,other manufactured goods,4822522887.0,baci_reconciled
+2023,imports,Asia_ex_China,agricultural goods,31335232228.0,baci_reconciled
+2023,imports,Asia_ex_China,minerals & metals,82768807077.0,baci_reconciled
+2023,imports,Asia_ex_China,apparel,8349788007.0,baci_reconciled
+2023,imports,Asia_ex_China,other manufactured goods,105277463861.0,baci_reconciled
+2023,imports,Europe,agricultural goods,38548319036.0,baci_reconciled
+2023,imports,Europe,minerals & metals,54413072512.0,baci_reconciled
+2023,imports,Europe,apparel,6179790776.0,baci_reconciled
+2023,imports,Europe,other manufactured goods,123518715532.0,baci_reconciled
+2023,imports,Oceania,agricultural goods,2047628219.0,baci_reconciled
+2023,imports,Oceania,minerals & metals,569836164.0,baci_reconciled
+2023,imports,Oceania,apparel,46056290.0,baci_reconciled
+2023,imports,Oceania,other manufactured goods,1797753681.0,baci_reconciled
+2023,imports,Intra_Africa,agricultural goods,21025956189.0,baci_reconciled
+2023,imports,Intra_Africa,minerals & metals,50850262024.0,baci_reconciled
+2023,imports,Intra_Africa,apparel,3175617177.0,baci_reconciled
+2023,imports,Intra_Africa,other manufactured goods,39304496012.0,baci_reconciled
+2024,imports,USA,agricultural goods,4588978238.0,baci_reconciled
+2024,imports,USA,minerals & metals,12045370163.0,baci_reconciled
+2024,imports,USA,apparel,342256296.0,baci_reconciled
+2024,imports,USA,other manufactured goods,20929582999.0,baci_reconciled
+2024,imports,China,agricultural goods,4173244936.0,baci_reconciled
+2024,imports,China,minerals & metals,13294984047.0,baci_reconciled
+2024,imports,China,apparel,18380824909.0,baci_reconciled
+2024,imports,China,other manufactured goods,131846170202.0,baci_reconciled
+2024,imports,N_America_ex_US,agricultural goods,2010518664.0,baci_reconciled
+2024,imports,N_America_ex_US,minerals & metals,735660942.0,baci_reconciled
+2024,imports,N_America_ex_US,apparel,63146855.0,baci_reconciled
+2024,imports,N_America_ex_US,other manufactured goods,1758130608.0,baci_reconciled
+2024,imports,S_America,agricultural goods,17838451898.0,baci_reconciled
+2024,imports,S_America,minerals & metals,4558802142.0,baci_reconciled
+2024,imports,S_America,apparel,133935457.00000001,baci_reconciled
+2024,imports,S_America,other manufactured goods,4366203963.0,baci_reconciled
+2024,imports,Asia_ex_China,agricultural goods,27619895158.0,baci_reconciled
+2024,imports,Asia_ex_China,minerals & metals,63906729250.0,baci_reconciled
+2024,imports,Asia_ex_China,apparel,8140227002.0,baci_reconciled
+2024,imports,Asia_ex_China,other manufactured goods,85722540895.0,baci_reconciled
+2024,imports,Europe,agricultural goods,38540206215.0,baci_reconciled
+2024,imports,Europe,minerals & metals,46005742049.0,baci_reconciled
+2024,imports,Europe,apparel,7437430753.0,baci_reconciled
+2024,imports,Europe,other manufactured goods,129018341442.0,baci_reconciled
+2024,imports,Oceania,agricultural goods,2080672011.0,baci_reconciled
+2024,imports,Oceania,minerals & metals,456668717.0,baci_reconciled
+2024,imports,Oceania,apparel,34670465.0,baci_reconciled
+2024,imports,Oceania,other manufactured goods,2231885208.9999995,baci_reconciled
+2024,imports,Intra_Africa,agricultural goods,20253153663.0,baci_reconciled
+2024,imports,Intra_Africa,minerals & metals,43866771580.0,baci_reconciled
+2024,imports,Intra_Africa,apparel,3227587135.0,baci_reconciled
+2024,imports,Intra_Africa,other manufactured goods,34716285165.0,baci_reconciled
+2000,exports,USA,agricultural goods,975538511.0,baci_reconciled
+2000,exports,USA,minerals & metals,24054664771.0,baci_reconciled
+2000,exports,USA,apparel,1608909222.0,baci_reconciled
+2000,exports,USA,other manufactured goods,1850902706.0,baci_reconciled
+2000,exports,China,agricultural goods,154347614.0,baci_reconciled
+2000,exports,China,minerals & metals,5462198890.0,baci_reconciled
+2000,exports,China,apparel,47519513.0,baci_reconciled
+2000,exports,China,other manufactured goods,565368273.0,baci_reconciled
+2000,exports,N_America_ex_US,agricultural goods,195331509.0,baci_reconciled
+2000,exports,N_America_ex_US,minerals & metals,1294597311.0,baci_reconciled
+2000,exports,N_America_ex_US,apparel,60333546.0,baci_reconciled
+2000,exports,N_America_ex_US,other manufactured goods,235069054.0,baci_reconciled
+2000,exports,S_America,agricultural goods,158490949.0,baci_reconciled
+2000,exports,S_America,minerals & metals,5402729633.0,baci_reconciled
+2000,exports,S_America,apparel,223455141.0,baci_reconciled
+2000,exports,S_America,other manufactured goods,601544338.0,baci_reconciled
+2000,exports,Asia_ex_China,agricultural goods,3479422056.0,baci_reconciled
+2000,exports,Asia_ex_China,minerals & metals,18603532779.0,baci_reconciled
+2000,exports,Asia_ex_China,apparel,1070955463.0,baci_reconciled
+2000,exports,Asia_ex_China,other manufactured goods,4329824059.0,baci_reconciled
+2000,exports,Europe,agricultural goods,10862362804.0,baci_reconciled
+2000,exports,Europe,minerals & metals,55328391034.0,baci_reconciled
+2000,exports,Europe,apparel,8511238203.0,baci_reconciled
+2000,exports,Europe,other manufactured goods,12159112267.0,baci_reconciled
+2000,exports,Oceania,agricultural goods,120066156.0,baci_reconciled
+2000,exports,Oceania,minerals & metals,276069530.0,baci_reconciled
+2000,exports,Oceania,apparel,33690277.0,baci_reconciled
+2000,exports,Oceania,other manufactured goods,503106673.0,baci_reconciled
+2000,exports,Intra_Africa,agricultural goods,4117366622.0,baci_reconciled
+2000,exports,Intra_Africa,minerals & metals,6744568506.0,baci_reconciled
+2000,exports,Intra_Africa,apparel,1031777829.0,baci_reconciled
+2000,exports,Intra_Africa,other manufactured goods,7992324155.0,baci_reconciled
+2001,exports,USA,agricultural goods,965709739.0,baci_reconciled
+2001,exports,USA,minerals & metals,20965013797.0,baci_reconciled
+2001,exports,USA,apparel,1815665983.0,baci_reconciled
+2001,exports,USA,other manufactured goods,2194079464.0,baci_reconciled
+2001,exports,China,agricultural goods,199627678.0,baci_reconciled
+2001,exports,China,minerals & metals,4678614691.0,baci_reconciled
+2001,exports,China,apparel,50327474.0,baci_reconciled
+2001,exports,China,other manufactured goods,720146168.0,baci_reconciled
+2001,exports,N_America_ex_US,agricultural goods,175545823.0,baci_reconciled
+2001,exports,N_America_ex_US,minerals & metals,1106482120.0,baci_reconciled
+2001,exports,N_America_ex_US,apparel,72453284.0,baci_reconciled
+2001,exports,N_America_ex_US,other manufactured goods,143104082.0,baci_reconciled
+2001,exports,S_America,agricultural goods,128140129.0,baci_reconciled
+2001,exports,S_America,minerals & metals,5067943601.0,baci_reconciled
+2001,exports,S_America,apparel,132797033.0,baci_reconciled
+2001,exports,S_America,other manufactured goods,834880679.0,baci_reconciled
+2001,exports,Asia_ex_China,agricultural goods,3447401803.0,baci_reconciled
+2001,exports,Asia_ex_China,minerals & metals,17457543701.0,baci_reconciled
+2001,exports,Asia_ex_China,apparel,1022051971.0,baci_reconciled
+2001,exports,Asia_ex_China,other manufactured goods,4596892721.0,baci_reconciled
+2001,exports,Europe,agricultural goods,11588380054.0,baci_reconciled
+2001,exports,Europe,minerals & metals,52979265590.0,baci_reconciled
+2001,exports,Europe,apparel,8724410843.0,baci_reconciled
+2001,exports,Europe,other manufactured goods,13252039486.0,baci_reconciled
+2001,exports,Oceania,agricultural goods,127251646.0,baci_reconciled
+2001,exports,Oceania,minerals & metals,176309615.0,baci_reconciled
+2001,exports,Oceania,apparel,33254555.0,baci_reconciled
+2001,exports,Oceania,other manufactured goods,532635727.0,baci_reconciled
+2001,exports,Intra_Africa,agricultural goods,4423755326.0,baci_reconciled
+2001,exports,Intra_Africa,minerals & metals,6717850453.0,baci_reconciled
+2001,exports,Intra_Africa,apparel,1150876476.0,baci_reconciled
+2001,exports,Intra_Africa,other manufactured goods,8059801897.0,baci_reconciled
+2002,exports,USA,agricultural goods,1156613977.0,baci_reconciled
+2002,exports,USA,minerals & metals,18030005020.0,baci_reconciled
+2002,exports,USA,apparel,2074644514.0,baci_reconciled
+2002,exports,USA,other manufactured goods,2294169401.0,baci_reconciled
+2002,exports,China,agricultural goods,183848405.0,baci_reconciled
+2002,exports,China,minerals & metals,4743471962.0,baci_reconciled
+2002,exports,China,apparel,97390578.0,baci_reconciled
+2002,exports,China,other manufactured goods,930260625.0,baci_reconciled
+2002,exports,N_America_ex_US,agricultural goods,218591931.0,baci_reconciled
+2002,exports,N_America_ex_US,minerals & metals,1545568347.0,baci_reconciled
+2002,exports,N_America_ex_US,apparel,81550450.0,baci_reconciled
+2002,exports,N_America_ex_US,other manufactured goods,156267684.0,baci_reconciled
+2002,exports,S_America,agricultural goods,146129203.0,baci_reconciled
+2002,exports,S_America,minerals & metals,3456144040.9999995,baci_reconciled
+2002,exports,S_America,apparel,91025977.0,baci_reconciled
+2002,exports,S_America,other manufactured goods,627958301.0,baci_reconciled
+2002,exports,Asia_ex_China,agricultural goods,3406290535.0,baci_reconciled
+2002,exports,Asia_ex_China,minerals & metals,18725658146.0,baci_reconciled
+2002,exports,Asia_ex_China,apparel,1064411591.0,baci_reconciled
+2002,exports,Asia_ex_China,other manufactured goods,4795492636.0,baci_reconciled
+2002,exports,Europe,agricultural goods,12846677454.0,baci_reconciled
+2002,exports,Europe,minerals & metals,52433661286.0,baci_reconciled
+2002,exports,Europe,apparel,9029624218.0,baci_reconciled
+2002,exports,Europe,other manufactured goods,14815570027.0,baci_reconciled
+2002,exports,Oceania,agricultural goods,180390993.0,baci_reconciled
+2002,exports,Oceania,minerals & metals,524591003.0,baci_reconciled
+2002,exports,Oceania,apparel,39389415.0,baci_reconciled
+2002,exports,Oceania,other manufactured goods,638365691.0,baci_reconciled
+2002,exports,Intra_Africa,agricultural goods,4737540839.0,baci_reconciled
+2002,exports,Intra_Africa,minerals & metals,6928487193.0,baci_reconciled
+2002,exports,Intra_Africa,apparel,1271047747.0,baci_reconciled
+2002,exports,Intra_Africa,other manufactured goods,10657434807.0,baci_reconciled
+2003,exports,USA,agricultural goods,1315947225.0,baci_reconciled
+2003,exports,USA,minerals & metals,27751846358.0,baci_reconciled
+2003,exports,USA,apparel,2975820403.0,baci_reconciled
+2003,exports,USA,other manufactured goods,2582775647.0,baci_reconciled
+2003,exports,China,agricultural goods,258076625.0,baci_reconciled
+2003,exports,China,minerals & metals,8199198780.0,baci_reconciled
+2003,exports,China,apparel,349286890.0,baci_reconciled
+2003,exports,China,other manufactured goods,965717412.0,baci_reconciled
+2003,exports,N_America_ex_US,agricultural goods,306880430.0,baci_reconciled
+2003,exports,N_America_ex_US,minerals & metals,2516135300.0,baci_reconciled
+2003,exports,N_America_ex_US,apparel,69719785.0,baci_reconciled
+2003,exports,N_America_ex_US,other manufactured goods,186297602.0,baci_reconciled
+2003,exports,S_America,agricultural goods,174269625.0,baci_reconciled
+2003,exports,S_America,minerals & metals,4212892246.0000005,baci_reconciled
+2003,exports,S_America,apparel,101624354.0,baci_reconciled
+2003,exports,S_America,other manufactured goods,703207294.0000001,baci_reconciled
+2003,exports,Asia_ex_China,agricultural goods,4089278143.0,baci_reconciled
+2003,exports,Asia_ex_China,minerals & metals,21039613829.0,baci_reconciled
+2003,exports,Asia_ex_China,apparel,1373078842.0,baci_reconciled
+2003,exports,Asia_ex_China,other manufactured goods,6272245143.0,baci_reconciled
+2003,exports,Europe,agricultural goods,15636420028.0,baci_reconciled
+2003,exports,Europe,minerals & metals,59485258752.0,baci_reconciled
+2003,exports,Europe,apparel,10125587250.0,baci_reconciled
+2003,exports,Europe,other manufactured goods,17067738957.0,baci_reconciled
+2003,exports,Oceania,agricultural goods,217574994.0,baci_reconciled
+2003,exports,Oceania,minerals & metals,341749983.0,baci_reconciled
+2003,exports,Oceania,apparel,44851946.0,baci_reconciled
+2003,exports,Oceania,other manufactured goods,825554410.0,baci_reconciled
+2003,exports,Intra_Africa,agricultural goods,5714623725.0,baci_reconciled
+2003,exports,Intra_Africa,minerals & metals,8564879864.0,baci_reconciled
+2003,exports,Intra_Africa,apparel,1677358711.0,baci_reconciled
+2003,exports,Intra_Africa,other manufactured goods,11888721522.0,baci_reconciled
+2004,exports,USA,agricultural goods,1409627259.0,baci_reconciled
+2004,exports,USA,minerals & metals,41899727648.0,baci_reconciled
+2004,exports,USA,apparel,2803685656.0,baci_reconciled
+2004,exports,USA,other manufactured goods,2748674541.0,baci_reconciled
+2004,exports,China,agricultural goods,305767624.0,baci_reconciled
+2004,exports,China,minerals & metals,12662588906.0,baci_reconciled
+2004,exports,China,apparel,675393134.0,baci_reconciled
+2004,exports,China,other manufactured goods,1142315916.0,baci_reconciled
+2004,exports,N_America_ex_US,agricultural goods,341685216.0,baci_reconciled
+2004,exports,N_America_ex_US,minerals & metals,3379479550.0000005,baci_reconciled
+2004,exports,N_America_ex_US,apparel,89225459.0,baci_reconciled
+2004,exports,N_America_ex_US,other manufactured goods,306092325.0,baci_reconciled
+2004,exports,S_America,agricultural goods,195095254.0,baci_reconciled
+2004,exports,S_America,minerals & metals,8060992733.0,baci_reconciled
+2004,exports,S_America,apparel,84318058.0,baci_reconciled
+2004,exports,S_America,other manufactured goods,920492489.0,baci_reconciled
+2004,exports,Asia_ex_China,agricultural goods,4775332681.0,baci_reconciled
+2004,exports,Asia_ex_China,minerals & metals,27909543696.0,baci_reconciled
+2004,exports,Asia_ex_China,apparel,1474846244.0,baci_reconciled
+2004,exports,Asia_ex_China,other manufactured goods,7205554057.0,baci_reconciled
+2004,exports,Europe,agricultural goods,16534673786.0,baci_reconciled
+2004,exports,Europe,minerals & metals,73295626406.0,baci_reconciled
+2004,exports,Europe,apparel,10864481017.0,baci_reconciled
+2004,exports,Europe,other manufactured goods,20266838297.0,baci_reconciled
+2004,exports,Oceania,agricultural goods,236556464.0,baci_reconciled
+2004,exports,Oceania,minerals & metals,326097150.0,baci_reconciled
+2004,exports,Oceania,apparel,48139462.0,baci_reconciled
+2004,exports,Oceania,other manufactured goods,1092188864.0,baci_reconciled
+2004,exports,Intra_Africa,agricultural goods,6054187899.0,baci_reconciled
+2004,exports,Intra_Africa,minerals & metals,11947650997.0,baci_reconciled
+2004,exports,Intra_Africa,apparel,2079983474.0,baci_reconciled
+2004,exports,Intra_Africa,other manufactured goods,13680914989.0,baci_reconciled
+2005,exports,USA,agricultural goods,1691613826.0,baci_reconciled
+2005,exports,USA,minerals & metals,60999514944.0,baci_reconciled
+2005,exports,USA,apparel,2497942395.0,baci_reconciled
+2005,exports,USA,other manufactured goods,2874332169.0,baci_reconciled
+2005,exports,China,agricultural goods,411888124.0,baci_reconciled
+2005,exports,China,minerals & metals,18470750893.0,baci_reconciled
+2005,exports,China,apparel,734229250.0,baci_reconciled
+2005,exports,China,other manufactured goods,1272613459.0,baci_reconciled
+2005,exports,N_America_ex_US,agricultural goods,321495640.0,baci_reconciled
+2005,exports,N_America_ex_US,minerals & metals,4803770903.0,baci_reconciled
+2005,exports,N_America_ex_US,apparel,80607180.0,baci_reconciled
+2005,exports,N_America_ex_US,other manufactured goods,354408465.0,baci_reconciled
+2005,exports,S_America,agricultural goods,141642905.0,baci_reconciled
+2005,exports,S_America,minerals & metals,10178964548.0,baci_reconciled
+2005,exports,S_America,apparel,98800997.0,baci_reconciled
+2005,exports,S_America,other manufactured goods,1353840766.0,baci_reconciled
+2005,exports,Asia_ex_China,agricultural goods,5226474263.0,baci_reconciled
+2005,exports,Asia_ex_China,minerals & metals,32412938867.0,baci_reconciled
+2005,exports,Asia_ex_China,apparel,1465420315.0,baci_reconciled
+2005,exports,Asia_ex_China,other manufactured goods,8746881520.0,baci_reconciled
+2005,exports,Europe,agricultural goods,17466772640.0,baci_reconciled
+2005,exports,Europe,minerals & metals,99755931074.0,baci_reconciled
+2005,exports,Europe,apparel,10566684242.0,baci_reconciled
+2005,exports,Europe,other manufactured goods,22872575177.0,baci_reconciled
+2005,exports,Oceania,agricultural goods,253744892.0,baci_reconciled
+2005,exports,Oceania,minerals & metals,667305424.0,baci_reconciled
+2005,exports,Oceania,apparel,41987281.0,baci_reconciled
+2005,exports,Oceania,other manufactured goods,1457384627.0,baci_reconciled
+2005,exports,Intra_Africa,agricultural goods,6390121012.0,baci_reconciled
+2005,exports,Intra_Africa,minerals & metals,17916757854.0,baci_reconciled
+2005,exports,Intra_Africa,apparel,1404764647.0,baci_reconciled
+2005,exports,Intra_Africa,other manufactured goods,14959200359.0,baci_reconciled
+2006,exports,USA,agricultural goods,1649126131.0,baci_reconciled
+2006,exports,USA,minerals & metals,75861801225.0,baci_reconciled
+2006,exports,USA,apparel,2585126951.0,baci_reconciled
+2006,exports,USA,other manufactured goods,3402126494.0,baci_reconciled
+2006,exports,China,agricultural goods,461006689.0,baci_reconciled
+2006,exports,China,minerals & metals,27859285122.0,baci_reconciled
+2006,exports,China,apparel,788997701.0,baci_reconciled
+2006,exports,China,other manufactured goods,1378958816.0,baci_reconciled
+2006,exports,N_America_ex_US,agricultural goods,381937176.0,baci_reconciled
+2006,exports,N_America_ex_US,minerals & metals,6366093421.0,baci_reconciled
+2006,exports,N_America_ex_US,apparel,82274387.0,baci_reconciled
+2006,exports,N_America_ex_US,other manufactured goods,530308111.0,baci_reconciled
+2006,exports,S_America,agricultural goods,209352492.0,baci_reconciled
+2006,exports,S_America,minerals & metals,12823521519.0,baci_reconciled
+2006,exports,S_America,apparel,144342058.0,baci_reconciled
+2006,exports,S_America,other manufactured goods,1377793598.0,baci_reconciled
+2006,exports,Asia_ex_China,agricultural goods,5299683484.0,baci_reconciled
+2006,exports,Asia_ex_China,minerals & metals,46802175619.0,baci_reconciled
+2006,exports,Asia_ex_China,apparel,1310574664.0,baci_reconciled
+2006,exports,Asia_ex_China,other manufactured goods,9449413062.0,baci_reconciled
+2006,exports,Europe,agricultural goods,18350178107.0,baci_reconciled
+2006,exports,Europe,minerals & metals,123211751452.0,baci_reconciled
+2006,exports,Europe,apparel,10996765547.0,baci_reconciled
+2006,exports,Europe,other manufactured goods,24340781761.0,baci_reconciled
+2006,exports,Oceania,agricultural goods,250744936.0,baci_reconciled
+2006,exports,Oceania,minerals & metals,257059138.0,baci_reconciled
+2006,exports,Oceania,apparel,45152191.0,baci_reconciled
+2006,exports,Oceania,other manufactured goods,1421957483.0,baci_reconciled
+2006,exports,Intra_Africa,agricultural goods,7006574226.0,baci_reconciled
+2006,exports,Intra_Africa,minerals & metals,21392383958.0,baci_reconciled
+2006,exports,Intra_Africa,apparel,1415365775.0,baci_reconciled
+2006,exports,Intra_Africa,other manufactured goods,16926536285.0,baci_reconciled
+2007,exports,USA,agricultural goods,1592556788.0,baci_reconciled
+2007,exports,USA,minerals & metals,85767083111.99998,baci_reconciled
+2007,exports,USA,apparel,2616776729.0,baci_reconciled
+2007,exports,USA,other manufactured goods,3590089872.0,baci_reconciled
+2007,exports,China,agricultural goods,416916697.0,baci_reconciled
+2007,exports,China,minerals & metals,34723384849.0,baci_reconciled
+2007,exports,China,apparel,566953560.0,baci_reconciled
+2007,exports,China,other manufactured goods,2340556465.0,baci_reconciled
+2007,exports,N_America_ex_US,agricultural goods,403436790.99999994,baci_reconciled
+2007,exports,N_America_ex_US,minerals & metals,7145952478.0,baci_reconciled
+2007,exports,N_America_ex_US,apparel,93921894.0,baci_reconciled
+2007,exports,N_America_ex_US,other manufactured goods,895809278.0,baci_reconciled
+2007,exports,S_America,agricultural goods,321410799.0,baci_reconciled
+2007,exports,S_America,minerals & metals,16773562560.0,baci_reconciled
+2007,exports,S_America,apparel,206031624.0,baci_reconciled
+2007,exports,S_America,other manufactured goods,1605014297.0,baci_reconciled
+2007,exports,Asia_ex_China,agricultural goods,6596125123.0,baci_reconciled
+2007,exports,Asia_ex_China,minerals & metals,59556788909.0,baci_reconciled
+2007,exports,Asia_ex_China,apparel,1688580987.0,baci_reconciled
+2007,exports,Asia_ex_China,other manufactured goods,10808881102.0,baci_reconciled
+2007,exports,Europe,agricultural goods,21947852102.0,baci_reconciled
+2007,exports,Europe,minerals & metals,129969810486.0,baci_reconciled
+2007,exports,Europe,apparel,12641965673.0,baci_reconciled
+2007,exports,Europe,other manufactured goods,28577316281.0,baci_reconciled
+2007,exports,Oceania,agricultural goods,295448050.0,baci_reconciled
+2007,exports,Oceania,minerals & metals,620670966.0,baci_reconciled
+2007,exports,Oceania,apparel,54235206.0,baci_reconciled
+2007,exports,Oceania,other manufactured goods,1253838378.0,baci_reconciled
+2007,exports,Intra_Africa,agricultural goods,8638891704.0,baci_reconciled
+2007,exports,Intra_Africa,minerals & metals,26348733510.0,baci_reconciled
+2007,exports,Intra_Africa,apparel,2238062866.0,baci_reconciled
+2007,exports,Intra_Africa,other manufactured goods,23156637320.0,baci_reconciled
+2008,exports,USA,agricultural goods,1970796536.0,baci_reconciled
+2008,exports,USA,minerals & metals,104711824747.0,baci_reconciled
+2008,exports,USA,apparel,2741579782.0,baci_reconciled
+2008,exports,USA,other manufactured goods,5776510655.0,baci_reconciled
+2008,exports,China,agricultural goods,490102574.0,baci_reconciled
+2008,exports,China,minerals & metals,48128995054.0,baci_reconciled
+2008,exports,China,apparel,456231824.0,baci_reconciled
+2008,exports,China,other manufactured goods,2766641957.0,baci_reconciled
+2008,exports,N_America_ex_US,agricultural goods,480967924.0,baci_reconciled
+2008,exports,N_America_ex_US,minerals & metals,11210772405.0,baci_reconciled
+2008,exports,N_America_ex_US,apparel,104556276.0,baci_reconciled
+2008,exports,N_America_ex_US,other manufactured goods,797751465.0,baci_reconciled
+2008,exports,S_America,agricultural goods,497294926.0,baci_reconciled
+2008,exports,S_America,minerals & metals,21730396267.0,baci_reconciled
+2008,exports,S_America,apparel,195816962.0,baci_reconciled
+2008,exports,S_America,other manufactured goods,2860754294.0,baci_reconciled
+2008,exports,Asia_ex_China,agricultural goods,8259354764.0,baci_reconciled
+2008,exports,Asia_ex_China,minerals & metals,78635489867.0,baci_reconciled
+2008,exports,Asia_ex_China,apparel,2127284682.0,baci_reconciled
+2008,exports,Asia_ex_China,other manufactured goods,16559840821.0,baci_reconciled
+2008,exports,Europe,agricultural goods,25295180397.0,baci_reconciled
+2008,exports,Europe,minerals & metals,178520437757.0,baci_reconciled
+2008,exports,Europe,apparel,12851373215.0,baci_reconciled
+2008,exports,Europe,other manufactured goods,33825268776.0,baci_reconciled
+2008,exports,Oceania,agricultural goods,285182471.0,baci_reconciled
+2008,exports,Oceania,minerals & metals,1261388128.0,baci_reconciled
+2008,exports,Oceania,apparel,62169414.0,baci_reconciled
+2008,exports,Oceania,other manufactured goods,1539880684.0,baci_reconciled
+2008,exports,Intra_Africa,agricultural goods,10360937296.0,baci_reconciled
+2008,exports,Intra_Africa,minerals & metals,33622905444.0,baci_reconciled
+2008,exports,Intra_Africa,apparel,2749438923.0,baci_reconciled
+2008,exports,Intra_Africa,other manufactured goods,29349442611.0,baci_reconciled
+2009,exports,USA,agricultural goods,2039495350.0,baci_reconciled
+2009,exports,USA,minerals & metals,55621191870.0,baci_reconciled
+2009,exports,USA,apparel,2253708749.0,baci_reconciled
+2009,exports,USA,other manufactured goods,3699149834.0,baci_reconciled
+2009,exports,China,agricultural goods,675597777.0,baci_reconciled
+2009,exports,China,minerals & metals,36284818473.0,baci_reconciled
+2009,exports,China,apparel,575294943.0,baci_reconciled
+2009,exports,China,other manufactured goods,2667779158.0,baci_reconciled
+2009,exports,N_America_ex_US,agricultural goods,419891443.0,baci_reconciled
+2009,exports,N_America_ex_US,minerals & metals,6213060411.0,baci_reconciled
+2009,exports,N_America_ex_US,apparel,125903062.0,baci_reconciled
+2009,exports,N_America_ex_US,other manufactured goods,672199499.0,baci_reconciled
+2009,exports,S_America,agricultural goods,1738931105.0,baci_reconciled
+2009,exports,S_America,minerals & metals,12197598222.0,baci_reconciled
+2009,exports,S_America,apparel,178233229.0,baci_reconciled
+2009,exports,S_America,other manufactured goods,1706205270.0,baci_reconciled
+2009,exports,Asia_ex_China,agricultural goods,8670551473.0,baci_reconciled
+2009,exports,Asia_ex_China,minerals & metals,52467492416.0,baci_reconciled
+2009,exports,Asia_ex_China,apparel,1645302889.0,baci_reconciled
+2009,exports,Asia_ex_China,other manufactured goods,11604521046.0,baci_reconciled
+2009,exports,Europe,agricultural goods,24313600026.0,baci_reconciled
+2009,exports,Europe,minerals & metals,113114642829.0,baci_reconciled
+2009,exports,Europe,apparel,10625636849.0,baci_reconciled
+2009,exports,Europe,other manufactured goods,25215082575.0,baci_reconciled
+2009,exports,Oceania,agricultural goods,368226220.0,baci_reconciled
+2009,exports,Oceania,minerals & metals,635793155.0,baci_reconciled
+2009,exports,Oceania,apparel,84792034.0,baci_reconciled
+2009,exports,Oceania,other manufactured goods,1000022901.0,baci_reconciled
+2009,exports,Intra_Africa,agricultural goods,12040167560.0,baci_reconciled
+2009,exports,Intra_Africa,minerals & metals,27777387423.0,baci_reconciled
+2009,exports,Intra_Africa,apparel,2023074314.0,baci_reconciled
+2009,exports,Intra_Africa,other manufactured goods,31648027776.0,baci_reconciled
+2010,exports,USA,agricultural goods,2427139648.0,baci_reconciled
+2010,exports,USA,minerals & metals,76682680658.00002,baci_reconciled
+2010,exports,USA,apparel,2336309835.0,baci_reconciled
+2010,exports,USA,other manufactured goods,5274061171.0,baci_reconciled
+2010,exports,China,agricultural goods,940354821.0,baci_reconciled
+2010,exports,China,minerals & metals,54154572323.0,baci_reconciled
+2010,exports,China,apparel,670424862.0,baci_reconciled
+2010,exports,China,other manufactured goods,2857956621.0,baci_reconciled
+2010,exports,N_America_ex_US,agricultural goods,496943778.00000006,baci_reconciled
+2010,exports,N_America_ex_US,minerals & metals,8262136767.0,baci_reconciled
+2010,exports,N_America_ex_US,apparel,129989870.0,baci_reconciled
+2010,exports,N_America_ex_US,other manufactured goods,883656363.0000001,baci_reconciled
+2010,exports,S_America,agricultural goods,841648876.0,baci_reconciled
+2010,exports,S_America,minerals & metals,16272672449.0,baci_reconciled
+2010,exports,S_America,apparel,666507580.0,baci_reconciled
+2010,exports,S_America,other manufactured goods,2361519427.0,baci_reconciled
+2010,exports,Asia_ex_China,agricultural goods,10165116627.0,baci_reconciled
+2010,exports,Asia_ex_China,minerals & metals,76291159844.0,baci_reconciled
+2010,exports,Asia_ex_China,apparel,2580733716.0,baci_reconciled
+2010,exports,Asia_ex_China,other manufactured goods,13920803357.0,baci_reconciled
+2010,exports,Europe,agricultural goods,24042850571.0,baci_reconciled
+2010,exports,Europe,minerals & metals,136862669643.0,baci_reconciled
+2010,exports,Europe,apparel,10715791793.0,baci_reconciled
+2010,exports,Europe,other manufactured goods,28854442186.0,baci_reconciled
+2010,exports,Oceania,agricultural goods,428988716.0,baci_reconciled
+2010,exports,Oceania,minerals & metals,2525843915.0,baci_reconciled
+2010,exports,Oceania,apparel,85877078.0,baci_reconciled
+2010,exports,Oceania,other manufactured goods,1113345143.0,baci_reconciled
+2010,exports,Intra_Africa,agricultural goods,13077600501.0,baci_reconciled
+2010,exports,Intra_Africa,minerals & metals,36551044393.0,baci_reconciled
+2010,exports,Intra_Africa,apparel,2059469237.0,baci_reconciled
+2010,exports,Intra_Africa,other manufactured goods,33175171578.0,baci_reconciled
+2011,exports,USA,agricultural goods,2844896671.0,baci_reconciled
+2011,exports,USA,minerals & metals,84954583741.0,baci_reconciled
+2011,exports,USA,apparel,2523353379.0,baci_reconciled
+2011,exports,USA,other manufactured goods,6355758163.0,baci_reconciled
+2011,exports,China,agricultural goods,1182416784.0,baci_reconciled
+2011,exports,China,minerals & metals,67897134496.0,baci_reconciled
+2011,exports,China,apparel,1062798318.0,baci_reconciled
+2011,exports,China,other manufactured goods,3697632401.0,baci_reconciled
+2011,exports,N_America_ex_US,agricultural goods,573934536.0,baci_reconciled
+2011,exports,N_America_ex_US,minerals & metals,13793866122.0,baci_reconciled
+2011,exports,N_America_ex_US,apparel,130326986.0,baci_reconciled
+2011,exports,N_America_ex_US,other manufactured goods,1101474836.0,baci_reconciled
+2011,exports,S_America,agricultural goods,1521396374.0,baci_reconciled
+2011,exports,S_America,minerals & metals,27591975769.0,baci_reconciled
+2011,exports,S_America,apparel,266669428.0,baci_reconciled
+2011,exports,S_America,other manufactured goods,3521786460.0,baci_reconciled
+2011,exports,Asia_ex_China,agricultural goods,12058101343.0,baci_reconciled
+2011,exports,Asia_ex_China,minerals & metals,95125931330.0,baci_reconciled
+2011,exports,Asia_ex_China,apparel,2798043105.0,baci_reconciled
+2011,exports,Asia_ex_China,other manufactured goods,15530024608.0,baci_reconciled
+2011,exports,Europe,agricultural goods,27662345746.0,baci_reconciled
+2011,exports,Europe,minerals & metals,164666046679.0,baci_reconciled
+2011,exports,Europe,apparel,12032782480.0,baci_reconciled
+2011,exports,Europe,other manufactured goods,34006250303.0,baci_reconciled
+2011,exports,Oceania,agricultural goods,354023468.0,baci_reconciled
+2011,exports,Oceania,minerals & metals,5970540543.000001,baci_reconciled
+2011,exports,Oceania,apparel,94713443.0,baci_reconciled
+2011,exports,Oceania,other manufactured goods,1043752070.0,baci_reconciled
+2011,exports,Intra_Africa,agricultural goods,15150658271.0,baci_reconciled
+2011,exports,Intra_Africa,minerals & metals,44314982458.0,baci_reconciled
+2011,exports,Intra_Africa,apparel,2973776840.0,baci_reconciled
+2011,exports,Intra_Africa,other manufactured goods,37834721137.0,baci_reconciled
+2012,exports,USA,agricultural goods,2928790749.0,baci_reconciled
+2012,exports,USA,minerals & metals,59839249478.0,baci_reconciled
+2012,exports,USA,apparel,2464432041.0,baci_reconciled
+2012,exports,USA,other manufactured goods,6227665417.0,baci_reconciled
+2012,exports,China,agricultural goods,1307666004.0,baci_reconciled
+2012,exports,China,minerals & metals,69453327515.0,baci_reconciled
+2012,exports,China,apparel,1682488444.0,baci_reconciled
+2012,exports,China,other manufactured goods,3146634185.0,baci_reconciled
+2012,exports,N_America_ex_US,agricultural goods,533096494.0,baci_reconciled
+2012,exports,N_America_ex_US,minerals & metals,11994552706.0,baci_reconciled
+2012,exports,N_America_ex_US,apparel,133057123.0,baci_reconciled
+2012,exports,N_America_ex_US,other manufactured goods,922594903.0,baci_reconciled
+2012,exports,S_America,agricultural goods,2458572399.0,baci_reconciled
+2012,exports,S_America,minerals & metals,19308103457.0,baci_reconciled
+2012,exports,S_America,apparel,252547244.0,baci_reconciled
+2012,exports,S_America,other manufactured goods,4743980151.0,baci_reconciled
+2012,exports,Asia_ex_China,agricultural goods,12703470189.0,baci_reconciled
+2012,exports,Asia_ex_China,minerals & metals,122829697758.0,baci_reconciled
+2012,exports,Asia_ex_China,apparel,2911011042.0,baci_reconciled
+2012,exports,Asia_ex_China,other manufactured goods,15325424270.0,baci_reconciled
+2012,exports,Europe,agricultural goods,25911649061.0,baci_reconciled
+2012,exports,Europe,minerals & metals,201330115869.0,baci_reconciled
+2012,exports,Europe,apparel,10664264890.0,baci_reconciled
+2012,exports,Europe,other manufactured goods,31785844248.0,baci_reconciled
+2012,exports,Oceania,agricultural goods,259948622.0,baci_reconciled
+2012,exports,Oceania,minerals & metals,6626411000.0,baci_reconciled
+2012,exports,Oceania,apparel,125303450.0,baci_reconciled
+2012,exports,Oceania,other manufactured goods,945453232.0,baci_reconciled
+2012,exports,Intra_Africa,agricultural goods,15151633980.0,baci_reconciled
+2012,exports,Intra_Africa,minerals & metals,48932263041.0,baci_reconciled
+2012,exports,Intra_Africa,apparel,2473431642.0,baci_reconciled
+2012,exports,Intra_Africa,other manufactured goods,40123299069.0,baci_reconciled
+2013,exports,USA,agricultural goods,2638545741.0,baci_reconciled
+2013,exports,USA,minerals & metals,41794951622.0,baci_reconciled
+2013,exports,USA,apparel,2422900321.0,baci_reconciled
+2013,exports,USA,other manufactured goods,5960003049.0,baci_reconciled
+2013,exports,China,agricultural goods,1667249480.0,baci_reconciled
+2013,exports,China,minerals & metals,71351124361.0,baci_reconciled
+2013,exports,China,apparel,1278517790.0,baci_reconciled
+2013,exports,China,other manufactured goods,3591244693.0,baci_reconciled
+2013,exports,N_America_ex_US,agricultural goods,517170031.0,baci_reconciled
+2013,exports,N_America_ex_US,minerals & metals,8280048614.000001,baci_reconciled
+2013,exports,N_America_ex_US,apparel,126468506.0,baci_reconciled
+2013,exports,N_America_ex_US,other manufactured goods,701328783.0,baci_reconciled
+2013,exports,S_America,agricultural goods,668860808.0,baci_reconciled
+2013,exports,S_America,minerals & metals,23635736036.0,baci_reconciled
+2013,exports,S_America,apparel,251082872.0,baci_reconciled
+2013,exports,S_America,other manufactured goods,3349503156.0,baci_reconciled
+2013,exports,Asia_ex_China,agricultural goods,13715236129.0,baci_reconciled
+2013,exports,Asia_ex_China,minerals & metals,118597378744.0,baci_reconciled
+2013,exports,Asia_ex_China,apparel,3360523868.0,baci_reconciled
+2013,exports,Asia_ex_China,other manufactured goods,15201747386.0,baci_reconciled
+2013,exports,Europe,agricultural goods,26856811279.0,baci_reconciled
+2013,exports,Europe,minerals & metals,188641333049.0,baci_reconciled
+2013,exports,Europe,apparel,10927703081.0,baci_reconciled
+2013,exports,Europe,other manufactured goods,33005837876.0,baci_reconciled
+2013,exports,Oceania,agricultural goods,300269601.0,baci_reconciled
+2013,exports,Oceania,minerals & metals,5076748613.0,baci_reconciled
+2013,exports,Oceania,apparel,84757610.0,baci_reconciled
+2013,exports,Oceania,other manufactured goods,865129221.0,baci_reconciled
+2013,exports,Intra_Africa,agricultural goods,16643944727.0,baci_reconciled
+2013,exports,Intra_Africa,minerals & metals,42799599207.0,baci_reconciled
+2013,exports,Intra_Africa,apparel,2674652694.0,baci_reconciled
+2013,exports,Intra_Africa,other manufactured goods,44546233102.0,baci_reconciled
+2014,exports,USA,agricultural goods,2894947447.0,baci_reconciled
+2014,exports,USA,minerals & metals,22657759641.0,baci_reconciled
+2014,exports,USA,apparel,2606814423.0,baci_reconciled
+2014,exports,USA,other manufactured goods,5869473677.0,baci_reconciled
+2014,exports,China,agricultural goods,2249679965.0,baci_reconciled
+2014,exports,China,minerals & metals,70346599623.0,baci_reconciled
+2014,exports,China,apparel,844219087.0,baci_reconciled
+2014,exports,China,other manufactured goods,4255753971.0,baci_reconciled
+2014,exports,N_America_ex_US,agricultural goods,559074183.0,baci_reconciled
+2014,exports,N_America_ex_US,minerals & metals,4631548538.0,baci_reconciled
+2014,exports,N_America_ex_US,apparel,139241188.0,baci_reconciled
+2014,exports,N_America_ex_US,other manufactured goods,716911802.0,baci_reconciled
+2014,exports,S_America,agricultural goods,551298894.0,baci_reconciled
+2014,exports,S_America,minerals & metals,20907614318.000004,baci_reconciled
+2014,exports,S_America,apparel,291513958.0,baci_reconciled
+2014,exports,S_America,other manufactured goods,3214808343.0,baci_reconciled
+2014,exports,Asia_ex_China,agricultural goods,15311429695.0,baci_reconciled
+2014,exports,Asia_ex_China,minerals & metals,119834610634.0,baci_reconciled
+2014,exports,Asia_ex_China,apparel,3488576694.0,baci_reconciled
+2014,exports,Asia_ex_China,other manufactured goods,17929147900.0,baci_reconciled
+2014,exports,Europe,agricultural goods,27374056199.0,baci_reconciled
+2014,exports,Europe,minerals & metals,161250053131.0,baci_reconciled
+2014,exports,Europe,apparel,12043374958.0,baci_reconciled
+2014,exports,Europe,other manufactured goods,37994305115.0,baci_reconciled
+2014,exports,Oceania,agricultural goods,289745055.0,baci_reconciled
+2014,exports,Oceania,minerals & metals,4076902845.0,baci_reconciled
+2014,exports,Oceania,apparel,85592409.0,baci_reconciled
+2014,exports,Oceania,other manufactured goods,904327027.0,baci_reconciled
+2014,exports,Intra_Africa,agricultural goods,15869439463.0,baci_reconciled
+2014,exports,Intra_Africa,minerals & metals,45504385754.0,baci_reconciled
+2014,exports,Intra_Africa,apparel,2749706222.0,baci_reconciled
+2014,exports,Intra_Africa,other manufactured goods,39879271828.0,baci_reconciled
+2015,exports,USA,agricultural goods,3046789450.0,baci_reconciled
+2015,exports,USA,minerals & metals,15139631335.999998,baci_reconciled
+2015,exports,USA,apparel,2606115276.0,baci_reconciled
+2015,exports,USA,other manufactured goods,5850280361.0,baci_reconciled
+2015,exports,China,agricultural goods,2439666780.0000005,baci_reconciled
+2015,exports,China,minerals & metals,63780820049.0,baci_reconciled
+2015,exports,China,apparel,632941954.0,baci_reconciled
+2015,exports,China,other manufactured goods,3567165650.0,baci_reconciled
+2015,exports,N_America_ex_US,agricultural goods,589340722.0,baci_reconciled
+2015,exports,N_America_ex_US,minerals & metals,3986260000.0,baci_reconciled
+2015,exports,N_America_ex_US,apparel,133998466.0,baci_reconciled
+2015,exports,N_America_ex_US,other manufactured goods,603584703.0,baci_reconciled
+2015,exports,S_America,agricultural goods,444785181.0,baci_reconciled
+2015,exports,S_America,minerals & metals,12105558223.0,baci_reconciled
+2015,exports,S_America,apparel,260291008.0,baci_reconciled
+2015,exports,S_America,other manufactured goods,2446221141.0,baci_reconciled
+2015,exports,Asia_ex_China,agricultural goods,16052867704.0,baci_reconciled
+2015,exports,Asia_ex_China,minerals & metals,87002161132.0,baci_reconciled
+2015,exports,Asia_ex_China,apparel,3336731400.0,baci_reconciled
+2015,exports,Asia_ex_China,other manufactured goods,17438728923.0,baci_reconciled
+2015,exports,Europe,agricultural goods,27073764669.0,baci_reconciled
+2015,exports,Europe,minerals & metals,106262528736.0,baci_reconciled
+2015,exports,Europe,apparel,9868586701.0,baci_reconciled
+2015,exports,Europe,other manufactured goods,35307364180.0,baci_reconciled
+2015,exports,Oceania,agricultural goods,266536924.0,baci_reconciled
+2015,exports,Oceania,minerals & metals,1244559028.0,baci_reconciled
+2015,exports,Oceania,apparel,94229973.0,baci_reconciled
+2015,exports,Oceania,other manufactured goods,967614967.0,baci_reconciled
+2015,exports,Intra_Africa,agricultural goods,14536965089.0,baci_reconciled
+2015,exports,Intra_Africa,minerals & metals,34701591357.0,baci_reconciled
+2015,exports,Intra_Africa,apparel,2467308798.0,baci_reconciled
+2015,exports,Intra_Africa,other manufactured goods,39307399867.0,baci_reconciled
+2016,exports,USA,agricultural goods,3137191435.0,baci_reconciled
+2016,exports,USA,minerals & metals,17768873759.0,baci_reconciled
+2016,exports,USA,apparel,2302756214.0,baci_reconciled
+2016,exports,USA,other manufactured goods,5032440012.0,baci_reconciled
+2016,exports,China,agricultural goods,2137558415.0,baci_reconciled
+2016,exports,China,minerals & metals,48468866304.0,baci_reconciled
+2016,exports,China,apparel,615473630.0,baci_reconciled
+2016,exports,China,other manufactured goods,3267713906.0,baci_reconciled
+2016,exports,N_America_ex_US,agricultural goods,633354412.0,baci_reconciled
+2016,exports,N_America_ex_US,minerals & metals,5644238203.0,baci_reconciled
+2016,exports,N_America_ex_US,apparel,135794177.0,baci_reconciled
+2016,exports,N_America_ex_US,other manufactured goods,549252342.0,baci_reconciled
+2016,exports,S_America,agricultural goods,604228368.0,baci_reconciled
+2016,exports,S_America,minerals & metals,6721428100.0,baci_reconciled
+2016,exports,S_America,apparel,252663808.0,baci_reconciled
+2016,exports,S_America,other manufactured goods,2056250881.0,baci_reconciled
+2016,exports,Asia_ex_China,agricultural goods,16090267354.0,baci_reconciled
+2016,exports,Asia_ex_China,minerals & metals,79411817072.0,baci_reconciled
+2016,exports,Asia_ex_China,apparel,3439568985.0,baci_reconciled
+2016,exports,Asia_ex_China,other manufactured goods,17740340890.0,baci_reconciled
+2016,exports,Europe,agricultural goods,27359920036.0,baci_reconciled
+2016,exports,Europe,minerals & metals,97525757161.0,baci_reconciled
+2016,exports,Europe,apparel,10172610545.0,baci_reconciled
+2016,exports,Europe,other manufactured goods,36368091986.0,baci_reconciled
+2016,exports,Oceania,agricultural goods,247344685.0,baci_reconciled
+2016,exports,Oceania,minerals & metals,1307330187.0,baci_reconciled
+2016,exports,Oceania,apparel,93587262.0,baci_reconciled
+2016,exports,Oceania,other manufactured goods,803152018.0000001,baci_reconciled
+2016,exports,Intra_Africa,agricultural goods,14681814605.0,baci_reconciled
+2016,exports,Intra_Africa,minerals & metals,28717072573.0,baci_reconciled
+2016,exports,Intra_Africa,apparel,2341943443.0,baci_reconciled
+2016,exports,Intra_Africa,other manufactured goods,31836788546.0,baci_reconciled
+2017,exports,USA,agricultural goods,3334354741.0,baci_reconciled
+2017,exports,USA,minerals & metals,22984316106.0,baci_reconciled
+2017,exports,USA,apparel,2336279852.0,baci_reconciled
+2017,exports,USA,other manufactured goods,5467197089.0,baci_reconciled
+2017,exports,China,agricultural goods,2163588349.0,baci_reconciled
+2017,exports,China,minerals & metals,64086808778.0,baci_reconciled
+2017,exports,China,apparel,763226487.0,baci_reconciled
+2017,exports,China,other manufactured goods,4605378625.0,baci_reconciled
+2017,exports,N_America_ex_US,agricultural goods,680119595.0,baci_reconciled
+2017,exports,N_America_ex_US,minerals & metals,3134212367.0,baci_reconciled
+2017,exports,N_America_ex_US,apparel,142451035.0,baci_reconciled
+2017,exports,N_America_ex_US,other manufactured goods,442888818.0,baci_reconciled
+2017,exports,S_America,agricultural goods,614693286.0,baci_reconciled
+2017,exports,S_America,minerals & metals,7930802482.000001,baci_reconciled
+2017,exports,S_America,apparel,280883199.0,baci_reconciled
+2017,exports,S_America,other manufactured goods,4777040441.0,baci_reconciled
+2017,exports,Asia_ex_China,agricultural goods,18269178425.0,baci_reconciled
+2017,exports,Asia_ex_China,minerals & metals,103167189469.0,baci_reconciled
+2017,exports,Asia_ex_China,apparel,3887055817.0,baci_reconciled
+2017,exports,Asia_ex_China,other manufactured goods,18698339598.0,baci_reconciled
+2017,exports,Europe,agricultural goods,28474108792.0,baci_reconciled
+2017,exports,Europe,minerals & metals,104408863615.0,baci_reconciled
+2017,exports,Europe,apparel,10599431177.0,baci_reconciled
+2017,exports,Europe,other manufactured goods,39481373214.0,baci_reconciled
+2017,exports,Oceania,agricultural goods,288301910.0,baci_reconciled
+2017,exports,Oceania,minerals & metals,1972085769.0,baci_reconciled
+2017,exports,Oceania,apparel,89429490.0,baci_reconciled
+2017,exports,Oceania,other manufactured goods,908521780.0,baci_reconciled
+2017,exports,Intra_Africa,agricultural goods,15435305627.0,baci_reconciled
+2017,exports,Intra_Africa,minerals & metals,34051733593.0,baci_reconciled
+2017,exports,Intra_Africa,apparel,2600308078.0,baci_reconciled
+2017,exports,Intra_Africa,other manufactured goods,29440838672.0,baci_reconciled
+2018,exports,USA,agricultural goods,3405065581.0,baci_reconciled
+2018,exports,USA,minerals & metals,24807461960.0,baci_reconciled
+2018,exports,USA,apparel,2673594692.0,baci_reconciled
+2018,exports,USA,other manufactured goods,5313365366.0,baci_reconciled
+2018,exports,China,agricultural goods,2724885069.0,baci_reconciled
+2018,exports,China,minerals & metals,82597721630.0,baci_reconciled
+2018,exports,China,apparel,860852473.0,baci_reconciled
+2018,exports,China,other manufactured goods,5833579851.0,baci_reconciled
+2018,exports,N_America_ex_US,agricultural goods,773164315.0,baci_reconciled
+2018,exports,N_America_ex_US,minerals & metals,2828038543.0000005,baci_reconciled
+2018,exports,N_America_ex_US,apparel,159260021.0,baci_reconciled
+2018,exports,N_America_ex_US,other manufactured goods,452961174.0,baci_reconciled
+2018,exports,S_America,agricultural goods,720501768.0,baci_reconciled
+2018,exports,S_America,minerals & metals,8503560068.000001,baci_reconciled
+2018,exports,S_America,apparel,291140867.0,baci_reconciled
+2018,exports,S_America,other manufactured goods,4396157169.0,baci_reconciled
+2018,exports,Asia_ex_China,agricultural goods,18027250242.0,baci_reconciled
+2018,exports,Asia_ex_China,minerals & metals,114830683845.0,baci_reconciled
+2018,exports,Asia_ex_China,apparel,4081269845.0,baci_reconciled
+2018,exports,Asia_ex_China,other manufactured goods,18645807700.0,baci_reconciled
+2018,exports,Europe,agricultural goods,29743286723.0,baci_reconciled
+2018,exports,Europe,minerals & metals,130250946125.0,baci_reconciled
+2018,exports,Europe,apparel,11244822640.0,baci_reconciled
+2018,exports,Europe,other manufactured goods,44729516691.0,baci_reconciled
+2018,exports,Oceania,agricultural goods,316613000.0,baci_reconciled
+2018,exports,Oceania,minerals & metals,2399080655.0,baci_reconciled
+2018,exports,Oceania,apparel,90021946.0,baci_reconciled
+2018,exports,Oceania,other manufactured goods,1384534464.0,baci_reconciled
+2018,exports,Intra_Africa,agricultural goods,16521319554.0,baci_reconciled
+2018,exports,Intra_Africa,minerals & metals,41237090290.0,baci_reconciled
+2018,exports,Intra_Africa,apparel,2713218094.0,baci_reconciled
+2018,exports,Intra_Africa,other manufactured goods,32077902820.0,baci_reconciled
+2019,exports,USA,agricultural goods,3386387021.0,baci_reconciled
+2019,exports,USA,minerals & metals,18825501361.000004,baci_reconciled
+2019,exports,USA,apparel,3036268943.0,baci_reconciled
+2019,exports,USA,other manufactured goods,4994129430.0,baci_reconciled
+2019,exports,China,agricultural goods,3192927957.0,baci_reconciled
+2019,exports,China,minerals & metals,83303559301.0,baci_reconciled
+2019,exports,China,apparel,909082090.0,baci_reconciled
+2019,exports,China,other manufactured goods,3847525849.0,baci_reconciled
+2019,exports,N_America_ex_US,agricultural goods,803261661.0,baci_reconciled
+2019,exports,N_America_ex_US,minerals & metals,2186036715.0,baci_reconciled
+2019,exports,N_America_ex_US,apparel,166796098.0,baci_reconciled
+2019,exports,N_America_ex_US,other manufactured goods,539675213.0,baci_reconciled
+2019,exports,S_America,agricultural goods,590605936.0,baci_reconciled
+2019,exports,S_America,minerals & metals,6320847853.0,baci_reconciled
+2019,exports,S_America,apparel,301450260.0,baci_reconciled
+2019,exports,S_America,other manufactured goods,3801215058.0,baci_reconciled
+2019,exports,Asia_ex_China,agricultural goods,17309088614.0,baci_reconciled
+2019,exports,Asia_ex_China,minerals & metals,109521135038.0,baci_reconciled
+2019,exports,Asia_ex_China,apparel,3819530374.0,baci_reconciled
+2019,exports,Asia_ex_China,other manufactured goods,16940775940.0,baci_reconciled
+2019,exports,Europe,agricultural goods,28410863572.0,baci_reconciled
+2019,exports,Europe,minerals & metals,123184439643.0,baci_reconciled
+2019,exports,Europe,apparel,10814884339.0,baci_reconciled
+2019,exports,Europe,other manufactured goods,44778300359.0,baci_reconciled
+2019,exports,Oceania,agricultural goods,297215839.0,baci_reconciled
+2019,exports,Oceania,minerals & metals,1999750104.0,baci_reconciled
+2019,exports,Oceania,apparel,91832399.0,baci_reconciled
+2019,exports,Oceania,other manufactured goods,898576323.0,baci_reconciled
+2019,exports,Intra_Africa,agricultural goods,15762085603.0,baci_reconciled
+2019,exports,Intra_Africa,minerals & metals,38294448144.0,baci_reconciled
+2019,exports,Intra_Africa,apparel,2590930937.0,baci_reconciled
+2019,exports,Intra_Africa,other manufactured goods,35439186235.0,baci_reconciled
+2020,exports,USA,agricultural goods,3645841170.0,baci_reconciled
+2020,exports,USA,minerals & metals,14053450243.0,baci_reconciled
+2020,exports,USA,apparel,2536862866.0,baci_reconciled
+2020,exports,USA,other manufactured goods,4149748841.0,baci_reconciled
+2020,exports,China,agricultural goods,3445009264.0,baci_reconciled
+2020,exports,China,minerals & metals,58152899710.0,baci_reconciled
+2020,exports,China,apparel,788699763.0,baci_reconciled
+2020,exports,China,other manufactured goods,4636965965.0,baci_reconciled
+2020,exports,N_America_ex_US,agricultural goods,854555461.0,baci_reconciled
+2020,exports,N_America_ex_US,minerals & metals,3697209290.0,baci_reconciled
+2020,exports,N_America_ex_US,apparel,132351973.0,baci_reconciled
+2020,exports,N_America_ex_US,other manufactured goods,876107530.0,baci_reconciled
+2020,exports,S_America,agricultural goods,559635071.0,baci_reconciled
+2020,exports,S_America,minerals & metals,3372042093.0,baci_reconciled
+2020,exports,S_America,apparel,198835359.0,baci_reconciled
+2020,exports,S_America,other manufactured goods,3774858970.0,baci_reconciled
+2020,exports,Asia_ex_China,agricultural goods,17301594585.0,baci_reconciled
+2020,exports,Asia_ex_China,minerals & metals,100524557995.0,baci_reconciled
+2020,exports,Asia_ex_China,apparel,2917717914.0,baci_reconciled
+2020,exports,Asia_ex_China,other manufactured goods,16171273025.0,baci_reconciled
+2020,exports,Europe,agricultural goods,28494326459.0,baci_reconciled
+2020,exports,Europe,minerals & metals,89689032046.0,baci_reconciled
+2020,exports,Europe,apparel,9164084471.0,baci_reconciled
+2020,exports,Europe,other manufactured goods,37378630424.0,baci_reconciled
+2020,exports,Oceania,agricultural goods,269403494.0,baci_reconciled
+2020,exports,Oceania,minerals & metals,1739142665.0,baci_reconciled
+2020,exports,Oceania,apparel,84444389.0,baci_reconciled
+2020,exports,Oceania,other manufactured goods,885566791.0,baci_reconciled
+2020,exports,Intra_Africa,agricultural goods,15438346692.0,baci_reconciled
+2020,exports,Intra_Africa,minerals & metals,31781336809.0,baci_reconciled
+2020,exports,Intra_Africa,apparel,2208456072.0,baci_reconciled
+2020,exports,Intra_Africa,other manufactured goods,29505528477.0,baci_reconciled
+2021,exports,USA,agricultural goods,4218263957.0,baci_reconciled
+2021,exports,USA,minerals & metals,24203418602.0,baci_reconciled
+2021,exports,USA,apparel,3580387121.0,baci_reconciled
+2021,exports,USA,other manufactured goods,6519481510.0,baci_reconciled
+2021,exports,China,agricultural goods,4125388252.0,baci_reconciled
+2021,exports,China,minerals & metals,81561683267.0,baci_reconciled
+2021,exports,China,apparel,885269476.0,baci_reconciled
+2021,exports,China,other manufactured goods,6358835005.0,baci_reconciled
+2021,exports,N_America_ex_US,agricultural goods,1028795664.0,baci_reconciled
+2021,exports,N_America_ex_US,minerals & metals,5392797109.0,baci_reconciled
+2021,exports,N_America_ex_US,apparel,152221414.0,baci_reconciled
+2021,exports,N_America_ex_US,other manufactured goods,832093431.0,baci_reconciled
+2021,exports,S_America,agricultural goods,665615047.0,baci_reconciled
+2021,exports,S_America,minerals & metals,6038709932.0,baci_reconciled
+2021,exports,S_America,apparel,297380886.0,baci_reconciled
+2021,exports,S_America,other manufactured goods,6411986097.000001,baci_reconciled
+2021,exports,Asia_ex_China,agricultural goods,19533139306.0,baci_reconciled
+2021,exports,Asia_ex_China,minerals & metals,150641798270.0,baci_reconciled
+2021,exports,Asia_ex_China,apparel,3839608588.0,baci_reconciled
+2021,exports,Asia_ex_China,other manufactured goods,19954800090.0,baci_reconciled
+2021,exports,Europe,agricultural goods,31719585480.0,baci_reconciled
+2021,exports,Europe,minerals & metals,140346483471.0,baci_reconciled
+2021,exports,Europe,apparel,10867902341.0,baci_reconciled
+2021,exports,Europe,other manufactured goods,48064397003.0,baci_reconciled
+2021,exports,Oceania,agricultural goods,311101985.0,baci_reconciled
+2021,exports,Oceania,minerals & metals,2923443246.0,baci_reconciled
+2021,exports,Oceania,apparel,114013325.0,baci_reconciled
+2021,exports,Oceania,other manufactured goods,1100947629.0,baci_reconciled
+2021,exports,Intra_Africa,agricultural goods,19543899359.0,baci_reconciled
+2021,exports,Intra_Africa,minerals & metals,37508163153.0,baci_reconciled
+2021,exports,Intra_Africa,apparel,2917889663.0,baci_reconciled
+2021,exports,Intra_Africa,other manufactured goods,36378722375.0,baci_reconciled
+2022,exports,USA,agricultural goods,4664005124.0,baci_reconciled
+2022,exports,USA,minerals & metals,25848867931.0,baci_reconciled
+2022,exports,USA,apparel,4062728411.0,baci_reconciled
+2022,exports,USA,other manufactured goods,6886839338.0,baci_reconciled
+2022,exports,China,agricultural goods,4178162625.0,baci_reconciled
+2022,exports,China,minerals & metals,97562408682.0,baci_reconciled
+2022,exports,China,apparel,760863666.0,baci_reconciled
+2022,exports,China,other manufactured goods,4039006782.0000005,baci_reconciled
+2022,exports,N_America_ex_US,agricultural goods,1153710827.0,baci_reconciled
+2022,exports,N_America_ex_US,minerals & metals,6539978953.0,baci_reconciled
+2022,exports,N_America_ex_US,apparel,212962919.0,baci_reconciled
+2022,exports,N_America_ex_US,other manufactured goods,1138691267.0,baci_reconciled
+2022,exports,S_America,agricultural goods,814968641.0,baci_reconciled
+2022,exports,S_America,minerals & metals,7247858810.0,baci_reconciled
+2022,exports,S_America,apparel,367263334.0,baci_reconciled
+2022,exports,S_America,other manufactured goods,7677160433.0,baci_reconciled
+2022,exports,Asia_ex_China,agricultural goods,21841419752.0,baci_reconciled
+2022,exports,Asia_ex_China,minerals & metals,173810388055.0,baci_reconciled
+2022,exports,Asia_ex_China,apparel,4656416760.0,baci_reconciled
+2022,exports,Asia_ex_China,other manufactured goods,24647501277.0,baci_reconciled
+2022,exports,Europe,agricultural goods,31542297016.0,baci_reconciled
+2022,exports,Europe,minerals & metals,206716334700.0,baci_reconciled
+2022,exports,Europe,apparel,11890900902.0,baci_reconciled
+2022,exports,Europe,other manufactured goods,53621874486.0,baci_reconciled
+2022,exports,Oceania,agricultural goods,327764168.0,baci_reconciled
+2022,exports,Oceania,minerals & metals,2504503715.0,baci_reconciled
+2022,exports,Oceania,apparel,111061936.00000001,baci_reconciled
+2022,exports,Oceania,other manufactured goods,1314934810.0,baci_reconciled
+2022,exports,Intra_Africa,agricultural goods,20778120155.0,baci_reconciled
+2022,exports,Intra_Africa,minerals & metals,45762173446.0,baci_reconciled
+2022,exports,Intra_Africa,apparel,3435295790.0,baci_reconciled
+2022,exports,Intra_Africa,other manufactured goods,39906591167.0,baci_reconciled
+2023,exports,USA,agricultural goods,4235954241.0,baci_reconciled
+2023,exports,USA,minerals & metals,24244407237.0,baci_reconciled
+2023,exports,USA,apparel,3293696764.0,baci_reconciled
+2023,exports,USA,other manufactured goods,7107573732.0,baci_reconciled
+2023,exports,China,agricultural goods,4634307791.0,baci_reconciled
+2023,exports,China,minerals & metals,92649706263.0,baci_reconciled
+2023,exports,China,apparel,845374418.0,baci_reconciled
+2023,exports,China,other manufactured goods,6520665225.0,baci_reconciled
+2023,exports,N_America_ex_US,agricultural goods,1137395506.0,baci_reconciled
+2023,exports,N_America_ex_US,minerals & metals,6870107742.0,baci_reconciled
+2023,exports,N_America_ex_US,apparel,204367354.0,baci_reconciled
+2023,exports,N_America_ex_US,other manufactured goods,1138253885.0,baci_reconciled
+2023,exports,S_America,agricultural goods,1035504120.0,baci_reconciled
+2023,exports,S_America,minerals & metals,7570199131.0,baci_reconciled
+2023,exports,S_America,apparel,379701948.0,baci_reconciled
+2023,exports,S_America,other manufactured goods,5584281238.0,baci_reconciled
+2023,exports,Asia_ex_China,agricultural goods,24146916602.0,baci_reconciled
+2023,exports,Asia_ex_China,minerals & metals,157233488186.0,baci_reconciled
+2023,exports,Asia_ex_China,apparel,3993570879.0,baci_reconciled
+2023,exports,Asia_ex_China,other manufactured goods,21669396168.0,baci_reconciled
+2023,exports,Europe,agricultural goods,34752322880.0,baci_reconciled
+2023,exports,Europe,minerals & metals,173730143832.0,baci_reconciled
+2023,exports,Europe,apparel,12132564748.0,baci_reconciled
+2023,exports,Europe,other manufactured goods,59017404872.0,baci_reconciled
+2023,exports,Oceania,agricultural goods,309876606.0,baci_reconciled
+2023,exports,Oceania,minerals & metals,1723929969.0,baci_reconciled
+2023,exports,Oceania,apparel,93687824.0,baci_reconciled
+2023,exports,Oceania,other manufactured goods,1370157447.0,baci_reconciled
+2023,exports,Intra_Africa,agricultural goods,21029563933.0,baci_reconciled
+2023,exports,Intra_Africa,minerals & metals,50848675868.0,baci_reconciled
+2023,exports,Intra_Africa,apparel,3175637622.0,baci_reconciled
+2023,exports,Intra_Africa,other manufactured goods,39309151208.0,baci_reconciled
+2024,exports,USA,agricultural goods,4905608983.0,baci_reconciled
+2024,exports,USA,minerals & metals,24897670916.0,baci_reconciled
+2024,exports,USA,apparel,3321622040.0,baci_reconciled
+2024,exports,USA,other manufactured goods,8112530637.0,baci_reconciled
+2024,exports,China,agricultural goods,4712999300.0,baci_reconciled
+2024,exports,China,minerals & metals,102782426003.0,baci_reconciled
+2024,exports,China,apparel,724731274.0,baci_reconciled
+2024,exports,China,other manufactured goods,3930769087.0,baci_reconciled
+2024,exports,N_America_ex_US,agricultural goods,1192967565.0,baci_reconciled
+2024,exports,N_America_ex_US,minerals & metals,4534601553.0,baci_reconciled
+2024,exports,N_America_ex_US,apparel,201434503.0,baci_reconciled
+2024,exports,N_America_ex_US,other manufactured goods,1113196539.0,baci_reconciled
+2024,exports,S_America,agricultural goods,977494536.0,baci_reconciled
+2024,exports,S_America,minerals & metals,7759795176.0,baci_reconciled
+2024,exports,S_America,apparel,436481367.0,baci_reconciled
+2024,exports,S_America,other manufactured goods,5436224275.0,baci_reconciled
+2024,exports,Asia_ex_China,agricultural goods,25127979097.0,baci_reconciled
+2024,exports,Asia_ex_China,minerals & metals,114267573131.0,baci_reconciled
+2024,exports,Asia_ex_China,apparel,3575510664.0,baci_reconciled
+2024,exports,Asia_ex_China,other manufactured goods,22013308535.0,baci_reconciled
+2024,exports,Europe,agricultural goods,41486501406.0,baci_reconciled
+2024,exports,Europe,minerals & metals,160028036842.0,baci_reconciled
+2024,exports,Europe,apparel,13029979491.0,baci_reconciled
+2024,exports,Europe,other manufactured goods,60030810631.0,baci_reconciled
+2024,exports,Oceania,agricultural goods,363701153.0,baci_reconciled
+2024,exports,Oceania,minerals & metals,1530596361.0,baci_reconciled
+2024,exports,Oceania,apparel,100493859.0,baci_reconciled
+2024,exports,Oceania,other manufactured goods,1906396089.0,baci_reconciled
+2024,exports,Intra_Africa,agricultural goods,20256759460.0,baci_reconciled
+2024,exports,Intra_Africa,minerals & metals,43862574002.0,baci_reconciled
+2024,exports,Intra_Africa,apparel,3227747592.0,baci_reconciled
+2024,exports,Intra_Africa,other manufactured goods,34721550124.0,baci_reconciled
+2000,two_way,USA,agricultural goods,3804768884.0,baci_reconciled
+2000,two_way,USA,minerals & metals,24731145782.0,baci_reconciled
+2000,two_way,USA,apparel,1874519362.0,baci_reconciled
+2000,two_way,USA,other manufactured goods,10315796759.0,baci_reconciled
+2000,two_way,China,agricultural goods,811472247.0,baci_reconciled
+2000,two_way,China,minerals & metals,5661096809.0,baci_reconciled
+2000,two_way,China,apparel,1296878625.0,baci_reconciled
+2000,two_way,China,other manufactured goods,3824675013.0,baci_reconciled
+2000,two_way,N_America_ex_US,agricultural goods,914027293.0,baci_reconciled
+2000,two_way,N_America_ex_US,minerals & metals,1385409562.0,baci_reconciled
+2000,two_way,N_America_ex_US,apparel,106668171.0,baci_reconciled
+2000,two_way,N_America_ex_US,other manufactured goods,814115984.0,baci_reconciled
+2000,two_way,S_America,agricultural goods,2142040986.0,baci_reconciled
+2000,two_way,S_America,minerals & metals,5890802667.0,baci_reconciled
+2000,two_way,S_America,apparel,246127903.0,baci_reconciled
+2000,two_way,S_America,other manufactured goods,1678286703.0,baci_reconciled
+2000,two_way,Asia_ex_China,agricultural goods,5984995362.0,baci_reconciled
+2000,two_way,Asia_ex_China,minerals & metals,27475183950.0,baci_reconciled
+2000,two_way,Asia_ex_China,apparel,4451292898.0,baci_reconciled
+2000,two_way,Asia_ex_China,other manufactured goods,21039830057.0,baci_reconciled
+2000,two_way,Europe,agricultural goods,19206389870.0,baci_reconciled
+2000,two_way,Europe,minerals & metals,62620461959.0,baci_reconciled
+2000,two_way,Europe,apparel,13098900844.0,baci_reconciled
+2000,two_way,Europe,other manufactured goods,60067451228.0,baci_reconciled
+2000,two_way,Oceania,agricultural goods,986899321.0,baci_reconciled
+2000,two_way,Oceania,minerals & metals,560136008.0,baci_reconciled
+2000,two_way,Oceania,apparel,67188258.0,baci_reconciled
+2000,two_way,Oceania,other manufactured goods,1326440117.0,baci_reconciled
+2000,two_way,Intra_Africa,agricultural goods,8223025079.0,baci_reconciled
+2000,two_way,Intra_Africa,minerals & metals,13485689352.0,baci_reconciled
+2000,two_way,Intra_Africa,apparel,2062138766.0,baci_reconciled
+2000,two_way,Intra_Africa,other manufactured goods,15978230134.0,baci_reconciled
+2001,two_way,USA,agricultural goods,3712620489.0,baci_reconciled
+2001,two_way,USA,minerals & metals,21446478371.0,baci_reconciled
+2001,two_way,USA,apparel,2082648688.0,baci_reconciled
+2001,two_way,USA,other manufactured goods,11877988630.0,baci_reconciled
+2001,two_way,China,agricultural goods,768940644.0,baci_reconciled
+2001,two_way,China,minerals & metals,4885649161.0,baci_reconciled
+2001,two_way,China,apparel,1421882444.0,baci_reconciled
+2001,two_way,China,other manufactured goods,4631000532.0,baci_reconciled
+2001,two_way,N_America_ex_US,agricultural goods,893236207.0,baci_reconciled
+2001,two_way,N_America_ex_US,minerals & metals,1172884141.0,baci_reconciled
+2001,two_way,N_America_ex_US,apparel,134207870.0,baci_reconciled
+2001,two_way,N_America_ex_US,other manufactured goods,654322125.0,baci_reconciled
+2001,two_way,S_America,agricultural goods,2744932774.0,baci_reconciled
+2001,two_way,S_America,minerals & metals,5695203408.0,baci_reconciled
+2001,two_way,S_America,apparel,169594367.0,baci_reconciled
+2001,two_way,S_America,other manufactured goods,2360346030.0,baci_reconciled
+2001,two_way,Asia_ex_China,agricultural goods,6449195750.0,baci_reconciled
+2001,two_way,Asia_ex_China,minerals & metals,25841188135.0,baci_reconciled
+2001,two_way,Asia_ex_China,apparel,4414540894.0,baci_reconciled
+2001,two_way,Asia_ex_China,other manufactured goods,21906664893.0,baci_reconciled
+2001,two_way,Europe,agricultural goods,20189105838.0,baci_reconciled
+2001,two_way,Europe,minerals & metals,60328683268.0,baci_reconciled
+2001,two_way,Europe,apparel,13537891809.0,baci_reconciled
+2001,two_way,Europe,other manufactured goods,62094100555.0,baci_reconciled
+2001,two_way,Oceania,agricultural goods,1122103280.0,baci_reconciled
+2001,two_way,Oceania,minerals & metals,622329383.0,baci_reconciled
+2001,two_way,Oceania,apparel,74521396.0,baci_reconciled
+2001,two_way,Oceania,other manufactured goods,1337466370.0,baci_reconciled
+2001,two_way,Intra_Africa,agricultural goods,8840497947.0,baci_reconciled
+2001,two_way,Intra_Africa,minerals & metals,13431529461.0,baci_reconciled
+2001,two_way,Intra_Africa,apparel,2299474359.0,baci_reconciled
+2001,two_way,Intra_Africa,other manufactured goods,16113021893.0,baci_reconciled
+2001,two_way,Other_residual (nes),agricultural goods,26326.0,baci_reconciled
+2001,two_way,Other_residual (nes),other manufactured goods,21648.0,baci_reconciled
+2002,two_way,USA,agricultural goods,4074206215.0,baci_reconciled
+2002,two_way,USA,minerals & metals,18510407460.0,baci_reconciled
+2002,two_way,USA,apparel,2290636211.0,baci_reconciled
+2002,two_way,USA,other manufactured goods,11511009475.0,baci_reconciled
+2002,two_way,China,agricultural goods,726489997.0,baci_reconciled
+2002,two_way,China,minerals & metals,4963893655.0,baci_reconciled
+2002,two_way,China,apparel,1570926340.0,baci_reconciled
+2002,two_way,China,other manufactured goods,5675082510.0,baci_reconciled
+2002,two_way,N_America_ex_US,agricultural goods,977748448.0,baci_reconciled
+2002,two_way,N_America_ex_US,minerals & metals,1641339559.0,baci_reconciled
+2002,two_way,N_America_ex_US,apparel,145687369.0,baci_reconciled
+2002,two_way,N_America_ex_US,other manufactured goods,686405543.0,baci_reconciled
+2002,two_way,S_America,agricultural goods,3162371807.0,baci_reconciled
+2002,two_way,S_America,minerals & metals,4089566399.9999995,baci_reconciled
+2002,two_way,S_America,apparel,137335658.0,baci_reconciled
+2002,two_way,S_America,other manufactured goods,2016426475.0,baci_reconciled
+2002,two_way,Asia_ex_China,agricultural goods,6925511164.0,baci_reconciled
+2002,two_way,Asia_ex_China,minerals & metals,26171062305.0,baci_reconciled
+2002,two_way,Asia_ex_China,apparel,4510452301.0,baci_reconciled
+2002,two_way,Asia_ex_China,other manufactured goods,24649922100.0,baci_reconciled
+2002,two_way,Europe,agricultural goods,22019695768.0,baci_reconciled
+2002,two_way,Europe,minerals & metals,59543396117.0,baci_reconciled
+2002,two_way,Europe,apparel,13916476941.0,baci_reconciled
+2002,two_way,Europe,other manufactured goods,66230221933.0,baci_reconciled
+2002,two_way,Oceania,agricultural goods,1169580701.0,baci_reconciled
+2002,two_way,Oceania,minerals & metals,1031771257.0,baci_reconciled
+2002,two_way,Oceania,apparel,81310581.0,baci_reconciled
+2002,two_way,Oceania,other manufactured goods,1480030433.0,baci_reconciled
+2002,two_way,Intra_Africa,agricultural goods,9463904101.0,baci_reconciled
+2002,two_way,Intra_Africa,minerals & metals,13849553677.0,baci_reconciled
+2002,two_way,Intra_Africa,apparel,2538882499.0,baci_reconciled
+2002,two_way,Intra_Africa,other manufactured goods,21316315275.0,baci_reconciled
+2002,two_way,Other_residual (nes),other manufactured goods,3296.0,baci_reconciled
+2003,two_way,USA,agricultural goods,4874198890.0,baci_reconciled
+2003,two_way,USA,minerals & metals,28358046861.0,baci_reconciled
+2003,two_way,USA,apparel,3209979972.0,baci_reconciled
+2003,two_way,USA,other manufactured goods,11850916551.0,baci_reconciled
+2003,two_way,China,agricultural goods,1045249891.0,baci_reconciled
+2003,two_way,China,minerals & metals,8548531118.0,baci_reconciled
+2003,two_way,China,apparel,2797209803.0,baci_reconciled
+2003,two_way,China,other manufactured goods,7858128947.0,baci_reconciled
+2003,two_way,N_America_ex_US,agricultural goods,949522531.0,baci_reconciled
+2003,two_way,N_America_ex_US,minerals & metals,2641095803.0,baci_reconciled
+2003,two_way,N_America_ex_US,apparel,148971521.0,baci_reconciled
+2003,two_way,N_America_ex_US,other manufactured goods,895086409.0,baci_reconciled
+2003,two_way,S_America,agricultural goods,3585600639.0,baci_reconciled
+2003,two_way,S_America,minerals & metals,5006834101.0,baci_reconciled
+2003,two_way,S_America,apparel,155163130.0,baci_reconciled
+2003,two_way,S_America,other manufactured goods,2647652959.0000005,baci_reconciled
+2003,two_way,Asia_ex_China,agricultural goods,8264202852.0,baci_reconciled
+2003,two_way,Asia_ex_China,minerals & metals,29714411824.0,baci_reconciled
+2003,two_way,Asia_ex_China,apparel,5418278582.0,baci_reconciled
+2003,two_way,Asia_ex_China,other manufactured goods,27997942951.0,baci_reconciled
+2003,two_way,Europe,agricultural goods,25649509672.0,baci_reconciled
+2003,two_way,Europe,minerals & metals,68519930175.0,baci_reconciled
+2003,two_way,Europe,apparel,15593859541.0,baci_reconciled
+2003,two_way,Europe,other manufactured goods,78865323779.0,baci_reconciled
+2003,two_way,Oceania,agricultural goods,907900429.0,baci_reconciled
+2003,two_way,Oceania,minerals & metals,877106230.0,baci_reconciled
+2003,two_way,Oceania,apparel,86514625.0,baci_reconciled
+2003,two_way,Oceania,other manufactured goods,1657161954.0,baci_reconciled
+2003,two_way,Intra_Africa,agricultural goods,11417839651.0,baci_reconciled
+2003,two_way,Intra_Africa,minerals & metals,17115630018.0,baci_reconciled
+2003,two_way,Intra_Africa,apparel,3350671524.0,baci_reconciled
+2003,two_way,Intra_Africa,other manufactured goods,23770428407.0,baci_reconciled
+2004,two_way,USA,agricultural goods,5205435295.0,baci_reconciled
+2004,two_way,USA,minerals & metals,42588037221.0,baci_reconciled
+2004,two_way,USA,apparel,3035302619.0,baci_reconciled
+2004,two_way,USA,other manufactured goods,12643073354.0,baci_reconciled
+2004,two_way,China,agricultural goods,997516389.0,baci_reconciled
+2004,two_way,China,minerals & metals,13147116091.0,baci_reconciled
+2004,two_way,China,apparel,4098600482.0,baci_reconciled
+2004,two_way,China,other manufactured goods,11271626726.0,baci_reconciled
+2004,two_way,N_America_ex_US,agricultural goods,992476186.0,baci_reconciled
+2004,two_way,N_America_ex_US,minerals & metals,3503300723.0000005,baci_reconciled
+2004,two_way,N_America_ex_US,apparel,172976388.0,baci_reconciled
+2004,two_way,N_America_ex_US,other manufactured goods,1238809467.0,baci_reconciled
+2004,two_way,S_America,agricultural goods,5394172252.0,baci_reconciled
+2004,two_way,S_America,minerals & metals,9310438602.0,baci_reconciled
+2004,two_way,S_America,apparel,134781621.0,baci_reconciled
+2004,two_way,S_America,other manufactured goods,3315832734.0,baci_reconciled
+2004,two_way,Asia_ex_China,agricultural goods,10019854576.0,baci_reconciled
+2004,two_way,Asia_ex_China,minerals & metals,39659911044.0,baci_reconciled
+2004,two_way,Asia_ex_China,apparel,6092916149.0,baci_reconciled
+2004,two_way,Asia_ex_China,other manufactured goods,37317772091.0,baci_reconciled
+2004,two_way,Europe,agricultural goods,27388611064.0,baci_reconciled
+2004,two_way,Europe,minerals & metals,85598230500.0,baci_reconciled
+2004,two_way,Europe,apparel,16653826026.0,baci_reconciled
+2004,two_way,Europe,other manufactured goods,93742197390.0,baci_reconciled
+2004,two_way,Oceania,agricultural goods,1243375267.0,baci_reconciled
+2004,two_way,Oceania,minerals & metals,935681441.0,baci_reconciled
+2004,two_way,Oceania,apparel,91333487.0,baci_reconciled
+2004,two_way,Oceania,other manufactured goods,2161952676.0,baci_reconciled
+2004,two_way,Intra_Africa,agricultural goods,12095513739.0,baci_reconciled
+2004,two_way,Intra_Africa,minerals & metals,23860996612.0,baci_reconciled
+2004,two_way,Intra_Africa,apparel,4153925609.0,baci_reconciled
+2004,two_way,Intra_Africa,other manufactured goods,27350756158.0,baci_reconciled
+2005,two_way,USA,agricultural goods,5298163088.0,baci_reconciled
+2005,two_way,USA,minerals & metals,61870029879.0,baci_reconciled
+2005,two_way,USA,apparel,2744295254.0,baci_reconciled
+2005,two_way,USA,other manufactured goods,14439279062.0,baci_reconciled
+2005,two_way,China,agricultural goods,1099080494.0,baci_reconciled
+2005,two_way,China,minerals & metals,19199462138.0,baci_reconciled
+2005,two_way,China,apparel,4568312378.0,baci_reconciled
+2005,two_way,China,other manufactured goods,15654366250.0,baci_reconciled
+2005,two_way,N_America_ex_US,agricultural goods,1028172894.0,baci_reconciled
+2005,two_way,N_America_ex_US,minerals & metals,5005160095.0,baci_reconciled
+2005,two_way,N_America_ex_US,apparel,173830159.0,baci_reconciled
+2005,two_way,N_America_ex_US,other manufactured goods,1436580125.0,baci_reconciled
+2005,two_way,S_America,agricultural goods,6036669261.0,baci_reconciled
+2005,two_way,S_America,minerals & metals,12068623700.0,baci_reconciled
+2005,two_way,S_America,apparel,165646108.0,baci_reconciled
+2005,two_way,S_America,other manufactured goods,4626202604.0,baci_reconciled
+2005,two_way,Asia_ex_China,agricultural goods,11750026525.0,baci_reconciled
+2005,two_way,Asia_ex_China,minerals & metals,50433913864.0,baci_reconciled
+2005,two_way,Asia_ex_China,apparel,6413845254.0,baci_reconciled
+2005,two_way,Asia_ex_China,other manufactured goods,47581629489.0,baci_reconciled
+2005,two_way,Europe,agricultural goods,29139350779.0,baci_reconciled
+2005,two_way,Europe,minerals & metals,116231841387.0,baci_reconciled
+2005,two_way,Europe,apparel,16053829527.0,baci_reconciled
+2005,two_way,Europe,other manufactured goods,105317144590.0,baci_reconciled
+2005,two_way,Oceania,agricultural goods,1334436764.0,baci_reconciled
+2005,two_way,Oceania,minerals & metals,1560374064.0,baci_reconciled
+2005,two_way,Oceania,apparel,93688336.0,baci_reconciled
+2005,two_way,Oceania,other manufactured goods,2889324519.0,baci_reconciled
+2005,two_way,Intra_Africa,agricultural goods,12767868537.0,baci_reconciled
+2005,two_way,Intra_Africa,minerals & metals,35785563244.0,baci_reconciled
+2005,two_way,Intra_Africa,apparel,2802143579.0,baci_reconciled
+2005,two_way,Intra_Africa,other manufactured goods,29906100754.0,baci_reconciled
+2006,two_way,USA,agricultural goods,5970475556.0,baci_reconciled
+2006,two_way,USA,minerals & metals,77250141837.0,baci_reconciled
+2006,two_way,USA,apparel,2864839804.0,baci_reconciled
+2006,two_way,USA,other manufactured goods,19148057356.0,baci_reconciled
+2006,two_way,China,agricultural goods,1574791558.0,baci_reconciled
+2006,two_way,China,minerals & metals,29203556101.0,baci_reconciled
+2006,two_way,China,apparel,5460466748.0,baci_reconciled
+2006,two_way,China,other manufactured goods,21803434346.0,baci_reconciled
+2006,two_way,N_America_ex_US,agricultural goods,1327560829.0,baci_reconciled
+2006,two_way,N_America_ex_US,minerals & metals,6553871355.0,baci_reconciled
+2006,two_way,N_America_ex_US,apparel,199792865.0,baci_reconciled
+2006,two_way,N_America_ex_US,other manufactured goods,1783808136.0,baci_reconciled
+2006,two_way,S_America,agricultural goods,6719653095.0,baci_reconciled
+2006,two_way,S_America,minerals & metals,15205674538.0,baci_reconciled
+2006,two_way,S_America,apparel,259157410.0,baci_reconciled
+2006,two_way,S_America,other manufactured goods,5866067147.0,baci_reconciled
+2006,two_way,Asia_ex_China,agricultural goods,12720457399.0,baci_reconciled
+2006,two_way,Asia_ex_China,minerals & metals,71810649554.0,baci_reconciled
+2006,two_way,Asia_ex_China,apparel,6266195894.0,baci_reconciled
+2006,two_way,Asia_ex_China,other manufactured goods,54100466996.0,baci_reconciled
+2006,two_way,Europe,agricultural goods,32092663661.0,baci_reconciled
+2006,two_way,Europe,minerals & metals,142918170582.0,baci_reconciled
+2006,two_way,Europe,apparel,16750807780.0,baci_reconciled
+2006,two_way,Europe,other manufactured goods,117654570611.0,baci_reconciled
+2006,two_way,Oceania,agricultural goods,1525045033.0,baci_reconciled
+2006,two_way,Oceania,minerals & metals,1241396759.0,baci_reconciled
+2006,two_way,Oceania,apparel,101325983.0,baci_reconciled
+2006,two_way,Oceania,other manufactured goods,3280981344.0,baci_reconciled
+2006,two_way,Intra_Africa,agricultural goods,14000252266.0,baci_reconciled
+2006,two_way,Intra_Africa,minerals & metals,42729448197.0,baci_reconciled
+2006,two_way,Intra_Africa,apparel,2824297782.0,baci_reconciled
+2006,two_way,Intra_Africa,other manufactured goods,33839299781.0,baci_reconciled
+2007,two_way,USA,agricultural goods,8428014099.0,baci_reconciled
+2007,two_way,USA,minerals & metals,87823925733.99998,baci_reconciled
+2007,two_way,USA,apparel,2913245799.0,baci_reconciled
+2007,two_way,USA,other manufactured goods,21403762037.0,baci_reconciled
+2007,two_way,China,agricultural goods,1770968104.0,baci_reconciled
+2007,two_way,China,minerals & metals,37071052698.0,baci_reconciled
+2007,two_way,China,apparel,6327347354.0,baci_reconciled
+2007,two_way,China,other manufactured goods,29482101400.0,baci_reconciled
+2007,two_way,N_America_ex_US,agricultural goods,1690520608.0,baci_reconciled
+2007,two_way,N_America_ex_US,minerals & metals,7348107821.0,baci_reconciled
+2007,two_way,N_America_ex_US,apparel,196475364.0,baci_reconciled
+2007,two_way,N_America_ex_US,other manufactured goods,2642109295.0,baci_reconciled
+2007,two_way,S_America,agricultural goods,9006498412.0,baci_reconciled
+2007,two_way,S_America,minerals & metals,20035024535.0,baci_reconciled
+2007,two_way,S_America,apparel,530213077.0,baci_reconciled
+2007,two_way,S_America,other manufactured goods,6573263338.0,baci_reconciled
+2007,two_way,Asia_ex_China,agricultural goods,16582052466.0,baci_reconciled
+2007,two_way,Asia_ex_China,minerals & metals,88080963771.0,baci_reconciled
+2007,two_way,Asia_ex_China,apparel,7608086433.0,baci_reconciled
+2007,two_way,Asia_ex_China,other manufactured goods,67548329951.0,baci_reconciled
+2007,two_way,Europe,agricultural goods,40044906848.0,baci_reconciled
+2007,two_way,Europe,minerals & metals,154624563681.0,baci_reconciled
+2007,two_way,Europe,apparel,19193129767.0,baci_reconciled
+2007,two_way,Europe,other manufactured goods,138772692396.0,baci_reconciled
+2007,two_way,Oceania,agricultural goods,1517646719.0,baci_reconciled
+2007,two_way,Oceania,minerals & metals,1554063422.0,baci_reconciled
+2007,two_way,Oceania,apparel,111590842.0,baci_reconciled
+2007,two_way,Oceania,other manufactured goods,3157453248.0,baci_reconciled
+2007,two_way,Intra_Africa,agricultural goods,17267839657.0,baci_reconciled
+2007,two_way,Intra_Africa,minerals & metals,52657909709.0,baci_reconciled
+2007,two_way,Intra_Africa,apparel,4472713959.0,baci_reconciled
+2007,two_way,Intra_Africa,other manufactured goods,46276664227.0,baci_reconciled
+2008,two_way,USA,agricultural goods,8765342704.0,baci_reconciled
+2008,two_way,USA,minerals & metals,108220980912.0,baci_reconciled
+2008,two_way,USA,apparel,3170300658.0,baci_reconciled
+2008,two_way,USA,other manufactured goods,26871174907.0,baci_reconciled
+2008,two_way,China,agricultural goods,2023162182.0,baci_reconciled
+2008,two_way,China,minerals & metals,52138832174.0,baci_reconciled
+2008,two_way,China,apparel,6748293085.0,baci_reconciled
+2008,two_way,China,other manufactured goods,41464206951.0,baci_reconciled
+2008,two_way,N_America_ex_US,agricultural goods,2780205148.0,baci_reconciled
+2008,two_way,N_America_ex_US,minerals & metals,11963384561.0,baci_reconciled
+2008,two_way,N_America_ex_US,apparel,242526792.0,baci_reconciled
+2008,two_way,N_America_ex_US,other manufactured goods,2579806197.0,baci_reconciled
+2008,two_way,S_America,agricultural goods,12023511934.0,baci_reconciled
+2008,two_way,S_America,minerals & metals,25951209873.0,baci_reconciled
+2008,two_way,S_America,apparel,450550403.0,baci_reconciled
+2008,two_way,S_America,other manufactured goods,10338762926.0,baci_reconciled
+2008,two_way,Asia_ex_China,agricultural goods,23350750169.0,baci_reconciled
+2008,two_way,Asia_ex_China,minerals & metals,121285463540.0,baci_reconciled
+2008,two_way,Asia_ex_China,apparel,8958620144.0,baci_reconciled
+2008,two_way,Asia_ex_China,other manufactured goods,85623909097.0,baci_reconciled
+2008,two_way,Europe,agricultural goods,48232619944.0,baci_reconciled
+2008,two_way,Europe,minerals & metals,218818433540.0,baci_reconciled
+2008,two_way,Europe,apparel,19776439852.0,baci_reconciled
+2008,two_way,Europe,other manufactured goods,164006642960.0,baci_reconciled
+2008,two_way,Oceania,agricultural goods,1791739794.0,baci_reconciled
+2008,two_way,Oceania,minerals & metals,2251345751.0,baci_reconciled
+2008,two_way,Oceania,apparel,118692873.0,baci_reconciled
+2008,two_way,Oceania,other manufactured goods,3640732373.0,baci_reconciled
+2008,two_way,Intra_Africa,agricultural goods,20711701183.0,baci_reconciled
+2008,two_way,Intra_Africa,minerals & metals,67232336744.0,baci_reconciled
+2008,two_way,Intra_Africa,apparel,5496467192.0,baci_reconciled
+2008,two_way,Intra_Africa,other manufactured goods,58700140190.0,baci_reconciled
+2009,two_way,USA,agricultural goods,6991194273.0,baci_reconciled
+2009,two_way,USA,minerals & metals,58385789040.0,baci_reconciled
+2009,two_way,USA,apparel,2651163037.0,baci_reconciled
+2009,two_way,USA,other manufactured goods,23415630172.0,baci_reconciled
+2009,two_way,China,agricultural goods,2260878167.0,baci_reconciled
+2009,two_way,China,minerals & metals,38727895839.0,baci_reconciled
+2009,two_way,China,apparel,7029932759.0,baci_reconciled
+2009,two_way,China,other manufactured goods,41998366666.0,baci_reconciled
+2009,two_way,N_America_ex_US,agricultural goods,1690315269.0,baci_reconciled
+2009,two_way,N_America_ex_US,minerals & metals,6591505636.0,baci_reconciled
+2009,two_way,N_America_ex_US,apparel,254810009.0,baci_reconciled
+2009,two_way,N_America_ex_US,other manufactured goods,2376174797.0,baci_reconciled
+2009,two_way,S_America,agricultural goods,11465543980.0,baci_reconciled
+2009,two_way,S_America,minerals & metals,14813747060.0,baci_reconciled
+2009,two_way,S_America,apparel,341007086.0,baci_reconciled
+2009,two_way,S_America,other manufactured goods,9840042286.0,baci_reconciled
+2009,two_way,Asia_ex_China,agricultural goods,20727292628.0,baci_reconciled
+2009,two_way,Asia_ex_China,minerals & metals,83434954955.0,baci_reconciled
+2009,two_way,Asia_ex_China,apparel,7861751518.0,baci_reconciled
+2009,two_way,Asia_ex_China,other manufactured goods,76219331853.0,baci_reconciled
+2009,two_way,Europe,agricultural goods,46174580958.0,baci_reconciled
+2009,two_way,Europe,minerals & metals,142482694585.0,baci_reconciled
+2009,two_way,Europe,apparel,16851459520.0,baci_reconciled
+2009,two_way,Europe,other manufactured goods,143321443122.0,baci_reconciled
+2009,two_way,Oceania,agricultural goods,2293362399.0,baci_reconciled
+2009,two_way,Oceania,minerals & metals,1239858011.0,baci_reconciled
+2009,two_way,Oceania,apparel,146515267.0,baci_reconciled
+2009,two_way,Oceania,other manufactured goods,2769588358.0,baci_reconciled
+2009,two_way,Intra_Africa,agricultural goods,24068684781.0,baci_reconciled
+2009,two_way,Intra_Africa,minerals & metals,55543035969.0,baci_reconciled
+2009,two_way,Intra_Africa,apparel,4043971389.0,baci_reconciled
+2009,two_way,Intra_Africa,other manufactured goods,63290708372.0,baci_reconciled
+2010,two_way,USA,agricultural goods,8761036180.0,baci_reconciled
+2010,two_way,USA,minerals & metals,80893654292.00002,baci_reconciled
+2010,two_way,USA,apparel,2915082601.0,baci_reconciled
+2010,two_way,USA,other manufactured goods,28376989997.0,baci_reconciled
+2010,two_way,China,agricultural goods,2761107829.0,baci_reconciled
+2010,two_way,China,minerals & metals,57310048052.0,baci_reconciled
+2010,two_way,China,apparel,8773454093.0,baci_reconciled
+2010,two_way,China,other manufactured goods,53154259163.0,baci_reconciled
+2010,two_way,N_America_ex_US,agricultural goods,1837799475.0,baci_reconciled
+2010,two_way,N_America_ex_US,minerals & metals,8748196041.0,baci_reconciled
+2010,two_way,N_America_ex_US,apparel,246367955.0,baci_reconciled
+2010,two_way,N_America_ex_US,other manufactured goods,2818356126.0,baci_reconciled
+2010,two_way,S_America,agricultural goods,11937767754.0,baci_reconciled
+2010,two_way,S_America,minerals & metals,19485050665.0,baci_reconciled
+2010,two_way,S_America,apparel,801699339.0,baci_reconciled
+2010,two_way,S_America,other manufactured goods,10325924565.0,baci_reconciled
+2010,two_way,Asia_ex_China,agricultural goods,24755862298.0,baci_reconciled
+2010,two_way,Asia_ex_China,minerals & metals,112613428133.0,baci_reconciled
+2010,two_way,Asia_ex_China,apparel,10475682117.0,baci_reconciled
+2010,two_way,Asia_ex_China,other manufactured goods,91255169091.0,baci_reconciled
+2010,two_way,Europe,agricultural goods,48038190262.0,baci_reconciled
+2010,two_way,Europe,minerals & metals,174670430500.0,baci_reconciled
+2010,two_way,Europe,apparel,16877099664.0,baci_reconciled
+2010,two_way,Europe,other manufactured goods,152688242615.0,baci_reconciled
+2010,two_way,Oceania,agricultural goods,2625349334.0,baci_reconciled
+2010,two_way,Oceania,minerals & metals,3470035606.0,baci_reconciled
+2010,two_way,Oceania,apparel,146772948.0,baci_reconciled
+2010,two_way,Oceania,other manufactured goods,3839762191.0,baci_reconciled
+2010,two_way,Intra_Africa,agricultural goods,26144489753.0,baci_reconciled
+2010,two_way,Intra_Africa,minerals & metals,73093609692.0,baci_reconciled
+2010,two_way,Intra_Africa,apparel,4117407183.0,baci_reconciled
+2010,two_way,Intra_Africa,other manufactured goods,66347041057.0,baci_reconciled
+2011,two_way,USA,agricultural goods,11246352514.0,baci_reconciled
+2011,two_way,USA,minerals & metals,90700137336.0,baci_reconciled
+2011,two_way,USA,apparel,3106962341.0,baci_reconciled
+2011,two_way,USA,other manufactured goods,29973462674.0,baci_reconciled
+2011,two_way,China,agricultural goods,3839827831.0,baci_reconciled
+2011,two_way,China,minerals & metals,72216026077.0,baci_reconciled
+2011,two_way,China,apparel,11006868575.0,baci_reconciled
+2011,two_way,China,other manufactured goods,60986407264.0,baci_reconciled
+2011,two_way,N_America_ex_US,agricultural goods,2119990404.0,baci_reconciled
+2011,two_way,N_America_ex_US,minerals & metals,14468291041.0,baci_reconciled
+2011,two_way,N_America_ex_US,apparel,260740833.0,baci_reconciled
+2011,two_way,N_America_ex_US,other manufactured goods,3133588815.0,baci_reconciled
+2011,two_way,S_America,agricultural goods,22658509978.0,baci_reconciled
+2011,two_way,S_America,minerals & metals,30714153911.0,baci_reconciled
+2011,two_way,S_America,apparel,453324861.0,baci_reconciled
+2011,two_way,S_America,other manufactured goods,10464220369.0,baci_reconciled
+2011,two_way,Asia_ex_China,agricultural goods,33263428640.0,baci_reconciled
+2011,two_way,Asia_ex_China,minerals & metals,142186181592.0,baci_reconciled
+2011,two_way,Asia_ex_China,apparel,10749078466.0,baci_reconciled
+2011,two_way,Asia_ex_China,other manufactured goods,101392821400.0,baci_reconciled
+2011,two_way,Europe,agricultural goods,58807572576.0,baci_reconciled
+2011,two_way,Europe,minerals & metals,211960761009.0,baci_reconciled
+2011,two_way,Europe,apparel,18707605914.0,baci_reconciled
+2011,two_way,Europe,other manufactured goods,165343382795.0,baci_reconciled
+2011,two_way,Oceania,agricultural goods,3561542876.0,baci_reconciled
+2011,two_way,Oceania,minerals & metals,6726240401.000001,baci_reconciled
+2011,two_way,Oceania,apparel,160332174.0,baci_reconciled
+2011,two_way,Oceania,other manufactured goods,3624939079.0,baci_reconciled
+2011,two_way,Intra_Africa,agricultural goods,30290726854.0,baci_reconciled
+2011,two_way,Intra_Africa,minerals & metals,88626911671.0,baci_reconciled
+2011,two_way,Intra_Africa,apparel,5946153612.0,baci_reconciled
+2011,two_way,Intra_Africa,other manufactured goods,75660025325.0,baci_reconciled
+2012,two_way,USA,agricultural goods,9450650489.0,baci_reconciled
+2012,two_way,USA,minerals & metals,64431549335.0,baci_reconciled
+2012,two_way,USA,apparel,2961622381.0,baci_reconciled
+2012,two_way,USA,other manufactured goods,30554754355.0,baci_reconciled
+2012,two_way,China,agricultural goods,4065666826.0,baci_reconciled
+2012,two_way,China,minerals & metals,74155981318.0,baci_reconciled
+2012,two_way,China,apparel,13290538283.0,baci_reconciled
+2012,two_way,China,other manufactured goods,66225541815.0,baci_reconciled
+2012,two_way,N_America_ex_US,agricultural goods,2269837800.0,baci_reconciled
+2012,two_way,N_America_ex_US,minerals & metals,12433247769.0,baci_reconciled
+2012,two_way,N_America_ex_US,apparel,265540652.0,baci_reconciled
+2012,two_way,N_America_ex_US,other manufactured goods,3086138416.0,baci_reconciled
+2012,two_way,S_America,agricultural goods,19380668835.0,baci_reconciled
+2012,two_way,S_America,minerals & metals,21977222294.0,baci_reconciled
+2012,two_way,S_America,apparel,363125374.0,baci_reconciled
+2012,two_way,S_America,other manufactured goods,12011160709.0,baci_reconciled
+2012,two_way,Asia_ex_China,agricultural goods,34206648057.0,baci_reconciled
+2012,two_way,Asia_ex_China,minerals & metals,172797920275.0,baci_reconciled
+2012,two_way,Asia_ex_China,apparel,11403605654.0,baci_reconciled
+2012,two_way,Asia_ex_China,other manufactured goods,103301362164.0,baci_reconciled
+2012,two_way,Europe,agricultural goods,58502486859.0,baci_reconciled
+2012,two_way,Europe,minerals & metals,257104435234.0,baci_reconciled
+2012,two_way,Europe,apparel,16739953369.0,baci_reconciled
+2012,two_way,Europe,other manufactured goods,164335971983.0,baci_reconciled
+2012,two_way,Oceania,agricultural goods,2954560350.0,baci_reconciled
+2012,two_way,Oceania,minerals & metals,7144533379.0,baci_reconciled
+2012,two_way,Oceania,apparel,233999242.0,baci_reconciled
+2012,two_way,Oceania,other manufactured goods,3433414002.0,baci_reconciled
+2012,two_way,Intra_Africa,agricultural goods,30294598331.0,baci_reconciled
+2012,two_way,Intra_Africa,minerals & metals,97860442836.0,baci_reconciled
+2012,two_way,Intra_Africa,apparel,4944511274.0,baci_reconciled
+2012,two_way,Intra_Africa,other manufactured goods,80211951960.0,baci_reconciled
+2013,two_way,USA,agricultural goods,8320710059.0,baci_reconciled
+2013,two_way,USA,minerals & metals,48693479182.0,baci_reconciled
+2013,two_way,USA,apparel,2947360824.0,baci_reconciled
+2013,two_way,USA,other manufactured goods,29244888645.0,baci_reconciled
+2013,two_way,China,agricultural goods,4469316716.0,baci_reconciled
+2013,two_way,China,minerals & metals,77090260309.0,baci_reconciled
+2013,two_way,China,apparel,13035570707.0,baci_reconciled
+2013,two_way,China,other manufactured goods,72124656030.0,baci_reconciled
+2013,two_way,N_America_ex_US,agricultural goods,2307623982.0,baci_reconciled
+2013,two_way,N_America_ex_US,minerals & metals,9100219929.0,baci_reconciled
+2013,two_way,N_America_ex_US,apparel,244297825.0,baci_reconciled
+2013,two_way,N_America_ex_US,other manufactured goods,2562576169.0,baci_reconciled
+2013,two_way,S_America,agricultural goods,15542980790.0,baci_reconciled
+2013,two_way,S_America,minerals & metals,26216350122.0,baci_reconciled
+2013,two_way,S_America,apparel,376067750.0,baci_reconciled
+2013,two_way,S_America,other manufactured goods,10598609984.0,baci_reconciled
+2013,two_way,Asia_ex_China,agricultural goods,35448075899.0,baci_reconciled
+2013,two_way,Asia_ex_China,minerals & metals,173820774679.0,baci_reconciled
+2013,two_way,Asia_ex_China,apparel,12197075638.0,baci_reconciled
+2013,two_way,Asia_ex_China,other manufactured goods,105633532946.0,baci_reconciled
+2013,two_way,Europe,agricultural goods,57521982858.0,baci_reconciled
+2013,two_way,Europe,minerals & metals,239976986478.0,baci_reconciled
+2013,two_way,Europe,apparel,17100900009.0,baci_reconciled
+2013,two_way,Europe,other manufactured goods,174818150020.0,baci_reconciled
+2013,two_way,Oceania,agricultural goods,3340429162.0000005,baci_reconciled
+2013,two_way,Oceania,minerals & metals,5484699199.0,baci_reconciled
+2013,two_way,Oceania,apparel,168510893.0,baci_reconciled
+2013,two_way,Oceania,other manufactured goods,3303662005.0,baci_reconciled
+2013,two_way,Intra_Africa,agricultural goods,33274032797.0,baci_reconciled
+2013,two_way,Intra_Africa,minerals & metals,85596900434.0,baci_reconciled
+2013,two_way,Intra_Africa,apparel,5347901326.0,baci_reconciled
+2013,two_way,Intra_Africa,other manufactured goods,89069971789.0,baci_reconciled
+2014,two_way,USA,agricultural goods,8960006763.0,baci_reconciled
+2014,two_way,USA,minerals & metals,28553607146.0,baci_reconciled
+2014,two_way,USA,apparel,3199175094.0,baci_reconciled
+2014,two_way,USA,other manufactured goods,32203182953.0,baci_reconciled
+2014,two_way,China,agricultural goods,4735942368.0,baci_reconciled
+2014,two_way,China,minerals & metals,77801816633.0,baci_reconciled
+2014,two_way,China,apparel,13984704355.0,baci_reconciled
+2014,two_way,China,other manufactured goods,81827852838.0,baci_reconciled
+2014,two_way,N_America_ex_US,agricultural goods,2766240959.0,baci_reconciled
+2014,two_way,N_America_ex_US,minerals & metals,5994104690.0,baci_reconciled
+2014,two_way,N_America_ex_US,apparel,265662352.0,baci_reconciled
+2014,two_way,N_America_ex_US,other manufactured goods,2624533442.0,baci_reconciled
+2014,two_way,S_America,agricultural goods,14624867584.0,baci_reconciled
+2014,two_way,S_America,minerals & metals,24014400978.000004,baci_reconciled
+2014,two_way,S_America,apparel,381861113.0,baci_reconciled
+2014,two_way,S_America,other manufactured goods,11425897269.0,baci_reconciled
+2014,two_way,Asia_ex_China,agricultural goods,38782425092.0,baci_reconciled
+2014,two_way,Asia_ex_China,minerals & metals,176109135491.0,baci_reconciled
+2014,two_way,Asia_ex_China,apparel,12796240478.0,baci_reconciled
+2014,two_way,Asia_ex_China,other manufactured goods,109412963957.0,baci_reconciled
+2014,two_way,Europe,agricultural goods,64831732453.0,baci_reconciled
+2014,two_way,Europe,minerals & metals,209975833830.0,baci_reconciled
+2014,two_way,Europe,apparel,18532279200.0,baci_reconciled
+2014,two_way,Europe,other manufactured goods,180874488823.0,baci_reconciled
+2014,two_way,Oceania,agricultural goods,3506632219.0,baci_reconciled
+2014,two_way,Oceania,minerals & metals,4407673329.0,baci_reconciled
+2014,two_way,Oceania,apparel,169584801.0,baci_reconciled
+2014,two_way,Oceania,other manufactured goods,3138691275.0,baci_reconciled
+2014,two_way,Intra_Africa,agricultural goods,31733507760.0,baci_reconciled
+2014,two_way,Intra_Africa,minerals & metals,91006786714.0,baci_reconciled
+2014,two_way,Intra_Africa,apparel,5499141821.0,baci_reconciled
+2014,two_way,Intra_Africa,other manufactured goods,79730526530.0,baci_reconciled
+2015,two_way,USA,agricultural goods,7794641570.0,baci_reconciled
+2015,two_way,USA,minerals & metals,18109967799.0,baci_reconciled
+2015,two_way,USA,apparel,3110112300.0,baci_reconciled
+2015,two_way,USA,other manufactured goods,30320493220.0,baci_reconciled
+2015,two_way,China,agricultural goods,4759981320.0,baci_reconciled
+2015,two_way,China,minerals & metals,71849430344.0,baci_reconciled
+2015,two_way,China,apparel,14564920537.0,baci_reconciled
+2015,two_way,China,other manufactured goods,79487202433.0,baci_reconciled
+2015,two_way,N_America_ex_US,agricultural goods,2475912769.0,baci_reconciled
+2015,two_way,N_America_ex_US,minerals & metals,4710262543.0,baci_reconciled
+2015,two_way,N_America_ex_US,apparel,235694712.0,baci_reconciled
+2015,two_way,N_America_ex_US,other manufactured goods,2455422473.0,baci_reconciled
+2015,two_way,S_America,agricultural goods,12367914517.0,baci_reconciled
+2015,two_way,S_America,minerals & metals,13946537656.0,baci_reconciled
+2015,two_way,S_America,apparel,330930650.0,baci_reconciled
+2015,two_way,S_America,other manufactured goods,8686952791.0,baci_reconciled
+2015,two_way,Asia_ex_China,agricultural goods,36305108298.0,baci_reconciled
+2015,two_way,Asia_ex_China,minerals & metals,129663419092.0,baci_reconciled
+2015,two_way,Asia_ex_China,apparel,12408640422.0,baci_reconciled
+2015,two_way,Asia_ex_China,other manufactured goods,101407431844.0,baci_reconciled
+2015,two_way,Europe,agricultural goods,57033095331.0,baci_reconciled
+2015,two_way,Europe,minerals & metals,144159085445.0,baci_reconciled
+2015,two_way,Europe,apparel,15379295043.0,baci_reconciled
+2015,two_way,Europe,other manufactured goods,161843630506.0,baci_reconciled
+2015,two_way,Oceania,agricultural goods,2802784889.0,baci_reconciled
+2015,two_way,Oceania,minerals & metals,1547552905.0,baci_reconciled
+2015,two_way,Oceania,apparel,175450531.0,baci_reconciled
+2015,two_way,Oceania,other manufactured goods,3390310826.0,baci_reconciled
+2015,two_way,Intra_Africa,agricultural goods,29069182955.0,baci_reconciled
+2015,two_way,Intra_Africa,minerals & metals,69401408962.0,baci_reconciled
+2015,two_way,Intra_Africa,apparel,4934452870.0,baci_reconciled
+2015,two_way,Intra_Africa,other manufactured goods,78617118454.0,baci_reconciled
+2016,two_way,USA,agricultural goods,7261674531.0,baci_reconciled
+2016,two_way,USA,minerals & metals,20187097055.0,baci_reconciled
+2016,two_way,USA,apparel,2737200064.0,baci_reconciled
+2016,two_way,USA,other manufactured goods,25837556452.0,baci_reconciled
+2016,two_way,China,agricultural goods,4388900351.0,baci_reconciled
+2016,two_way,China,minerals & metals,55434178430.0,baci_reconciled
+2016,two_way,China,apparel,13288962417.0,baci_reconciled
+2016,two_way,China,other manufactured goods,70787993597.0,baci_reconciled
+2016,two_way,N_America_ex_US,agricultural goods,2253509851.0,baci_reconciled
+2016,two_way,N_America_ex_US,minerals & metals,6170689740.0,baci_reconciled
+2016,two_way,N_America_ex_US,apparel,224232421.0,baci_reconciled
+2016,two_way,N_America_ex_US,other manufactured goods,1821975176.0,baci_reconciled
+2016,two_way,S_America,agricultural goods,13230723720.0,baci_reconciled
+2016,two_way,S_America,minerals & metals,8567100553.0,baci_reconciled
+2016,two_way,S_America,apparel,339065264.0,baci_reconciled
+2016,two_way,S_America,other manufactured goods,8083001745.0,baci_reconciled
+2016,two_way,Asia_ex_China,agricultural goods,36104454555.0,baci_reconciled
+2016,two_way,Asia_ex_China,minerals & metals,113806038595.0,baci_reconciled
+2016,two_way,Asia_ex_China,apparel,11490223062.0,baci_reconciled
+2016,two_way,Asia_ex_China,other manufactured goods,96562661051.0,baci_reconciled
+2016,two_way,Europe,agricultural goods,59700628760.0,baci_reconciled
+2016,two_way,Europe,minerals & metals,131208722392.0,baci_reconciled
+2016,two_way,Europe,apparel,15397709032.0,baci_reconciled
+2016,two_way,Europe,other manufactured goods,159109689058.0,baci_reconciled
+2016,two_way,Oceania,agricultural goods,2339159740.0,baci_reconciled
+2016,two_way,Oceania,minerals & metals,1728872914.0,baci_reconciled
+2016,two_way,Oceania,apparel,167752741.0,baci_reconciled
+2016,two_way,Oceania,other manufactured goods,2911834532.0,baci_reconciled
+2016,two_way,Intra_Africa,agricultural goods,29359251630.0,baci_reconciled
+2016,two_way,Intra_Africa,minerals & metals,57433013519.0,baci_reconciled
+2016,two_way,Intra_Africa,apparel,4683738389.0,baci_reconciled
+2016,two_way,Intra_Africa,other manufactured goods,63665955640.0,baci_reconciled
+2017,two_way,USA,agricultural goods,7901447934.0,baci_reconciled
+2017,two_way,USA,minerals & metals,26898948738.0,baci_reconciled
+2017,two_way,USA,apparel,2795879264.0,baci_reconciled
+2017,two_way,USA,other manufactured goods,25060056308.0,baci_reconciled
+2017,two_way,China,agricultural goods,5112115271.0,baci_reconciled
+2017,two_way,China,minerals & metals,70167163367.0,baci_reconciled
+2017,two_way,China,apparel,14068061566.0,baci_reconciled
+2017,two_way,China,other manufactured goods,74566188913.0,baci_reconciled
+2017,two_way,N_America_ex_US,agricultural goods,2434071858.0,baci_reconciled
+2017,two_way,N_America_ex_US,minerals & metals,3832597575.0,baci_reconciled
+2017,two_way,N_America_ex_US,apparel,233945162.0,baci_reconciled
+2017,two_way,N_America_ex_US,other manufactured goods,1714423262.0,baci_reconciled
+2017,two_way,S_America,agricultural goods,15126256933.0,baci_reconciled
+2017,two_way,S_America,minerals & metals,9990727933.0,baci_reconciled
+2017,two_way,S_America,apparel,354120079.0,baci_reconciled
+2017,two_way,S_America,other manufactured goods,10966633835.0,baci_reconciled
+2017,two_way,Asia_ex_China,agricultural goods,40556283435.0,baci_reconciled
+2017,two_way,Asia_ex_China,minerals & metals,143186530847.0,baci_reconciled
+2017,two_way,Asia_ex_China,apparel,12239467642.0,baci_reconciled
+2017,two_way,Asia_ex_China,other manufactured goods,91424290288.0,baci_reconciled
+2017,two_way,Europe,agricultural goods,59655978556.0,baci_reconciled
+2017,two_way,Europe,minerals & metals,142657124490.0,baci_reconciled
+2017,two_way,Europe,apparel,16028287419.0,baci_reconciled
+2017,two_way,Europe,other manufactured goods,161551867503.0,baci_reconciled
+2017,two_way,Oceania,agricultural goods,2402027559.0,baci_reconciled
+2017,two_way,Oceania,minerals & metals,2471442591.0,baci_reconciled
+2017,two_way,Oceania,apparel,144999010.0,baci_reconciled
+2017,two_way,Oceania,other manufactured goods,3044378769.0,baci_reconciled
+2017,two_way,Intra_Africa,agricultural goods,30866553304.0,baci_reconciled
+2017,two_way,Intra_Africa,minerals & metals,68103509968.0,baci_reconciled
+2017,two_way,Intra_Africa,apparel,5200500882.0,baci_reconciled
+2017,two_way,Intra_Africa,other manufactured goods,58867397728.0,baci_reconciled
+2018,two_way,USA,agricultural goods,8641842747.0,baci_reconciled
+2018,two_way,USA,minerals & metals,30211649165.0,baci_reconciled
+2018,two_way,USA,apparel,3173271918.0,baci_reconciled
+2018,two_way,USA,other manufactured goods,25024459040.0,baci_reconciled
+2018,two_way,China,agricultural goods,6023336240.0,baci_reconciled
+2018,two_way,China,minerals & metals,89643783245.0,baci_reconciled
+2018,two_way,China,apparel,15837338193.0,baci_reconciled
+2018,two_way,China,other manufactured goods,83677563378.0,baci_reconciled
+2018,two_way,N_America_ex_US,agricultural goods,2427543857.0,baci_reconciled
+2018,two_way,N_America_ex_US,minerals & metals,3585816543.0000005,baci_reconciled
+2018,two_way,N_America_ex_US,apparel,251647240.0,baci_reconciled
+2018,two_way,N_America_ex_US,other manufactured goods,1997855343.0,baci_reconciled
+2018,two_way,S_America,agricultural goods,12481196919.0,baci_reconciled
+2018,two_way,S_America,minerals & metals,10683916923.0,baci_reconciled
+2018,two_way,S_America,apparel,380444347.0,baci_reconciled
+2018,two_way,S_America,other manufactured goods,9310027039.0,baci_reconciled
+2018,two_way,Asia_ex_China,agricultural goods,40941775331.0,baci_reconciled
+2018,two_way,Asia_ex_China,minerals & metals,165973987022.0,baci_reconciled
+2018,two_way,Asia_ex_China,apparel,12985274741.0,baci_reconciled
+2018,two_way,Asia_ex_China,other manufactured goods,103453415706.0,baci_reconciled
+2018,two_way,Europe,agricultural goods,64012016747.0,baci_reconciled
+2018,two_way,Europe,minerals & metals,175527428737.0,baci_reconciled
+2018,two_way,Europe,apparel,17253152798.0,baci_reconciled
+2018,two_way,Europe,other manufactured goods,168439532258.0,baci_reconciled
+2018,two_way,Oceania,agricultural goods,2118215629.0,baci_reconciled
+2018,two_way,Oceania,minerals & metals,2966981093.0,baci_reconciled
+2018,two_way,Oceania,apparel,161030550.0,baci_reconciled
+2018,two_way,Oceania,other manufactured goods,3859743877.0,baci_reconciled
+2018,two_way,Intra_Africa,agricultural goods,33039177532.0,baci_reconciled
+2018,two_way,Intra_Africa,minerals & metals,82473233106.0,baci_reconciled
+2018,two_way,Intra_Africa,apparel,5427430474.0,baci_reconciled
+2018,two_way,Intra_Africa,other manufactured goods,64152928009.0,baci_reconciled
+2019,two_way,USA,agricultural goods,8732828357.0,baci_reconciled
+2019,two_way,USA,minerals & metals,23661117295.000004,baci_reconciled
+2019,two_way,USA,apparel,3466630604.0,baci_reconciled
+2019,two_way,USA,other manufactured goods,25554231984.0,baci_reconciled
+2019,two_way,China,agricultural goods,6665477802.0,baci_reconciled
+2019,two_way,China,minerals & metals,89899011027.0,baci_reconciled
+2019,two_way,China,apparel,15843528291.0,baci_reconciled
+2019,two_way,China,other manufactured goods,85850571586.0,baci_reconciled
+2019,two_way,N_America_ex_US,agricultural goods,2347560538.0,baci_reconciled
+2019,two_way,N_America_ex_US,minerals & metals,2951167308.0,baci_reconciled
+2019,two_way,N_America_ex_US,apparel,269171876.0,baci_reconciled
+2019,two_way,N_America_ex_US,other manufactured goods,2590251701.0,baci_reconciled
+2019,two_way,S_America,agricultural goods,12645694152.0,baci_reconciled
+2019,two_way,S_America,minerals & metals,8581322449.0,baci_reconciled
+2019,two_way,S_America,apparel,374255609.0,baci_reconciled
+2019,two_way,S_America,other manufactured goods,8137975169.0,baci_reconciled
+2019,two_way,Asia_ex_China,agricultural goods,38861606016.0,baci_reconciled
+2019,two_way,Asia_ex_China,minerals & metals,158454389348.0,baci_reconciled
+2019,two_way,Asia_ex_China,apparel,12762627295.0,baci_reconciled
+2019,two_way,Asia_ex_China,other manufactured goods,98322017633.0,baci_reconciled
+2019,two_way,Europe,agricultural goods,60798113834.0,baci_reconciled
+2019,two_way,Europe,minerals & metals,162962053886.0,baci_reconciled
+2019,two_way,Europe,apparel,16560474212.0,baci_reconciled
+2019,two_way,Europe,other manufactured goods,168289673889.0,baci_reconciled
+2019,two_way,Oceania,agricultural goods,1658063373.0,baci_reconciled
+2019,two_way,Oceania,minerals & metals,2514842154.0,baci_reconciled
+2019,two_way,Oceania,apparel,166103898.0,baci_reconciled
+2019,two_way,Oceania,other manufactured goods,2986800707.0,baci_reconciled
+2019,two_way,Intra_Africa,agricultural goods,31521070571.0,baci_reconciled
+2019,two_way,Intra_Africa,minerals & metals,76587988406.0,baci_reconciled
+2019,two_way,Intra_Africa,apparel,5182187711.0,baci_reconciled
+2019,two_way,Intra_Africa,other manufactured goods,70876565361.0,baci_reconciled
+2020,two_way,USA,agricultural goods,8751385349.0,baci_reconciled
+2020,two_way,USA,minerals & metals,17375064143.0,baci_reconciled
+2020,two_way,USA,apparel,2898441559.0,baci_reconciled
+2020,two_way,USA,other manufactured goods,22762077265.0,baci_reconciled
+2020,two_way,China,agricultural goods,6907416629.0,baci_reconciled
+2020,two_way,China,minerals & metals,64634012819.0,baci_reconciled
+2020,two_way,China,apparel,16166364136.0,baci_reconciled
+2020,two_way,China,other manufactured goods,89017445942.0,baci_reconciled
+2020,two_way,N_America_ex_US,agricultural goods,2627844123.0,baci_reconciled
+2020,two_way,N_America_ex_US,minerals & metals,4332002566.0,baci_reconciled
+2020,two_way,N_America_ex_US,apparel,201247322.0,baci_reconciled
+2020,two_way,N_America_ex_US,other manufactured goods,2558663804.0,baci_reconciled
+2020,two_way,S_America,agricultural goods,13006253133.0,baci_reconciled
+2020,two_way,S_America,minerals & metals,4972240007.0,baci_reconciled
+2020,two_way,S_America,apparel,247791563.0,baci_reconciled
+2020,two_way,S_America,other manufactured goods,7595885481.0,baci_reconciled
+2020,two_way,Asia_ex_China,agricultural goods,41018510135.0,baci_reconciled
+2020,two_way,Asia_ex_China,minerals & metals,136832659851.0,baci_reconciled
+2020,two_way,Asia_ex_China,apparel,10523412247.0,baci_reconciled
+2020,two_way,Asia_ex_China,other manufactured goods,89572334947.0,baci_reconciled
+2020,two_way,Europe,agricultural goods,64619080418.0,baci_reconciled
+2020,two_way,Europe,minerals & metals,121651446895.0,baci_reconciled
+2020,two_way,Europe,apparel,14239328186.0,baci_reconciled
+2020,two_way,Europe,other manufactured goods,144068453881.0,baci_reconciled
+2020,two_way,Oceania,agricultural goods,1766392593.0,baci_reconciled
+2020,two_way,Oceania,minerals & metals,2021847381.0,baci_reconciled
+2020,two_way,Oceania,apparel,129727740.0,baci_reconciled
+2020,two_way,Oceania,other manufactured goods,2367473171.0,baci_reconciled
+2020,two_way,Intra_Africa,agricultural goods,30874692466.0,baci_reconciled
+2020,two_way,Intra_Africa,minerals & metals,63562365553.0,baci_reconciled
+2020,two_way,Intra_Africa,apparel,4416735816.0,baci_reconciled
+2020,two_way,Intra_Africa,other manufactured goods,59008104116.0,baci_reconciled
+2021,two_way,USA,agricultural goods,10445836789.0,baci_reconciled
+2021,two_way,USA,minerals & metals,29783807995.0,baci_reconciled
+2021,two_way,USA,apparel,4014444185.0,baci_reconciled
+2021,two_way,USA,other manufactured goods,25145539423.0,baci_reconciled
+2021,two_way,China,agricultural goods,7609898777.0,baci_reconciled
+2021,two_way,China,minerals & metals,90501688869.0,baci_reconciled
+2021,two_way,China,apparel,17733312944.0,baci_reconciled
+2021,two_way,China,other manufactured goods,104737338908.0,baci_reconciled
+2021,two_way,N_America_ex_US,agricultural goods,3270806545.0,baci_reconciled
+2021,two_way,N_America_ex_US,minerals & metals,6098579727.0,baci_reconciled
+2021,two_way,N_America_ex_US,apparel,231903936.0,baci_reconciled
+2021,two_way,N_America_ex_US,other manufactured goods,2667523187.0,baci_reconciled
+2021,two_way,S_America,agricultural goods,14974236471.0,baci_reconciled
+2021,two_way,S_America,minerals & metals,8088225262.0,baci_reconciled
+2021,two_way,S_America,apparel,363558641.0,baci_reconciled
+2021,two_way,S_America,other manufactured goods,10872286324.0,baci_reconciled
+2021,two_way,Asia_ex_China,agricultural goods,49372019207.0,baci_reconciled
+2021,two_way,Asia_ex_China,minerals & metals,206484482564.0,baci_reconciled
+2021,two_way,Asia_ex_China,apparel,13353176682.0,baci_reconciled
+2021,two_way,Asia_ex_China,other manufactured goods,115194582261.0,baci_reconciled
+2021,two_way,Europe,agricultural goods,71394114666.0,baci_reconciled
+2021,two_way,Europe,minerals & metals,185151457111.0,baci_reconciled
+2021,two_way,Europe,apparel,16884278454.0,baci_reconciled
+2021,two_way,Europe,other manufactured goods,168487908748.0,baci_reconciled
+2021,two_way,Oceania,agricultural goods,2684928891.0,baci_reconciled
+2021,two_way,Oceania,minerals & metals,3474496843.0,baci_reconciled
+2021,two_way,Oceania,apparel,159915189.0,baci_reconciled
+2021,two_way,Oceania,other manufactured goods,2717270898.0,baci_reconciled
+2021,two_way,Intra_Africa,agricultural goods,39084154417.0,baci_reconciled
+2021,two_way,Intra_Africa,minerals & metals,75015894222.0,baci_reconciled
+2021,two_way,Intra_Africa,apparel,5835740247.0,baci_reconciled
+2021,two_way,Intra_Africa,other manufactured goods,72752875294.0,baci_reconciled
+2022,two_way,USA,agricultural goods,11934934166.0,baci_reconciled
+2022,two_way,USA,minerals & metals,34004743069.0,baci_reconciled
+2022,two_way,USA,apparel,4391227055.0,baci_reconciled
+2022,two_way,USA,other manufactured goods,26372914927.0,baci_reconciled
+2022,two_way,China,agricultural goods,7564430013.0,baci_reconciled
+2022,two_way,China,minerals & metals,108111558818.0,baci_reconciled
+2022,two_way,China,apparel,17562009833.0,baci_reconciled
+2022,two_way,China,other manufactured goods,113693458811.0,baci_reconciled
+2022,two_way,N_America_ex_US,agricultural goods,3139080025.0,baci_reconciled
+2022,two_way,N_America_ex_US,minerals & metals,7400782187.0,baci_reconciled
+2022,two_way,N_America_ex_US,apparel,292909578.0,baci_reconciled
+2022,two_way,N_America_ex_US,other manufactured goods,3189195996.0,baci_reconciled
+2022,two_way,S_America,agricultural goods,19904329958.0,baci_reconciled
+2022,two_way,S_America,minerals & metals,11054430022.0,baci_reconciled
+2022,two_way,S_America,apparel,453941428.0,baci_reconciled
+2022,two_way,S_America,other manufactured goods,13631334722.0,baci_reconciled
+2022,two_way,Asia_ex_China,agricultural goods,55257191373.0,baci_reconciled
+2022,two_way,Asia_ex_China,minerals & metals,267256397887.0,baci_reconciled
+2022,two_way,Asia_ex_China,apparel,14336781763.0,baci_reconciled
+2022,two_way,Asia_ex_China,other manufactured goods,129234833496.0,baci_reconciled
+2022,two_way,Europe,agricultural goods,70372534852.0,baci_reconciled
+2022,two_way,Europe,minerals & metals,266342296768.0,baci_reconciled
+2022,two_way,Europe,apparel,17850855659.0,baci_reconciled
+2022,two_way,Europe,other manufactured goods,171067394835.0,baci_reconciled
+2022,two_way,Oceania,agricultural goods,3292081141.0,baci_reconciled
+2022,two_way,Oceania,minerals & metals,3090932677.0,baci_reconciled
+2022,two_way,Oceania,apparel,181339510.0,baci_reconciled
+2022,two_way,Oceania,other manufactured goods,3710984606.0,baci_reconciled
+2022,two_way,Intra_Africa,agricultural goods,41552381391.0,baci_reconciled
+2022,two_way,Intra_Africa,minerals & metals,91522484349.0,baci_reconciled
+2022,two_way,Intra_Africa,apparel,6870605358.0,baci_reconciled
+2022,two_way,Intra_Africa,other manufactured goods,79808355673.0,baci_reconciled
+2023,two_way,USA,agricultural goods,8916324502.0,baci_reconciled
+2023,two_way,USA,minerals & metals,32608234033.0,baci_reconciled
+2023,two_way,USA,apparel,3666692868.0,baci_reconciled
+2023,two_way,USA,other manufactured goods,28375260155.0,baci_reconciled
+2023,two_way,China,agricultural goods,8362405648.0,baci_reconciled
+2023,two_way,China,minerals & metals,103063233526.0,baci_reconciled
+2023,two_way,China,apparel,17899734224.0,baci_reconciled
+2023,two_way,China,other manufactured goods,125290365464.0,baci_reconciled
+2023,two_way,N_America_ex_US,agricultural goods,3661180974.0,baci_reconciled
+2023,two_way,N_America_ex_US,minerals & metals,7503794809.0,baci_reconciled
+2023,two_way,N_America_ex_US,apparel,280890118.0,baci_reconciled
+2023,two_way,N_America_ex_US,other manufactured goods,3032215773.0,baci_reconciled
+2023,two_way,S_America,agricultural goods,17275997682.0,baci_reconciled
+2023,two_way,S_America,minerals & metals,11255644107.0,baci_reconciled
+2023,two_way,S_America,apparel,444103753.0,baci_reconciled
+2023,two_way,S_America,other manufactured goods,10406804125.0,baci_reconciled
+2023,two_way,Asia_ex_China,agricultural goods,55482148830.0,baci_reconciled
+2023,two_way,Asia_ex_China,minerals & metals,240002295263.0,baci_reconciled
+2023,two_way,Asia_ex_China,apparel,12343358886.0,baci_reconciled
+2023,two_way,Asia_ex_China,other manufactured goods,126946860029.0,baci_reconciled
+2023,two_way,Europe,agricultural goods,73300641916.0,baci_reconciled
+2023,two_way,Europe,minerals & metals,228143216344.0,baci_reconciled
+2023,two_way,Europe,apparel,18312355524.0,baci_reconciled
+2023,two_way,Europe,other manufactured goods,182536120404.0,baci_reconciled
+2023,two_way,Oceania,agricultural goods,2357504825.0,baci_reconciled
+2023,two_way,Oceania,minerals & metals,2293766133.0,baci_reconciled
+2023,two_way,Oceania,apparel,139744114.0,baci_reconciled
+2023,two_way,Oceania,other manufactured goods,3167911128.0,baci_reconciled
+2023,two_way,Intra_Africa,agricultural goods,42055520122.0,baci_reconciled
+2023,two_way,Intra_Africa,minerals & metals,101698937892.0,baci_reconciled
+2023,two_way,Intra_Africa,apparel,6351254799.0,baci_reconciled
+2023,two_way,Intra_Africa,other manufactured goods,78613647220.0,baci_reconciled
+2024,two_way,USA,agricultural goods,9494587221.0,baci_reconciled
+2024,two_way,USA,minerals & metals,36943041079.0,baci_reconciled
+2024,two_way,USA,apparel,3663878336.0,baci_reconciled
+2024,two_way,USA,other manufactured goods,29042113636.0,baci_reconciled
+2024,two_way,China,agricultural goods,8886244236.0,baci_reconciled
+2024,two_way,China,minerals & metals,116077410050.0,baci_reconciled
+2024,two_way,China,apparel,19105556183.0,baci_reconciled
+2024,two_way,China,other manufactured goods,135776939289.0,baci_reconciled
+2024,two_way,N_America_ex_US,agricultural goods,3203486229.0,baci_reconciled
+2024,two_way,N_America_ex_US,minerals & metals,5270262495.0,baci_reconciled
+2024,two_way,N_America_ex_US,apparel,264581358.0,baci_reconciled
+2024,two_way,N_America_ex_US,other manufactured goods,2871327147.0,baci_reconciled
+2024,two_way,S_America,agricultural goods,18815946434.0,baci_reconciled
+2024,two_way,S_America,minerals & metals,12318597318.0,baci_reconciled
+2024,two_way,S_America,apparel,570416824.0,baci_reconciled
+2024,two_way,S_America,other manufactured goods,9802428238.0,baci_reconciled
+2024,two_way,Asia_ex_China,agricultural goods,52747874255.0,baci_reconciled
+2024,two_way,Asia_ex_China,minerals & metals,178174302381.0,baci_reconciled
+2024,two_way,Asia_ex_China,apparel,11715737666.0,baci_reconciled
+2024,two_way,Asia_ex_China,other manufactured goods,107735849430.0,baci_reconciled
+2024,two_way,Europe,agricultural goods,80026707621.0,baci_reconciled
+2024,two_way,Europe,minerals & metals,206033778891.0,baci_reconciled
+2024,two_way,Europe,apparel,20467410244.0,baci_reconciled
+2024,two_way,Europe,other manufactured goods,189049152073.0,baci_reconciled
+2024,two_way,Oceania,agricultural goods,2444373164.0,baci_reconciled
+2024,two_way,Oceania,minerals & metals,1987265078.0,baci_reconciled
+2024,two_way,Oceania,apparel,135164324.0,baci_reconciled
+2024,two_way,Oceania,other manufactured goods,4138281297.9999995,baci_reconciled
+2024,two_way,Intra_Africa,agricultural goods,40509913123.0,baci_reconciled
+2024,two_way,Intra_Africa,minerals & metals,87729345582.0,baci_reconciled
+2024,two_way,Intra_Africa,apparel,6455334727.0,baci_reconciled
+2024,two_way,Intra_Africa,other manufactured goods,69437835289.0,baci_reconciled

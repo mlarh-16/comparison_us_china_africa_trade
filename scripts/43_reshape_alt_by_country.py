@@ -8,8 +8,11 @@ Re-buckets the raw reporter_partner cache with the ALT map at country level,
 then pivots category -> columns. Reuses 20_aggregate.py's loader/bucketing so
 values match the pipeline exactly.
 
-Output: output/us_china_africa_trade_by_country_alt_categories.csv
+Outputs:
+  output/us_china_africa_trade_by_country_alt_categories.csv     (US + China)
+  output/us_china_africa_trade_us_by_country_alt_categories.csv  (US only)
 Cols: Year, flow, reporter, country_iso3, country_name + 8 alt category columns.
+Both include an "Africa total (54 AU)" row per (Year, flow, reporter).
 
 Run: conda run -n us_china_africa_trade python scripts/43_reshape_alt_by_country.py
 """
@@ -31,6 +34,7 @@ agg = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(agg)
 
 DEST = Paths.output / "us_china_africa_trade_by_country_alt_categories.csv"
+US_DEST = Paths.output / "us_china_africa_trade_us_by_country_alt_categories.csv"
 
 ID_COLS = ["Year", "flow", "reporter", "country_iso3", "country_name"]
 KEY = ["year", "flow", "reporter", "country_iso3", "country_name", "category"]
@@ -40,8 +44,8 @@ CATEGORIES = [
     "raw agrifood",
     "processed agrifood",
     "energy minerals",
-    "critical minerals",
-    "precious metals & stones",
+    "unrefined minerals",
+    "refined minerals",
     "apparel",
     "other manufactured",
     agg.UNSPECIFIED,
@@ -78,6 +82,12 @@ def main() -> None:
     wide.to_csv(DEST, index=False, encoding="utf-8")
     print(f"{DEST.name}: {wide.shape[0]} rows x {len(CATEGORIES)} alt category columns "
           f"({(wide['country_iso3'] == 'AFR').sum()} Africa-total rows)")
+
+    # US-only slice (same columns; includes the US Africa-total rows).
+    us = wide[wide["reporter"] == "US"].reset_index(drop=True)
+    us.to_csv(US_DEST, index=False, encoding="utf-8")
+    print(f"{US_DEST.name}: {us.shape[0]} rows "
+          f"({(us['country_iso3'] == 'AFR').sum()} Africa-total rows)")
 
 
 if __name__ == "__main__":

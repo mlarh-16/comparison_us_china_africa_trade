@@ -130,26 +130,42 @@ def _chapters(*ranges) -> list[str]:
     return out
 
 
+# Refined base metals (HS 72, 74-81) are classified as MINERALS, not manufacturing
+# (resolved 2026-09-07, per stakeholder). For Africa these chapters are refined
+# copper cathodes (74, ~55% of the old "other manufactured" bucket on exports),
+# cobalt/tantalum (81), ferroalloys & semi-finished steel (72), aluminium (76)
+# etc. — the extractive value chain, not manufactures. HS 73 (iron/steel
+# articles), 82 (tools), 83 (misc base-metal articles) are genuine manufactures
+# and STAY in "other manufactured". See 04_decision_log.md.
+_REFINED_METALS = ["72", "74", "75", "76", "78", "79", "80", "81"]
+# "other manufactured" chapters in the 28-97 band, i.e. everything there except
+# apparel (50-63) and the refined metals above (73 & 77 kept; 77 is reserved/nil).
+_OTHER_MANUF_HI = _chapters((28, 49), (64, 70)) + ["73", "77"] + _chapters((82, 97))
+
 # Main 4-bucket scheme (all datasets).
 HS_CATEGORY_MAP_MAIN = {
     "agricultural goods": _chapters((1, 24)),
-    "mined goods": _chapters((25, 27)) + ["71"],          # HS 71 -> mineral
+    # ores + energy + precious (71) + refined base metals
+    "minerals & metals": _chapters((25, 27)) + ["71"] + _REFINED_METALS,
     "apparel": _chapters((50, 63)),
-    "other manufactured goods": _chapters((28, 49), (64, 70), (72, 97)),
+    "other manufactured goods": _OTHER_MANUF_HI,
 }
 
-# Alt 7-bucket scheme (aggregate-Africa outputs only). Was 6 buckets; HS 71 is
-# pulled out into its own "precious metals & stones" line rather than folded
-# into critical minerals (HS 26 = ores; gold/diamonds are not strategic
-# critical minerals) — see decision log 2026-06-05.
+# Alt 7-bucket scheme (aggregate-Africa outputs only). Minerals are split into
+# UNREFINED (HS 26 ores/concentrates) vs REFINED (HS 71 precious metals & stones
+# + HS 72,74-81 refined base metals), so the graph shows Africa's extractive
+# value-addition. Renamed from "critical minerals"/"precious metals & stones"
+# 2026-09-07 (see decision log); HS 71 is folded into refined minerals (for
+# US/China flows it is overwhelmingly refined gold/platinum — rough-diamond
+# caveat noted in the classification doc).
 HS_CATEGORY_MAP_ALT = {
     "raw agrifood": ["01", "02", "03", "05", "06", "07", "08", "09", "10", "12", "13", "14"],
     "processed agrifood": ["04", "11", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24"],
     "energy minerals": ["27"],
-    "critical minerals": ["26"],
-    "precious metals & stones": ["71"],
+    "unrefined minerals": ["26"],
+    "refined minerals": ["71"] + _REFINED_METALS,
     "apparel": _chapters((50, 63)),
-    "other manufactured": ["25"] + _chapters((28, 49), (64, 70), (72, 97)),
+    "other manufactured": ["25"] + _OTHER_MANUF_HI,
 }
 
 

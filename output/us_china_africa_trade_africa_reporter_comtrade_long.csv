@@ -1,0 +1,2173 @@
+Year,flow,partner_region,category,value_usd,source
+2000,imports,USA,agricultural goods,2330624321.0,comtrade_mirror_raw
+2000,imports,USA,minerals & metals,578270554.0,comtrade_mirror_raw
+2000,imports,USA,apparel,174259750.0,comtrade_mirror_raw
+2000,imports,USA,other manufactured goods,7519459404.0,comtrade_mirror_raw
+2000,imports,China,agricultural goods,453978681.0,comtrade_mirror_raw
+2000,imports,China,minerals & metals,128171859.0,comtrade_mirror_raw
+2000,imports,China,apparel,1380934074.0,comtrade_mirror_raw
+2000,imports,China,other manufactured goods,2865237303.0,comtrade_mirror_raw
+2000,imports,Europe,agricultural goods,6723486310.618,comtrade_mirror_raw
+2000,imports,Europe,minerals & metals,5938786078.881,comtrade_mirror_raw
+2000,imports,Europe,apparel,4581979465.721,comtrade_mirror_raw
+2000,imports,Europe,other manufactured goods,44150297992.968,comtrade_mirror_raw
+2000,imports,Asia_ex_China,agricultural goods,1923021317.002,comtrade_mirror_raw
+2000,imports,Asia_ex_China,minerals & metals,1222347342.0,comtrade_mirror_raw
+2000,imports,Asia_ex_China,apparel,3370059661.952,comtrade_mirror_raw
+2000,imports,Asia_ex_China,other manufactured goods,15392735906.746,comtrade_mirror_raw
+2000,imports,N_America_ex_US,agricultural goods,586213193.0,comtrade_mirror_raw
+2000,imports,N_America_ex_US,minerals & metals,59420357.0,comtrade_mirror_raw
+2000,imports,N_America_ex_US,apparel,34167525.0,comtrade_mirror_raw
+2000,imports,N_America_ex_US,other manufactured goods,337217642.0,comtrade_mirror_raw
+2000,imports,S_America,agricultural goods,1647154211.43,comtrade_mirror_raw
+2000,imports,S_America,minerals & metals,411116155.0,comtrade_mirror_raw
+2000,imports,S_America,apparel,16415064.0,comtrade_mirror_raw
+2000,imports,S_America,other manufactured goods,854732496.23,comtrade_mirror_raw
+2000,imports,Oceania,agricultural goods,464800788.0,comtrade_mirror_raw
+2000,imports,Oceania,minerals & metals,129849450.0,comtrade_mirror_raw
+2000,imports,Oceania,apparel,26618359.0,comtrade_mirror_raw
+2000,imports,Oceania,other manufactured goods,293627399.0,comtrade_mirror_raw
+2001,imports,USA,agricultural goods,2088403607.0,comtrade_mirror_raw
+2001,imports,USA,minerals & metals,338225140.0,comtrade_mirror_raw
+2001,imports,USA,apparel,191472732.0,comtrade_mirror_raw
+2001,imports,USA,other manufactured goods,9052621738.0,comtrade_mirror_raw
+2001,imports,China,agricultural goods,414969632.0,comtrade_mirror_raw
+2001,imports,China,minerals & metals,204705277.0,comtrade_mirror_raw
+2001,imports,China,apparel,1562778166.0,comtrade_mirror_raw
+2001,imports,China,other manufactured goods,3414115954.0,comtrade_mirror_raw
+2001,imports,Europe,agricultural goods,6997258980.347,comtrade_mirror_raw
+2001,imports,Europe,minerals & metals,5686383820.643,comtrade_mirror_raw
+2001,imports,Europe,apparel,4775798944.393,comtrade_mirror_raw
+2001,imports,Europe,other manufactured goods,45728224097.052,comtrade_mirror_raw
+2001,imports,Asia_ex_China,agricultural goods,2316380607.0,comtrade_mirror_raw
+2001,imports,Asia_ex_China,minerals & metals,1489218324.0,comtrade_mirror_raw
+2001,imports,Asia_ex_China,apparel,3532637884.82,comtrade_mirror_raw
+2001,imports,Asia_ex_China,other manufactured goods,15336763423.394,comtrade_mirror_raw
+2001,imports,N_America_ex_US,agricultural goods,545349191.0,comtrade_mirror_raw
+2001,imports,N_America_ex_US,minerals & metals,51225220.0,comtrade_mirror_raw
+2001,imports,N_America_ex_US,apparel,39237651.0,comtrade_mirror_raw
+2001,imports,N_America_ex_US,other manufactured goods,294583301.0,comtrade_mirror_raw
+2001,imports,S_America,agricultural goods,2241422637.5,comtrade_mirror_raw
+2001,imports,S_America,minerals & metals,496369058.0,comtrade_mirror_raw
+2001,imports,S_America,apparel,24079083.0,comtrade_mirror_raw
+2001,imports,S_America,other manufactured goods,983406160.79,comtrade_mirror_raw
+2001,imports,Oceania,agricultural goods,508805811.0,comtrade_mirror_raw
+2001,imports,Oceania,minerals & metals,160585199.0,comtrade_mirror_raw
+2001,imports,Oceania,apparel,26754705.0,comtrade_mirror_raw
+2001,imports,Oceania,other manufactured goods,318482183.0,comtrade_mirror_raw
+2002,imports,USA,agricultural goods,2283384717.0,comtrade_mirror_raw
+2002,imports,USA,minerals & metals,346339483.0,comtrade_mirror_raw
+2002,imports,USA,apparel,152450785.0,comtrade_mirror_raw
+2002,imports,USA,other manufactured goods,7498691246.0,comtrade_mirror_raw
+2002,imports,China,agricultural goods,435194985.0,comtrade_mirror_raw
+2002,imports,China,minerals & metals,158568257.0,comtrade_mirror_raw
+2002,imports,China,apparel,1789502630.0,comtrade_mirror_raw
+2002,imports,China,other manufactured goods,4021179176.0,comtrade_mirror_raw
+2002,imports,Europe,agricultural goods,7809229670.702,comtrade_mirror_raw
+2002,imports,Europe,minerals & metals,6024088011.8689995,comtrade_mirror_raw
+2002,imports,Europe,apparel,4981324958.179,comtrade_mirror_raw
+2002,imports,Europe,other manufactured goods,48545513614.96,comtrade_mirror_raw
+2002,imports,Asia_ex_China,agricultural goods,3152190954.0,comtrade_mirror_raw
+2002,imports,Asia_ex_China,minerals & metals,1720740215.0,comtrade_mirror_raw
+2002,imports,Asia_ex_China,apparel,3543046577.722,comtrade_mirror_raw
+2002,imports,Asia_ex_China,other manufactured goods,16705040281.415,comtrade_mirror_raw
+2002,imports,N_America_ex_US,agricultural goods,584113186.0,comtrade_mirror_raw
+2002,imports,N_America_ex_US,minerals & metals,56228483.0,comtrade_mirror_raw
+2002,imports,N_America_ex_US,apparel,39529554.0,comtrade_mirror_raw
+2002,imports,N_America_ex_US,other manufactured goods,329323980.0,comtrade_mirror_raw
+2002,imports,S_America,agricultural goods,2452991789.8,comtrade_mirror_raw
+2002,imports,S_America,minerals & metals,543027725.0,comtrade_mirror_raw
+2002,imports,S_America,apparel,28724362.453,comtrade_mirror_raw
+2002,imports,S_America,other manufactured goods,1087513584.74,comtrade_mirror_raw
+2002,imports,Oceania,agricultural goods,490366227.0,comtrade_mirror_raw
+2002,imports,Oceania,minerals & metals,221089285.0,comtrade_mirror_raw
+2002,imports,Oceania,apparel,32863387.0,comtrade_mirror_raw
+2002,imports,Oceania,other manufactured goods,339146413.0,comtrade_mirror_raw
+2003,imports,USA,agricultural goods,2463292275.0,comtrade_mirror_raw
+2003,imports,USA,minerals & metals,387136435.0,comtrade_mirror_raw
+2003,imports,USA,apparel,163555405.0,comtrade_mirror_raw
+2003,imports,USA,other manufactured goods,7223166429.0,comtrade_mirror_raw
+2003,imports,China,agricultural goods,635315659.0,comtrade_mirror_raw
+2003,imports,China,minerals & metals,255182529.0,comtrade_mirror_raw
+2003,imports,China,apparel,2860051524.0,comtrade_mirror_raw
+2003,imports,China,other manufactured goods,5808939879.0,comtrade_mirror_raw
+2003,imports,Europe,agricultural goods,8382095721.818,comtrade_mirror_raw
+2003,imports,Europe,minerals & metals,7338111968.914,comtrade_mirror_raw
+2003,imports,Europe,apparel,5574206519.479,comtrade_mirror_raw
+2003,imports,Europe,other manufactured goods,58405709517.349,comtrade_mirror_raw
+2003,imports,Asia_ex_China,agricultural goods,3646233054.868,comtrade_mirror_raw
+2003,imports,Asia_ex_China,minerals & metals,2116322775.1430001,comtrade_mirror_raw
+2003,imports,Asia_ex_China,apparel,4333429403.005,comtrade_mirror_raw
+2003,imports,Asia_ex_China,other manufactured goods,18940715226.199,comtrade_mirror_raw
+2003,imports,N_America_ex_US,agricultural goods,491711731.0,comtrade_mirror_raw
+2003,imports,N_America_ex_US,minerals & metals,85347576.0,comtrade_mirror_raw
+2003,imports,N_America_ex_US,apparel,51255175.0,comtrade_mirror_raw
+2003,imports,N_America_ex_US,other manufactured goods,490640243.0,comtrade_mirror_raw
+2003,imports,S_America,agricultural goods,2643690139.07,comtrade_mirror_raw
+2003,imports,S_America,minerals & metals,623729117.527,comtrade_mirror_raw
+2003,imports,S_America,apparel,31028890.871,comtrade_mirror_raw
+2003,imports,S_America,other manufactured goods,1371342177.507,comtrade_mirror_raw
+2003,imports,Oceania,agricultural goods,369821885.0,comtrade_mirror_raw
+2003,imports,Oceania,minerals & metals,260341647.0,comtrade_mirror_raw
+2003,imports,Oceania,apparel,31189521.0,comtrade_mirror_raw
+2003,imports,Oceania,other manufactured goods,388258958.0,comtrade_mirror_raw
+2004,imports,USA,agricultural goods,2908665217.0,comtrade_mirror_raw
+2004,imports,USA,minerals & metals,510456314.0,comtrade_mirror_raw
+2004,imports,USA,apparel,170611998.0,comtrade_mirror_raw
+2004,imports,USA,other manufactured goods,9104390900.0,comtrade_mirror_raw
+2004,imports,China,agricultural goods,572780891.0,comtrade_mirror_raw
+2004,imports,China,minerals & metals,366555234.0,comtrade_mirror_raw
+2004,imports,China,apparel,3867237205.0,comtrade_mirror_raw
+2004,imports,China,other manufactured goods,7986947530.0,comtrade_mirror_raw
+2004,imports,Europe,agricultural goods,9193607239.654,comtrade_mirror_raw
+2004,imports,Europe,minerals & metals,10444056935.194,comtrade_mirror_raw
+2004,imports,Europe,apparel,5941230133.85,comtrade_mirror_raw
+2004,imports,Europe,other manufactured goods,69618871425.913,comtrade_mirror_raw
+2004,imports,Asia_ex_China,agricultural goods,4528005586.422,comtrade_mirror_raw
+2004,imports,Asia_ex_China,minerals & metals,2903053576.737,comtrade_mirror_raw
+2004,imports,Asia_ex_China,apparel,4785450219.372,comtrade_mirror_raw
+2004,imports,Asia_ex_China,other manufactured goods,27571409581.499,comtrade_mirror_raw
+2004,imports,N_America_ex_US,agricultural goods,460681161.0,comtrade_mirror_raw
+2004,imports,N_America_ex_US,minerals & metals,66208681.0,comtrade_mirror_raw
+2004,imports,N_America_ex_US,apparel,43936916.0,comtrade_mirror_raw
+2004,imports,N_America_ex_US,other manufactured goods,646840948.0,comtrade_mirror_raw
+2004,imports,S_America,agricultural goods,3960121841.16,comtrade_mirror_raw
+2004,imports,S_America,minerals & metals,997485833.958,comtrade_mirror_raw
+2004,imports,S_America,apparel,29056251.502,comtrade_mirror_raw
+2004,imports,S_America,other manufactured goods,1850633401.8009999,comtrade_mirror_raw
+2004,imports,Oceania,agricultural goods,514700459.0,comtrade_mirror_raw
+2004,imports,Oceania,minerals & metals,282585267.0,comtrade_mirror_raw
+2004,imports,Oceania,apparel,34012242.0,comtrade_mirror_raw
+2004,imports,Oceania,other manufactured goods,485988464.0,comtrade_mirror_raw
+2005,imports,USA,agricultural goods,2692414444.0,comtrade_mirror_raw
+2005,imports,USA,minerals & metals,611877636.0,comtrade_mirror_raw
+2005,imports,USA,apparel,163861191.0,comtrade_mirror_raw
+2005,imports,USA,other manufactured goods,11148132795.0,comtrade_mirror_raw
+2005,imports,China,agricultural goods,630901856.0,comtrade_mirror_raw
+2005,imports,China,minerals & metals,545168443.0,comtrade_mirror_raw
+2005,imports,China,apparel,4652802396.0,comtrade_mirror_raw
+2005,imports,China,other manufactured goods,11270978095.0,comtrade_mirror_raw
+2005,imports,Europe,agricultural goods,9921811567.653,comtrade_mirror_raw
+2005,imports,Europe,minerals & metals,13805995431.035,comtrade_mirror_raw
+2005,imports,Europe,apparel,5665100277.452,comtrade_mirror_raw
+2005,imports,Europe,other manufactured goods,77700774533.465,comtrade_mirror_raw
+2005,imports,Asia_ex_China,agricultural goods,5232226296.289,comtrade_mirror_raw
+2005,imports,Asia_ex_China,minerals & metals,3960992967.0,comtrade_mirror_raw
+2005,imports,Asia_ex_China,apparel,4589269160.384,comtrade_mirror_raw
+2005,imports,Asia_ex_China,other manufactured goods,31742149562.267,comtrade_mirror_raw
+2005,imports,N_America_ex_US,agricultural goods,469437498.0,comtrade_mirror_raw
+2005,imports,N_America_ex_US,minerals & metals,157043305.0,comtrade_mirror_raw
+2005,imports,N_America_ex_US,apparel,82772190.0,comtrade_mirror_raw
+2005,imports,N_America_ex_US,other manufactured goods,862718470.0,comtrade_mirror_raw
+2005,imports,S_America,agricultural goods,4953904823.96,comtrade_mirror_raw
+2005,imports,S_America,minerals & metals,1531079816.5970001,comtrade_mirror_raw
+2005,imports,S_America,apparel,34084416.28,comtrade_mirror_raw
+2005,imports,S_America,other manufactured goods,2782046673.798,comtrade_mirror_raw
+2005,imports,Oceania,agricultural goods,580119193.0,comtrade_mirror_raw
+2005,imports,Oceania,minerals & metals,468103728.0,comtrade_mirror_raw
+2005,imports,Oceania,apparel,37185651.0,comtrade_mirror_raw
+2005,imports,Oceania,other manufactured goods,818995321.0,comtrade_mirror_raw
+2006,imports,USA,agricultural goods,3017339910.0,comtrade_mirror_raw
+2006,imports,USA,minerals & metals,1136337703.0,comtrade_mirror_raw
+2006,imports,USA,apparel,179325411.0,comtrade_mirror_raw
+2006,imports,USA,other manufactured goods,13779782121.0,comtrade_mirror_raw
+2006,imports,China,agricultural goods,843093034.0,comtrade_mirror_raw
+2006,imports,China,minerals & metals,1065161214.0,comtrade_mirror_raw
+2006,imports,China,apparel,6406861893.0,comtrade_mirror_raw
+2006,imports,China,other manufactured goods,16501247616.0,comtrade_mirror_raw
+2006,imports,Europe,agricultural goods,10701252746.14,comtrade_mirror_raw
+2006,imports,Europe,minerals & metals,17097360823.883,comtrade_mirror_raw
+2006,imports,Europe,apparel,5945019950.331,comtrade_mirror_raw
+2006,imports,Europe,other manufactured goods,85444529667.994,comtrade_mirror_raw
+2006,imports,Asia_ex_China,agricultural goods,5789048220.895,comtrade_mirror_raw
+2006,imports,Asia_ex_China,minerals & metals,7717530727.684,comtrade_mirror_raw
+2006,imports,Asia_ex_China,apparel,5132082065.007,comtrade_mirror_raw
+2006,imports,Asia_ex_China,other manufactured goods,38339220664.194,comtrade_mirror_raw
+2006,imports,N_America_ex_US,agricultural goods,672477624.0,comtrade_mirror_raw
+2006,imports,N_America_ex_US,minerals & metals,172957104.0,comtrade_mirror_raw
+2006,imports,N_America_ex_US,apparel,113594316.0,comtrade_mirror_raw
+2006,imports,N_America_ex_US,other manufactured goods,1140443990.0,comtrade_mirror_raw
+2006,imports,S_America,agricultural goods,5854333247.54,comtrade_mirror_raw
+2006,imports,S_America,minerals & metals,2014918475.275,comtrade_mirror_raw
+2006,imports,S_America,apparel,43584567.01,comtrade_mirror_raw
+2006,imports,S_America,other manufactured goods,3733915378.927,comtrade_mirror_raw
+2006,imports,Oceania,agricultural goods,769388166.0,comtrade_mirror_raw
+2006,imports,Oceania,minerals & metals,556041988.0,comtrade_mirror_raw
+2006,imports,Oceania,apparel,37549136.0,comtrade_mirror_raw
+2006,imports,Oceania,other manufactured goods,890140966.0,comtrade_mirror_raw
+2007,imports,USA,agricultural goods,5161822507.0,comtrade_mirror_raw
+2007,imports,USA,minerals & metals,1715878974.0,comtrade_mirror_raw
+2007,imports,USA,apparel,217411018.0,comtrade_mirror_raw
+2007,imports,USA,other manufactured goods,15733327779.0,comtrade_mirror_raw
+2007,imports,China,agricultural goods,1083370849.0,comtrade_mirror_raw
+2007,imports,China,minerals & metals,1877836495.0,comtrade_mirror_raw
+2007,imports,China,apparel,8750169637.0,comtrade_mirror_raw
+2007,imports,China,other manufactured goods,23880331043.0,comtrade_mirror_raw
+2007,imports,Europe,agricultural goods,14433601337.736,comtrade_mirror_raw
+2007,imports,Europe,minerals & metals,22050100619.29,comtrade_mirror_raw
+2007,imports,Europe,apparel,6663402224.101,comtrade_mirror_raw
+2007,imports,Europe,other manufactured goods,103868244824.61,comtrade_mirror_raw
+2007,imports,Asia_ex_China,agricultural goods,8147165272.828,comtrade_mirror_raw
+2007,imports,Asia_ex_China,minerals & metals,9572417796.0,comtrade_mirror_raw
+2007,imports,Asia_ex_China,apparel,5791918693.967,comtrade_mirror_raw
+2007,imports,Asia_ex_China,other manufactured goods,47098449634.66,comtrade_mirror_raw
+2007,imports,N_America_ex_US,agricultural goods,893577855.0,comtrade_mirror_raw
+2007,imports,N_America_ex_US,minerals & metals,182718723.0,comtrade_mirror_raw
+2007,imports,N_America_ex_US,apparel,115377703.0,comtrade_mirror_raw
+2007,imports,N_America_ex_US,other manufactured goods,1678951970.0,comtrade_mirror_raw
+2007,imports,S_America,agricultural goods,7243016421.389,comtrade_mirror_raw
+2007,imports,S_America,minerals & metals,2370408277.032,comtrade_mirror_raw
+2007,imports,S_America,apparel,50796451.255,comtrade_mirror_raw
+2007,imports,S_America,other manufactured goods,4292703323.179,comtrade_mirror_raw
+2007,imports,Oceania,agricultural goods,904070160.0,comtrade_mirror_raw
+2007,imports,Oceania,minerals & metals,473282003.0,comtrade_mirror_raw
+2007,imports,Oceania,apparel,42321479.0,comtrade_mirror_raw
+2007,imports,Oceania,other manufactured goods,1463366288.0,comtrade_mirror_raw
+2008,imports,USA,agricultural goods,5694692120.0,comtrade_mirror_raw
+2008,imports,USA,minerals & metals,3240766578.0,comtrade_mirror_raw
+2008,imports,USA,apparel,295327541.0,comtrade_mirror_raw
+2008,imports,USA,other manufactured goods,18436158410.0,comtrade_mirror_raw
+2008,imports,China,agricultural goods,1473575759.0,comtrade_mirror_raw
+2008,imports,China,minerals & metals,3626521081.0,comtrade_mirror_raw
+2008,imports,China,apparel,8778251725.0,comtrade_mirror_raw
+2008,imports,China,other manufactured goods,35323047178.0,comtrade_mirror_raw
+2008,imports,Europe,agricultural goods,18959049998.68,comtrade_mirror_raw
+2008,imports,Europe,minerals & metals,35481437896.069,comtrade_mirror_raw
+2008,imports,Europe,apparel,7360165094.387,comtrade_mirror_raw
+2008,imports,Europe,other manufactured goods,123483965980.508,comtrade_mirror_raw
+2008,imports,Asia_ex_China,agricultural goods,11853123759.835,comtrade_mirror_raw
+2008,imports,Asia_ex_China,minerals & metals,14926858089.0,comtrade_mirror_raw
+2008,imports,Asia_ex_China,apparel,6683145007.84,comtrade_mirror_raw
+2008,imports,Asia_ex_China,other manufactured goods,56447587562.942,comtrade_mirror_raw
+2008,imports,N_America_ex_US,agricultural goods,1548319449.0,comtrade_mirror_raw
+2008,imports,N_America_ex_US,minerals & metals,412189751.0,comtrade_mirror_raw
+2008,imports,N_America_ex_US,apparel,136002546.0,comtrade_mirror_raw
+2008,imports,N_America_ex_US,other manufactured goods,1664731800.0,comtrade_mirror_raw
+2008,imports,S_America,agricultural goods,9829681828.0,comtrade_mirror_raw
+2008,imports,S_America,minerals & metals,2575257272.901,comtrade_mirror_raw
+2008,imports,S_America,apparel,66765646.868,comtrade_mirror_raw
+2008,imports,S_America,other manufactured goods,4881405860.469,comtrade_mirror_raw
+2008,imports,Oceania,agricultural goods,1107465675.0,comtrade_mirror_raw
+2008,imports,Oceania,minerals & metals,744420432.0,comtrade_mirror_raw
+2008,imports,Oceania,apparel,39053047.0,comtrade_mirror_raw
+2008,imports,Oceania,other manufactured goods,1411418181.0,comtrade_mirror_raw
+2009,imports,USA,agricultural goods,4123351314.0,comtrade_mirror_raw
+2009,imports,USA,minerals & metals,2357564169.0,comtrade_mirror_raw
+2009,imports,USA,apparel,255060123.0,comtrade_mirror_raw
+2009,imports,USA,other manufactured goods,16739334017.0,comtrade_mirror_raw
+2009,imports,China,agricultural goods,1513853486.0,comtrade_mirror_raw
+2009,imports,China,minerals & metals,2153428664.0,comtrade_mirror_raw
+2009,imports,China,apparel,8422325038.0,comtrade_mirror_raw
+2009,imports,China,other manufactured goods,33828026474.0,comtrade_mirror_raw
+2009,imports,Europe,agricultural goods,17013975490.004,comtrade_mirror_raw
+2009,imports,Europe,minerals & metals,25345359068.245,comtrade_mirror_raw
+2009,imports,Europe,apparel,6338266621.987,comtrade_mirror_raw
+2009,imports,Europe,other manufactured goods,109694953985.57,comtrade_mirror_raw
+2009,imports,Asia_ex_China,agricultural goods,10107309360.932,comtrade_mirror_raw
+2009,imports,Asia_ex_China,minerals & metals,12364652094.0,comtrade_mirror_raw
+2009,imports,Asia_ex_China,apparel,5581620826.218,comtrade_mirror_raw
+2009,imports,Asia_ex_China,other manufactured goods,52496943396.212,comtrade_mirror_raw
+2009,imports,N_America_ex_US,agricultural goods,957672415.0,comtrade_mirror_raw
+2009,imports,N_America_ex_US,minerals & metals,267381834.0,comtrade_mirror_raw
+2009,imports,N_America_ex_US,apparel,110886664.0,comtrade_mirror_raw
+2009,imports,N_America_ex_US,other manufactured goods,1450613878.0,comtrade_mirror_raw
+2009,imports,S_America,agricultural goods,8061143866.285,comtrade_mirror_raw
+2009,imports,S_America,minerals & metals,1529118639.367,comtrade_mirror_raw
+2009,imports,S_America,apparel,50495344.535,comtrade_mirror_raw
+2009,imports,S_America,other manufactured goods,3789897327.374,comtrade_mirror_raw
+2009,imports,Oceania,agricultural goods,1042365998.007,comtrade_mirror_raw
+2009,imports,Oceania,minerals & metals,325431731.439,comtrade_mirror_raw
+2009,imports,Oceania,apparel,35074287.0,comtrade_mirror_raw
+2009,imports,Oceania,other manufactured goods,889402779.0,comtrade_mirror_raw
+2010,imports,USA,agricultural goods,5586559308.0,comtrade_mirror_raw
+2010,imports,USA,minerals & metals,3505675526.0,comtrade_mirror_raw
+2010,imports,USA,apparel,339552775.0,comtrade_mirror_raw
+2010,imports,USA,other manufactured goods,17987381698.0,comtrade_mirror_raw
+2010,imports,China,agricultural goods,1705550572.0,comtrade_mirror_raw
+2010,imports,China,minerals & metals,2969401166.0,comtrade_mirror_raw
+2010,imports,China,apparel,10500962255.0,comtrade_mirror_raw
+2010,imports,China,other manufactured goods,42665634073.0,comtrade_mirror_raw
+2010,imports,Europe,agricultural goods,18941078629.59,comtrade_mirror_raw
+2010,imports,Europe,minerals & metals,32110514958.692,comtrade_mirror_raw
+2010,imports,Europe,apparel,6505957887.453,comtrade_mirror_raw
+2010,imports,Europe,other manufactured goods,114033303832.847,comtrade_mirror_raw
+2010,imports,Asia_ex_China,agricultural goods,12474007013.263,comtrade_mirror_raw
+2010,imports,Asia_ex_China,minerals & metals,15453576980.591,comtrade_mirror_raw
+2010,imports,Asia_ex_China,apparel,6335379120.799,comtrade_mirror_raw
+2010,imports,Asia_ex_China,other manufactured goods,62849868483.155,comtrade_mirror_raw
+2010,imports,N_America_ex_US,agricultural goods,1055836127.0,comtrade_mirror_raw
+2010,imports,N_America_ex_US,minerals & metals,312223567.0,comtrade_mirror_raw
+2010,imports,N_America_ex_US,apparel,125672917.0,comtrade_mirror_raw
+2010,imports,N_America_ex_US,other manufactured goods,1638949142.0,comtrade_mirror_raw
+2010,imports,S_America,agricultural goods,9784775623.651,comtrade_mirror_raw
+2010,imports,S_America,minerals & metals,2171991799.2139997,comtrade_mirror_raw
+2010,imports,S_America,apparel,63540149.797,comtrade_mirror_raw
+2010,imports,S_America,other manufactured goods,3577987293.692,comtrade_mirror_raw
+2010,imports,Oceania,agricultural goods,1463348277.363,comtrade_mirror_raw
+2010,imports,Oceania,minerals & metals,575145306.237,comtrade_mirror_raw
+2010,imports,Oceania,apparel,37832275.086,comtrade_mirror_raw
+2010,imports,Oceania,other manufactured goods,1103993997.924,comtrade_mirror_raw
+2011,imports,USA,agricultural goods,6961694678.0,comtrade_mirror_raw
+2011,imports,USA,minerals & metals,4988331039.0,comtrade_mirror_raw
+2011,imports,USA,apparel,456436435.0,comtrade_mirror_raw
+2011,imports,USA,other manufactured goods,19351423831.0,comtrade_mirror_raw
+2011,imports,China,agricultural goods,2352691880.0,comtrade_mirror_raw
+2011,imports,China,minerals & metals,4095937097.0,comtrade_mirror_raw
+2011,imports,China,apparel,13194204578.0,comtrade_mirror_raw
+2011,imports,China,other manufactured goods,51249963092.0,comtrade_mirror_raw
+2011,imports,Europe,agricultural goods,24173495934.044,comtrade_mirror_raw
+2011,imports,Europe,minerals & metals,41877451584.221,comtrade_mirror_raw
+2011,imports,Europe,apparel,7025956458.117,comtrade_mirror_raw
+2011,imports,Europe,other manufactured goods,123960553352.431,comtrade_mirror_raw
+2011,imports,Asia_ex_China,agricultural goods,17560144073.753,comtrade_mirror_raw
+2011,imports,Asia_ex_China,minerals & metals,21646994773.04,comtrade_mirror_raw
+2011,imports,Asia_ex_China,apparel,6907427170.513,comtrade_mirror_raw
+2011,imports,Asia_ex_China,other manufactured goods,70740936736.928,comtrade_mirror_raw
+2011,imports,N_America_ex_US,agricultural goods,1121309221.0,comtrade_mirror_raw
+2011,imports,N_America_ex_US,minerals & metals,426444087.0,comtrade_mirror_raw
+2011,imports,N_America_ex_US,apparel,141844961.0,comtrade_mirror_raw
+2011,imports,N_America_ex_US,other manufactured goods,1647038759.0,comtrade_mirror_raw
+2011,imports,S_America,agricultural goods,15156130010.219,comtrade_mirror_raw
+2011,imports,S_America,minerals & metals,2107122638.129,comtrade_mirror_raw
+2011,imports,S_America,apparel,109155167.293,comtrade_mirror_raw
+2011,imports,S_America,other manufactured goods,3918849305.673,comtrade_mirror_raw
+2011,imports,Oceania,agricultural goods,2065828388.504,comtrade_mirror_raw
+2011,imports,Oceania,minerals & metals,542329453.8,comtrade_mirror_raw
+2011,imports,Oceania,apparel,46162535.9,comtrade_mirror_raw
+2011,imports,Oceania,other manufactured goods,1164118734.127,comtrade_mirror_raw
+2012,imports,USA,agricultural goods,5693968846.0,comtrade_mirror_raw
+2012,imports,USA,minerals & metals,4390251165.0,comtrade_mirror_raw
+2012,imports,USA,apparel,429388045.0,comtrade_mirror_raw
+2012,imports,USA,other manufactured goods,21330315947.0,comtrade_mirror_raw
+2012,imports,China,agricultural goods,2425072857.0,comtrade_mirror_raw
+2012,imports,China,minerals & metals,4442363418.0,comtrade_mirror_raw
+2012,imports,China,apparel,15362562246.0,comtrade_mirror_raw
+2012,imports,China,other manufactured goods,62905090977.0,comtrade_mirror_raw
+2012,imports,Europe,agricultural goods,27029284941.394,comtrade_mirror_raw
+2012,imports,Europe,minerals & metals,47833841840.18,comtrade_mirror_raw
+2012,imports,Europe,apparel,6563037525.92,comtrade_mirror_raw
+2012,imports,Europe,other manufactured goods,125410591679.321,comtrade_mirror_raw
+2012,imports,Asia_ex_China,agricultural goods,19477708639.761,comtrade_mirror_raw
+2012,imports,Asia_ex_China,minerals & metals,24888878618.096,comtrade_mirror_raw
+2012,imports,Asia_ex_China,apparel,7593608714.526,comtrade_mirror_raw
+2012,imports,Asia_ex_China,other manufactured goods,78963744278.823,comtrade_mirror_raw
+2012,imports,N_America_ex_US,agricultural goods,1536842888.0,comtrade_mirror_raw
+2012,imports,N_America_ex_US,minerals & metals,295075470.0,comtrade_mirror_raw
+2012,imports,N_America_ex_US,apparel,142742666.0,comtrade_mirror_raw
+2012,imports,N_America_ex_US,other manufactured goods,1815935628.0,comtrade_mirror_raw
+2012,imports,S_America,agricultural goods,14915722984.839,comtrade_mirror_raw
+2012,imports,S_America,minerals & metals,1919872953.957,comtrade_mirror_raw
+2012,imports,S_America,apparel,71729242.507,comtrade_mirror_raw
+2012,imports,S_America,other manufactured goods,3945506390.9570003,comtrade_mirror_raw
+2012,imports,Oceania,agricultural goods,2386094066.207,comtrade_mirror_raw
+2012,imports,Oceania,minerals & metals,464210845.366,comtrade_mirror_raw
+2012,imports,Oceania,apparel,69398805.569,comtrade_mirror_raw
+2012,imports,Oceania,other manufactured goods,1258730650.952,comtrade_mirror_raw
+2013,imports,USA,agricultural goods,5297657694.0,comtrade_mirror_raw
+2013,imports,USA,minerals & metals,7625188575.0,comtrade_mirror_raw
+2013,imports,USA,apparel,450001599.0,comtrade_mirror_raw
+2013,imports,USA,other manufactured goods,20959621252.0,comtrade_mirror_raw
+2013,imports,China,agricultural goods,2725545665.0,comtrade_mirror_raw
+2013,imports,China,minerals & metals,5378236784.0,comtrade_mirror_raw
+2013,imports,China,apparel,16275636383.0,comtrade_mirror_raw
+2013,imports,China,other manufactured goods,68195729931.0,comtrade_mirror_raw
+2013,imports,Europe,agricultural goods,27864333293.336,comtrade_mirror_raw
+2013,imports,Europe,minerals & metals,47551964493.234,comtrade_mirror_raw
+2013,imports,Europe,apparel,6782482199.776,comtrade_mirror_raw
+2013,imports,Europe,other manufactured goods,131290111050.084,comtrade_mirror_raw
+2013,imports,Asia_ex_China,agricultural goods,19673019337.821,comtrade_mirror_raw
+2013,imports,Asia_ex_China,minerals & metals,30323119198.605,comtrade_mirror_raw
+2013,imports,Asia_ex_China,apparel,7991359058.602,comtrade_mirror_raw
+2013,imports,Asia_ex_China,other manufactured goods,77766611859.701,comtrade_mirror_raw
+2013,imports,N_America_ex_US,agricultural goods,1616869166.0,comtrade_mirror_raw
+2013,imports,N_America_ex_US,minerals & metals,503496780.0,comtrade_mirror_raw
+2013,imports,N_America_ex_US,apparel,126535182.0,comtrade_mirror_raw
+2013,imports,N_America_ex_US,other manufactured goods,1593564725.69,comtrade_mirror_raw
+2013,imports,S_America,agricultural goods,13524932970.449,comtrade_mirror_raw
+2013,imports,S_America,minerals & metals,1900178162.845,comtrade_mirror_raw
+2013,imports,S_America,apparel,56469547.189,comtrade_mirror_raw
+2013,imports,S_America,other manufactured goods,3653071166.566,comtrade_mirror_raw
+2013,imports,Oceania,agricultural goods,2461902192.064,comtrade_mirror_raw
+2013,imports,Oceania,minerals & metals,294018703.89,comtrade_mirror_raw
+2013,imports,Oceania,apparel,69247789.054,comtrade_mirror_raw
+2013,imports,Oceania,other manufactured goods,1003674369.604,comtrade_mirror_raw
+2014,imports,USA,agricultural goods,4952586689.0,comtrade_mirror_raw
+2014,imports,USA,minerals & metals,7248693747.0,comtrade_mirror_raw
+2014,imports,USA,apparel,458992926.0,comtrade_mirror_raw
+2014,imports,USA,other manufactured goods,24517010513.0,comtrade_mirror_raw
+2014,imports,China,agricultural goods,2763389382.0,comtrade_mirror_raw
+2014,imports,China,minerals & metals,7062271052.0,comtrade_mirror_raw
+2014,imports,China,apparel,19053405597.0,comtrade_mirror_raw
+2014,imports,China,other manufactured goods,76958340149.0,comtrade_mirror_raw
+2014,imports,Europe,agricultural goods,30678942250.7,comtrade_mirror_raw
+2014,imports,Europe,minerals & metals,43474388027.399,comtrade_mirror_raw
+2014,imports,Europe,apparel,7092353790.91,comtrade_mirror_raw
+2014,imports,Europe,other manufactured goods,132404474077.6,comtrade_mirror_raw
+2014,imports,Asia_ex_China,agricultural goods,20027638101.579,comtrade_mirror_raw
+2014,imports,Asia_ex_China,minerals & metals,30913022265.831,comtrade_mirror_raw
+2014,imports,Asia_ex_China,apparel,8121043386.259,comtrade_mirror_raw
+2014,imports,Asia_ex_China,other manufactured goods,79383899641.331,comtrade_mirror_raw
+2014,imports,N_America_ex_US,agricultural goods,1709781925.0,comtrade_mirror_raw
+2014,imports,N_America_ex_US,minerals & metals,794934210.0,comtrade_mirror_raw
+2014,imports,N_America_ex_US,apparel,123502447.0,comtrade_mirror_raw
+2014,imports,N_America_ex_US,other manufactured goods,1554414643.0,comtrade_mirror_raw
+2014,imports,S_America,agricultural goods,12264575109.288,comtrade_mirror_raw
+2014,imports,S_America,minerals & metals,1790274221.771,comtrade_mirror_raw
+2014,imports,S_America,apparel,50818385.791,comtrade_mirror_raw
+2014,imports,S_America,other manufactured goods,3590727954.888,comtrade_mirror_raw
+2014,imports,Oceania,agricultural goods,2674819007.073,comtrade_mirror_raw
+2014,imports,Oceania,minerals & metals,247580059.777,comtrade_mirror_raw
+2014,imports,Oceania,apparel,58964792.22,comtrade_mirror_raw
+2014,imports,Oceania,other manufactured goods,852189197.778,comtrade_mirror_raw
+2015,imports,USA,agricultural goods,3542519680.0,comtrade_mirror_raw
+2015,imports,USA,minerals & metals,3133992593.0,comtrade_mirror_raw
+2015,imports,USA,apparel,393000512.0,comtrade_mirror_raw
+2015,imports,USA,other manufactured goods,19333530851.0,comtrade_mirror_raw
+2015,imports,China,agricultural goods,2663982578.0,comtrade_mirror_raw
+2015,imports,China,minerals & metals,6889594887.0,comtrade_mirror_raw
+2015,imports,China,apparel,19924239101.0,comtrade_mirror_raw
+2015,imports,China,other manufactured goods,78763868006.0,comtrade_mirror_raw
+2015,imports,Europe,agricultural goods,25045629967.994,comtrade_mirror_raw
+2015,imports,Europe,minerals & metals,30867258658.678,comtrade_mirror_raw
+2015,imports,Europe,apparel,5912061149.137,comtrade_mirror_raw
+2015,imports,Europe,other manufactured goods,115536533483.511,comtrade_mirror_raw
+2015,imports,Asia_ex_China,agricultural goods,17445528182.751,comtrade_mirror_raw
+2015,imports,Asia_ex_China,minerals & metals,19468640435.223,comtrade_mirror_raw
+2015,imports,Asia_ex_China,apparel,7611799528.97,comtrade_mirror_raw
+2015,imports,Asia_ex_China,other manufactured goods,69209335447.046,comtrade_mirror_raw
+2015,imports,N_America_ex_US,agricultural goods,1478330787.939,comtrade_mirror_raw
+2015,imports,N_America_ex_US,minerals & metals,597599655.75,comtrade_mirror_raw
+2015,imports,N_America_ex_US,apparel,99777515.586,comtrade_mirror_raw
+2015,imports,N_America_ex_US,other manufactured goods,1307744364.238,comtrade_mirror_raw
+2015,imports,S_America,agricultural goods,10577920384.205,comtrade_mirror_raw
+2015,imports,S_America,minerals & metals,1348895473.386,comtrade_mirror_raw
+2015,imports,S_America,apparel,44005723.867,comtrade_mirror_raw
+2015,imports,S_America,other manufactured goods,2951003735.149,comtrade_mirror_raw
+2015,imports,Oceania,agricultural goods,2051328259.641,comtrade_mirror_raw
+2015,imports,Oceania,minerals & metals,138075154.184,comtrade_mirror_raw
+2015,imports,Oceania,apparel,55443289.191,comtrade_mirror_raw
+2015,imports,Oceania,other manufactured goods,893576223.286,comtrade_mirror_raw
+2016,imports,USA,agricultural goods,3362089954.0,comtrade_mirror_raw
+2016,imports,USA,minerals & metals,2069504333.0,comtrade_mirror_raw
+2016,imports,USA,apparel,314623066.0,comtrade_mirror_raw
+2016,imports,USA,other manufactured goods,15341056497.0,comtrade_mirror_raw
+2016,imports,China,agricultural goods,2602141904.0,comtrade_mirror_raw
+2016,imports,China,minerals & metals,5866420035.0,comtrade_mirror_raw
+2016,imports,China,apparel,17045702103.0,comtrade_mirror_raw
+2016,imports,China,other manufactured goods,66388810651.0,comtrade_mirror_raw
+2016,imports,Europe,agricultural goods,24100484401.177,comtrade_mirror_raw
+2016,imports,Europe,minerals & metals,25881995602.482,comtrade_mirror_raw
+2016,imports,Europe,apparel,5820302083.014,comtrade_mirror_raw
+2016,imports,Europe,other manufactured goods,110176510475.431,comtrade_mirror_raw
+2016,imports,Asia_ex_China,agricultural goods,16327480753.41,comtrade_mirror_raw
+2016,imports,Asia_ex_China,minerals & metals,17647632781.903,comtrade_mirror_raw
+2016,imports,Asia_ex_China,apparel,6830501833.561,comtrade_mirror_raw
+2016,imports,Asia_ex_China,other manufactured goods,62889942161.753,comtrade_mirror_raw
+2016,imports,N_America_ex_US,agricultural goods,1245508405.7910001,comtrade_mirror_raw
+2016,imports,N_America_ex_US,minerals & metals,411655455.347,comtrade_mirror_raw
+2016,imports,N_America_ex_US,apparel,81312933.119,comtrade_mirror_raw
+2016,imports,N_America_ex_US,other manufactured goods,1039418538.933,comtrade_mirror_raw
+2016,imports,S_America,agricultural goods,11250015632.592,comtrade_mirror_raw
+2016,imports,S_America,minerals & metals,1152214104.148,comtrade_mirror_raw
+2016,imports,S_America,apparel,45461706.364,comtrade_mirror_raw
+2016,imports,S_America,other manufactured goods,2575718161.919,comtrade_mirror_raw
+2016,imports,Oceania,agricultural goods,1712852055.8799999,comtrade_mirror_raw
+2016,imports,Oceania,minerals & metals,184196358.57,comtrade_mirror_raw
+2016,imports,Oceania,apparel,54267068.779,comtrade_mirror_raw
+2016,imports,Oceania,other manufactured goods,1177931148.605,comtrade_mirror_raw
+2017,imports,USA,agricultural goods,3536658286.0,comtrade_mirror_raw
+2017,imports,USA,minerals & metals,3532756653.0,comtrade_mirror_raw
+2017,imports,USA,apparel,353760233.0,comtrade_mirror_raw
+2017,imports,USA,other manufactured goods,13950421070.0,comtrade_mirror_raw
+2017,imports,China,agricultural goods,3020357476.0,comtrade_mirror_raw
+2017,imports,China,minerals & metals,5949654795.0,comtrade_mirror_raw
+2017,imports,China,apparel,17576948109.0,comtrade_mirror_raw
+2017,imports,China,other manufactured goods,67929544644.0,comtrade_mirror_raw
+2017,imports,Europe,agricultural goods,25018239692.646,comtrade_mirror_raw
+2017,imports,Europe,minerals & metals,31518020101.238,comtrade_mirror_raw
+2017,imports,Europe,apparel,6044305903.255,comtrade_mirror_raw
+2017,imports,Europe,other manufactured goods,112292357771.755,comtrade_mirror_raw
+2017,imports,Asia_ex_China,agricultural goods,19076296046.573,comtrade_mirror_raw
+2017,imports,Asia_ex_China,minerals & metals,18656055086.388,comtrade_mirror_raw
+2017,imports,Asia_ex_China,apparel,7321796321.592,comtrade_mirror_raw
+2017,imports,Asia_ex_China,other manufactured goods,67354218409.65,comtrade_mirror_raw
+2017,imports,N_America_ex_US,agricultural goods,1368288460.335,comtrade_mirror_raw
+2017,imports,N_America_ex_US,minerals & metals,567055785.331,comtrade_mirror_raw
+2017,imports,N_America_ex_US,apparel,83511351.604,comtrade_mirror_raw
+2017,imports,N_America_ex_US,other manufactured goods,1043195085.45,comtrade_mirror_raw
+2017,imports,S_America,agricultural goods,12726506847.584,comtrade_mirror_raw
+2017,imports,S_America,minerals & metals,1292008531.0080001,comtrade_mirror_raw
+2017,imports,S_America,apparel,45676724.599,comtrade_mirror_raw
+2017,imports,S_America,other manufactured goods,2445166168.225,comtrade_mirror_raw
+2017,imports,Oceania,agricultural goods,1709843157.323,comtrade_mirror_raw
+2017,imports,Oceania,minerals & metals,409599196.497,comtrade_mirror_raw
+2017,imports,Oceania,apparel,58388964.411,comtrade_mirror_raw
+2017,imports,Oceania,other manufactured goods,1578601021.287,comtrade_mirror_raw
+2018,imports,USA,agricultural goods,4572372744.0,comtrade_mirror_raw
+2018,imports,USA,minerals & metals,4539308392.0,comtrade_mirror_raw
+2018,imports,USA,apparel,358607324.0,comtrade_mirror_raw
+2018,imports,USA,other manufactured goods,15862280840.0,comtrade_mirror_raw
+2018,imports,China,agricultural goods,3294743539.0,comtrade_mirror_raw
+2018,imports,China,minerals & metals,7476872614.0,comtrade_mirror_raw
+2018,imports,China,apparel,18204516519.0,comtrade_mirror_raw
+2018,imports,China,other manufactured goods,75679228626.0,comtrade_mirror_raw
+2018,imports,Europe,agricultural goods,26769328894.59,comtrade_mirror_raw
+2018,imports,Europe,minerals & metals,39969343205.485,comtrade_mirror_raw
+2018,imports,Europe,apparel,6496104121.132,comtrade_mirror_raw
+2018,imports,Europe,other manufactured goods,117220527563.801,comtrade_mirror_raw
+2018,imports,Asia_ex_China,agricultural goods,18540895528.807,comtrade_mirror_raw
+2018,imports,Asia_ex_China,minerals & metals,21749984688.912,comtrade_mirror_raw
+2018,imports,Asia_ex_China,apparel,7737101426.664,comtrade_mirror_raw
+2018,imports,Asia_ex_China,other manufactured goods,77465173545.147,comtrade_mirror_raw
+2018,imports,N_America_ex_US,agricultural goods,1365433015.1660001,comtrade_mirror_raw
+2018,imports,N_America_ex_US,minerals & metals,718793723.057,comtrade_mirror_raw
+2018,imports,N_America_ex_US,apparel,88017971.37900001,comtrade_mirror_raw
+2018,imports,N_America_ex_US,other manufactured goods,1236418331.262,comtrade_mirror_raw
+2018,imports,S_America,agricultural goods,10496004306.14,comtrade_mirror_raw
+2018,imports,S_America,minerals & metals,1677451117.468,comtrade_mirror_raw
+2018,imports,S_America,apparel,40034781.17,comtrade_mirror_raw
+2018,imports,S_America,other manufactured goods,2943686142.584,comtrade_mirror_raw
+2018,imports,Oceania,agricultural goods,1457507602.724,comtrade_mirror_raw
+2018,imports,Oceania,minerals & metals,313684447.83500004,comtrade_mirror_raw
+2018,imports,Oceania,apparel,54086639.896,comtrade_mirror_raw
+2018,imports,Oceania,other manufactured goods,1937126842.742,comtrade_mirror_raw
+2019,imports,USA,agricultural goods,4306662593.0,comtrade_mirror_raw
+2019,imports,USA,minerals & metals,3967395308.0,comtrade_mirror_raw
+2019,imports,USA,apparel,296958906.0,comtrade_mirror_raw
+2019,imports,USA,other manufactured goods,17333182418.0,comtrade_mirror_raw
+2019,imports,China,agricultural goods,3547513242.0,comtrade_mirror_raw
+2019,imports,China,minerals & metals,7282124975.0,comtrade_mirror_raw
+2019,imports,China,apparel,19794614391.0,comtrade_mirror_raw
+2019,imports,China,other manufactured goods,82243988695.0,comtrade_mirror_raw
+2019,imports,Europe,agricultural goods,27006517245.585,comtrade_mirror_raw
+2019,imports,Europe,minerals & metals,34897937682.938,comtrade_mirror_raw
+2019,imports,Europe,apparel,6228896726.99,comtrade_mirror_raw
+2019,imports,Europe,other manufactured goods,115635405475.101,comtrade_mirror_raw
+2019,imports,Asia_ex_China,agricultural goods,18178574191.687,comtrade_mirror_raw
+2019,imports,Asia_ex_China,minerals & metals,24543062644.828,comtrade_mirror_raw
+2019,imports,Asia_ex_China,apparel,7974190277.012,comtrade_mirror_raw
+2019,imports,Asia_ex_China,other manufactured goods,77625312362.693,comtrade_mirror_raw
+2019,imports,N_America_ex_US,agricultural goods,1310436903.604,comtrade_mirror_raw
+2019,imports,N_America_ex_US,minerals & metals,661783486.469,comtrade_mirror_raw
+2019,imports,N_America_ex_US,apparel,88995121.845,comtrade_mirror_raw
+2019,imports,N_America_ex_US,other manufactured goods,1747578640.431,comtrade_mirror_raw
+2019,imports,S_America,agricultural goods,10783570325.973,comtrade_mirror_raw
+2019,imports,S_America,minerals & metals,1420416966.477,comtrade_mirror_raw
+2019,imports,S_America,apparel,41971578.368,comtrade_mirror_raw
+2019,imports,S_America,other manufactured goods,2623476752.906,comtrade_mirror_raw
+2019,imports,Oceania,agricultural goods,1234962700.5870001,comtrade_mirror_raw
+2019,imports,Oceania,minerals & metals,301830203.244,comtrade_mirror_raw
+2019,imports,Oceania,apparel,52899984.056,comtrade_mirror_raw
+2019,imports,Oceania,other manufactured goods,1537147426.657,comtrade_mirror_raw
+2020,imports,USA,agricultural goods,4624459385.0,comtrade_mirror_raw
+2020,imports,USA,minerals & metals,2573123653.0,comtrade_mirror_raw
+2020,imports,USA,apparel,286050556.0,comtrade_mirror_raw
+2020,imports,USA,other manufactured goods,14064287465.0,comtrade_mirror_raw
+2020,imports,China,agricultural goods,3262127881.0,comtrade_mirror_raw
+2020,imports,China,minerals & metals,7663075036.0,comtrade_mirror_raw
+2020,imports,China,apparel,19478563014.0,comtrade_mirror_raw
+2020,imports,China,other manufactured goods,83497535858.0,comtrade_mirror_raw
+2020,imports,Europe,agricultural goods,28917314425.454,comtrade_mirror_raw
+2020,imports,Europe,minerals & metals,27430341061.393,comtrade_mirror_raw
+2020,imports,Europe,apparel,5254340890.914,comtrade_mirror_raw
+2020,imports,Europe,other manufactured goods,100084071247.578,comtrade_mirror_raw
+2020,imports,Asia_ex_China,agricultural goods,20067342141.449,comtrade_mirror_raw
+2020,imports,Asia_ex_China,minerals & metals,18404052501.994,comtrade_mirror_raw
+2020,imports,Asia_ex_China,apparel,6715200604.274,comtrade_mirror_raw
+2020,imports,Asia_ex_China,other manufactured goods,71447980702.011,comtrade_mirror_raw
+2020,imports,N_America_ex_US,agricultural goods,1605087974.59,comtrade_mirror_raw
+2020,imports,N_America_ex_US,minerals & metals,541947284.1570001,comtrade_mirror_raw
+2020,imports,N_America_ex_US,apparel,52992684.508,comtrade_mirror_raw
+2020,imports,N_America_ex_US,other manufactured goods,1502354294.25,comtrade_mirror_raw
+2020,imports,S_America,agricultural goods,11144091266.506,comtrade_mirror_raw
+2020,imports,S_America,minerals & metals,1267428786.788,comtrade_mirror_raw
+2020,imports,S_America,apparel,27933113.695,comtrade_mirror_raw
+2020,imports,S_America,other manufactured goods,2132016236.396,comtrade_mirror_raw
+2020,imports,Oceania,agricultural goods,1279344285.475,comtrade_mirror_raw
+2020,imports,Oceania,minerals & metals,192263158.997,comtrade_mirror_raw
+2020,imports,Oceania,apparel,29462524.801,comtrade_mirror_raw
+2020,imports,Oceania,other manufactured goods,990125394.2720001,comtrade_mirror_raw
+2021,imports,USA,agricultural goods,5461396771.0,comtrade_mirror_raw
+2021,imports,USA,minerals & metals,4358579003.0,comtrade_mirror_raw
+2021,imports,USA,apparel,317689266.0,comtrade_mirror_raw
+2021,imports,USA,other manufactured goods,15820952008.0,comtrade_mirror_raw
+2021,imports,China,agricultural goods,3552493267.0,comtrade_mirror_raw
+2021,imports,China,minerals & metals,11606920262.0,comtrade_mirror_raw
+2021,imports,China,apparel,23801509957.0,comtrade_mirror_raw
+2021,imports,China,other manufactured goods,106128717868.0,comtrade_mirror_raw
+2021,imports,Europe,agricultural goods,32662485811.572,comtrade_mirror_raw
+2021,imports,Europe,minerals & metals,40091774006.788,comtrade_mirror_raw
+2021,imports,Europe,apparel,6513604624.582,comtrade_mirror_raw
+2021,imports,Europe,other manufactured goods,117376723368.284,comtrade_mirror_raw
+2021,imports,Asia_ex_China,agricultural goods,26244494049.186,comtrade_mirror_raw
+2021,imports,Asia_ex_China,minerals & metals,30760436560.632,comtrade_mirror_raw
+2021,imports,Asia_ex_China,apparel,8814690428.869,comtrade_mirror_raw
+2021,imports,Asia_ex_China,other manufactured goods,96175326757.196,comtrade_mirror_raw
+2021,imports,N_America_ex_US,agricultural goods,1877324494.9559999,comtrade_mirror_raw
+2021,imports,N_America_ex_US,minerals & metals,690162827.596,comtrade_mirror_raw
+2021,imports,N_America_ex_US,apparel,70751483.946,comtrade_mirror_raw
+2021,imports,N_America_ex_US,other manufactured goods,1605756749.728,comtrade_mirror_raw
+2021,imports,S_America,agricultural goods,12556443965.154,comtrade_mirror_raw
+2021,imports,S_America,minerals & metals,1714088841.35,comtrade_mirror_raw
+2021,imports,S_America,apparel,41080414.582,comtrade_mirror_raw
+2021,imports,S_America,other manufactured goods,2621091079.077,comtrade_mirror_raw
+2021,imports,Oceania,agricultural goods,2035528559.782,comtrade_mirror_raw
+2021,imports,Oceania,minerals & metals,318946831.37200004,comtrade_mirror_raw
+2021,imports,Oceania,apparel,39612139.365,comtrade_mirror_raw
+2021,imports,Oceania,other manufactured goods,791928271.765,comtrade_mirror_raw
+2022,imports,USA,agricultural goods,6361984998.0,comtrade_mirror_raw
+2022,imports,USA,minerals & metals,6175524667.0,comtrade_mirror_raw
+2022,imports,USA,apparel,242385918.0,comtrade_mirror_raw
+2022,imports,USA,other manufactured goods,17048039085.0,comtrade_mirror_raw
+2022,imports,China,agricultural goods,3508166558.0,comtrade_mirror_raw
+2022,imports,China,minerals & metals,15825710249.0,comtrade_mirror_raw
+2022,imports,China,apparel,23513656226.0,comtrade_mirror_raw
+2022,imports,China,other manufactured goods,121170141124.0,comtrade_mirror_raw
+2022,imports,Europe,agricultural goods,30588541492.822998,comtrade_mirror_raw
+2022,imports,Europe,minerals & metals,51659006011.72,comtrade_mirror_raw
+2022,imports,Europe,apparel,6720766845.657001,comtrade_mirror_raw
+2022,imports,Europe,other manufactured goods,113282214240.81,comtrade_mirror_raw
+2022,imports,Asia_ex_China,agricultural goods,28861797045.681,comtrade_mirror_raw
+2022,imports,Asia_ex_China,minerals & metals,52050380485.096,comtrade_mirror_raw
+2022,imports,Asia_ex_China,apparel,8655050568.434,comtrade_mirror_raw
+2022,imports,Asia_ex_China,other manufactured goods,96322352409.818,comtrade_mirror_raw
+2022,imports,N_America_ex_US,agricultural goods,1856755445.867,comtrade_mirror_raw
+2022,imports,N_America_ex_US,minerals & metals,728390334.7820001,comtrade_mirror_raw
+2022,imports,N_America_ex_US,apparel,69903332.84,comtrade_mirror_raw
+2022,imports,N_America_ex_US,other manufactured goods,1557957831.69,comtrade_mirror_raw
+2022,imports,S_America,agricultural goods,16843892895.021,comtrade_mirror_raw
+2022,imports,S_America,minerals & metals,2850603020.604,comtrade_mirror_raw
+2022,imports,S_America,apparel,55183025.166,comtrade_mirror_raw
+2022,imports,S_America,other manufactured goods,3379378328.493,comtrade_mirror_raw
+2022,imports,Oceania,agricultural goods,2552514743.244,comtrade_mirror_raw
+2022,imports,Oceania,minerals & metals,304691836.253,comtrade_mirror_raw
+2022,imports,Oceania,apparel,53735372.199,comtrade_mirror_raw
+2022,imports,Oceania,other manufactured goods,1813217924.066,comtrade_mirror_raw
+2023,imports,USA,agricultural goods,3776361450.0,comtrade_mirror_raw
+2023,imports,USA,minerals & metals,5426356000.0,comtrade_mirror_raw
+2023,imports,USA,apparel,258507941.0,comtrade_mirror_raw
+2023,imports,USA,other manufactured goods,18310522759.0,comtrade_mirror_raw
+2023,imports,China,agricultural goods,3930770661.0,comtrade_mirror_raw
+2023,imports,China,minerals & metals,13544626091.0,comtrade_mirror_raw
+2023,imports,China,apparel,23697033644.0,comtrade_mirror_raw
+2023,imports,China,other manufactured goods,131069979651.0,comtrade_mirror_raw
+2023,imports,Europe,agricultural goods,28701965139.951,comtrade_mirror_raw
+2023,imports,Europe,minerals & metals,38128224602.692,comtrade_mirror_raw
+2023,imports,Europe,apparel,6948432616.43,comtrade_mirror_raw
+2023,imports,Europe,other manufactured goods,118847641393.14,comtrade_mirror_raw
+2023,imports,Asia_ex_China,agricultural goods,29453870758.54,comtrade_mirror_raw
+2023,imports,Asia_ex_China,minerals & metals,43310369152.452,comtrade_mirror_raw
+2023,imports,Asia_ex_China,apparel,7638669564.799,comtrade_mirror_raw
+2023,imports,Asia_ex_China,other manufactured goods,91305333618.068,comtrade_mirror_raw
+2023,imports,N_America_ex_US,agricultural goods,2244291408.051,comtrade_mirror_raw
+2023,imports,N_America_ex_US,minerals & metals,464316795.09,comtrade_mirror_raw
+2023,imports,N_America_ex_US,apparel,57272308.942999996,comtrade_mirror_raw
+2023,imports,N_America_ex_US,other manufactured goods,1473814231.411,comtrade_mirror_raw
+2023,imports,S_America,agricultural goods,14368885225.367,comtrade_mirror_raw
+2023,imports,S_America,minerals & metals,2729473778.889,comtrade_mirror_raw
+2023,imports,S_America,apparel,40014547.148,comtrade_mirror_raw
+2023,imports,S_America,other manufactured goods,2693827145.138,comtrade_mirror_raw
+2023,imports,Oceania,agricultural goods,1799430714.504,comtrade_mirror_raw
+2023,imports,Oceania,minerals & metals,295836344.073,comtrade_mirror_raw
+2023,imports,Oceania,apparel,32639474.256,comtrade_mirror_raw
+2023,imports,Oceania,other manufactured goods,1810209756.004,comtrade_mirror_raw
+2024,imports,USA,agricultural goods,4252636872.0,comtrade_mirror_raw
+2024,imports,USA,minerals & metals,7294644105.0,comtrade_mirror_raw
+2024,imports,USA,apparel,207376539.0,comtrade_mirror_raw
+2024,imports,USA,other manufactured goods,19446068413.0,comtrade_mirror_raw
+2024,imports,China,agricultural goods,4464547430.0,comtrade_mirror_raw
+2024,imports,China,minerals & metals,13547651821.0,comtrade_mirror_raw
+2024,imports,China,apparel,22413006231.0,comtrade_mirror_raw
+2024,imports,China,other manufactured goods,137732839496.0,comtrade_mirror_raw
+2024,imports,Europe,agricultural goods,28647613208.452,comtrade_mirror_raw
+2024,imports,Europe,minerals & metals,34433783816.476,comtrade_mirror_raw
+2024,imports,Europe,apparel,6700023421.775001,comtrade_mirror_raw
+2024,imports,Europe,other manufactured goods,118742321532.45801,comtrade_mirror_raw
+2024,imports,Asia_ex_China,agricultural goods,27019849463.207,comtrade_mirror_raw
+2024,imports,Asia_ex_China,minerals & metals,24920052701.654,comtrade_mirror_raw
+2024,imports,Asia_ex_China,apparel,6589146708.603,comtrade_mirror_raw
+2024,imports,Asia_ex_China,other manufactured goods,73952553899.222,comtrade_mirror_raw
+2024,imports,N_America_ex_US,agricultural goods,1940525840.365,comtrade_mirror_raw
+2024,imports,N_America_ex_US,minerals & metals,648155927.403,comtrade_mirror_raw
+2024,imports,N_America_ex_US,apparel,50330982.272,comtrade_mirror_raw
+2024,imports,N_America_ex_US,other manufactured goods,1493238393.036,comtrade_mirror_raw
+2024,imports,S_America,agricultural goods,16125440850.221,comtrade_mirror_raw
+2024,imports,S_America,minerals & metals,2864433469.847,comtrade_mirror_raw
+2024,imports,S_America,apparel,114863472.825,comtrade_mirror_raw
+2024,imports,S_America,other manufactured goods,2853207661.762,comtrade_mirror_raw
+2024,imports,Oceania,agricultural goods,1897563254.504,comtrade_mirror_raw
+2024,imports,Oceania,minerals & metals,188114621.69300002,comtrade_mirror_raw
+2024,imports,Oceania,apparel,25416480.546,comtrade_mirror_raw
+2024,imports,Oceania,other manufactured goods,1892982150.7900002,comtrade_mirror_raw
+2025,imports,USA,agricultural goods,5885503486.0,comtrade_mirror_raw
+2025,imports,USA,minerals & metals,11606678115.0,comtrade_mirror_raw
+2025,imports,USA,apparel,216968568.0,comtrade_mirror_raw
+2025,imports,USA,other manufactured goods,21705787698.0,comtrade_mirror_raw
+2025,imports,Europe,agricultural goods,28187797145.621,comtrade_mirror_raw
+2025,imports,Europe,minerals & metals,28360127035.081,comtrade_mirror_raw
+2025,imports,Europe,apparel,7136496291.584,comtrade_mirror_raw
+2025,imports,Europe,other manufactured goods,130265961352.582,comtrade_mirror_raw
+2025,imports,Asia_ex_China,agricultural goods,28647044599.265,comtrade_mirror_raw
+2025,imports,Asia_ex_China,minerals & metals,21831969131.42,comtrade_mirror_raw
+2025,imports,Asia_ex_China,apparel,6976622813.801,comtrade_mirror_raw
+2025,imports,Asia_ex_China,other manufactured goods,78997663683.521,comtrade_mirror_raw
+2025,imports,N_America_ex_US,agricultural goods,2029446429.279,comtrade_mirror_raw
+2025,imports,N_America_ex_US,minerals & metals,571362978.014,comtrade_mirror_raw
+2025,imports,N_America_ex_US,apparel,50166367.972,comtrade_mirror_raw
+2025,imports,N_America_ex_US,other manufactured goods,2080802860.797,comtrade_mirror_raw
+2025,imports,S_America,agricultural goods,17621050754.866,comtrade_mirror_raw
+2025,imports,S_America,minerals & metals,4568764078.917,comtrade_mirror_raw
+2025,imports,S_America,apparel,216926507.353,comtrade_mirror_raw
+2025,imports,S_America,other manufactured goods,2574868687.525,comtrade_mirror_raw
+2025,imports,Oceania,agricultural goods,2232284586.569,comtrade_mirror_raw
+2025,imports,Oceania,minerals & metals,109560546.614,comtrade_mirror_raw
+2025,imports,Oceania,apparel,24814511.535,comtrade_mirror_raw
+2025,imports,Oceania,other manufactured goods,1891349159.524,comtrade_mirror_raw
+2000,exports,USA,agricultural goods,925507336.0,comtrade_mirror_raw
+2000,exports,USA,minerals & metals,23531088464.0,comtrade_mirror_raw
+2000,exports,USA,apparel,1453524157.0,comtrade_mirror_raw
+2000,exports,USA,other manufactured goods,1375020493.0,comtrade_mirror_raw
+2000,exports,China,agricultural goods,165698955.0,comtrade_mirror_raw
+2000,exports,China,minerals & metals,3705420074.0,comtrade_mirror_raw
+2000,exports,China,apparel,39332237.0,comtrade_mirror_raw
+2000,exports,China,other manufactured goods,597701231.0,comtrade_mirror_raw
+2000,exports,Europe,agricultural goods,10513836585.996,comtrade_mirror_raw
+2000,exports,Europe,minerals & metals,50051262360.337,comtrade_mirror_raw
+2000,exports,Europe,apparel,7761860074.074,comtrade_mirror_raw
+2000,exports,Europe,other manufactured goods,10467450724.093,comtrade_mirror_raw
+2000,exports,Asia_ex_China,agricultural goods,2842099895.562,comtrade_mirror_raw
+2000,exports,Asia_ex_China,minerals & metals,15591465739.287,comtrade_mirror_raw
+2000,exports,Asia_ex_China,apparel,950217401.173,comtrade_mirror_raw
+2000,exports,Asia_ex_China,other manufactured goods,3664133979.713,comtrade_mirror_raw
+2000,exports,N_America_ex_US,agricultural goods,193976649.0,comtrade_mirror_raw
+2000,exports,N_America_ex_US,minerals & metals,1395186522.0,comtrade_mirror_raw
+2000,exports,N_America_ex_US,apparel,54512315.0,comtrade_mirror_raw
+2000,exports,N_America_ex_US,other manufactured goods,210335052.0,comtrade_mirror_raw
+2000,exports,S_America,agricultural goods,124034552.93,comtrade_mirror_raw
+2000,exports,S_America,minerals & metals,4356776078.88,comtrade_mirror_raw
+2000,exports,S_America,apparel,213078819.3,comtrade_mirror_raw
+2000,exports,S_America,other manufactured goods,471819664.5,comtrade_mirror_raw
+2000,exports,Oceania,agricultural goods,109779594.0,comtrade_mirror_raw
+2000,exports,Oceania,minerals & metals,242236113.0,comtrade_mirror_raw
+2000,exports,Oceania,apparel,28752760.0,comtrade_mirror_raw
+2000,exports,Oceania,other manufactured goods,444770935.0,comtrade_mirror_raw
+2001,exports,USA,agricultural goods,906544020.0,comtrade_mirror_raw
+2001,exports,USA,minerals & metals,20828010085.0,comtrade_mirror_raw
+2001,exports,USA,apparel,1635681394.0,comtrade_mirror_raw
+2001,exports,USA,other manufactured goods,1733238642.0,comtrade_mirror_raw
+2001,exports,China,agricultural goods,166578962.0,comtrade_mirror_raw
+2001,exports,China,minerals & metals,2638475212.0,comtrade_mirror_raw
+2001,exports,China,apparel,43737811.0,comtrade_mirror_raw
+2001,exports,China,other manufactured goods,680833490.0,comtrade_mirror_raw
+2001,exports,Europe,agricultural goods,11170160201.853,comtrade_mirror_raw
+2001,exports,Europe,minerals & metals,48907675973.653,comtrade_mirror_raw
+2001,exports,Europe,apparel,8053332920.29,comtrade_mirror_raw
+2001,exports,Europe,other manufactured goods,11904948239.721,comtrade_mirror_raw
+2001,exports,Asia_ex_China,agricultural goods,2935782649.155,comtrade_mirror_raw
+2001,exports,Asia_ex_China,minerals & metals,13039400877.269001,comtrade_mirror_raw
+2001,exports,Asia_ex_China,apparel,872383723.416,comtrade_mirror_raw
+2001,exports,Asia_ex_China,other manufactured goods,3884393306.184,comtrade_mirror_raw
+2001,exports,N_America_ex_US,agricultural goods,172619654.0,comtrade_mirror_raw
+2001,exports,N_America_ex_US,minerals & metals,1144553229.0,comtrade_mirror_raw
+2001,exports,N_America_ex_US,apparel,56592650.0,comtrade_mirror_raw
+2001,exports,N_America_ex_US,other manufactured goods,115352719.0,comtrade_mirror_raw
+2001,exports,S_America,agricultural goods,103743997.06,comtrade_mirror_raw
+2001,exports,S_America,minerals & metals,4541128918.96,comtrade_mirror_raw
+2001,exports,S_America,apparel,122310727.81,comtrade_mirror_raw
+2001,exports,S_America,other manufactured goods,565100522.87,comtrade_mirror_raw
+2001,exports,Oceania,agricultural goods,118636129.0,comtrade_mirror_raw
+2001,exports,Oceania,minerals & metals,140682212.0,comtrade_mirror_raw
+2001,exports,Oceania,apparel,26862140.0,comtrade_mirror_raw
+2001,exports,Oceania,other manufactured goods,484673515.0,comtrade_mirror_raw
+2002,exports,USA,agricultural goods,1077368485.0,comtrade_mirror_raw
+2002,exports,USA,minerals & metals,17933167738.0,comtrade_mirror_raw
+2002,exports,USA,apparel,1853332935.0,comtrade_mirror_raw
+2002,exports,USA,other manufactured goods,1746341931.0,comtrade_mirror_raw
+2002,exports,China,agricultural goods,215647916.0,comtrade_mirror_raw
+2002,exports,China,minerals & metals,2911336063.0,comtrade_mirror_raw
+2002,exports,China,apparel,85027149.0,comtrade_mirror_raw
+2002,exports,China,other manufactured goods,755135025.0,comtrade_mirror_raw
+2002,exports,Europe,agricultural goods,12405764215.48,comtrade_mirror_raw
+2002,exports,Europe,minerals & metals,46651009800.076,comtrade_mirror_raw
+2002,exports,Europe,apparel,8329114349.079,comtrade_mirror_raw
+2002,exports,Europe,other manufactured goods,12270132532.838,comtrade_mirror_raw
+2002,exports,Asia_ex_China,agricultural goods,2982809376.69,comtrade_mirror_raw
+2002,exports,Asia_ex_China,minerals & metals,13625675551.013,comtrade_mirror_raw
+2002,exports,Asia_ex_China,apparel,861161201.283,comtrade_mirror_raw
+2002,exports,Asia_ex_China,other manufactured goods,4037107697.012,comtrade_mirror_raw
+2002,exports,N_America_ex_US,agricultural goods,214064925.0,comtrade_mirror_raw
+2002,exports,N_America_ex_US,minerals & metals,1601774943.0,comtrade_mirror_raw
+2002,exports,N_America_ex_US,apparel,49261417.0,comtrade_mirror_raw
+2002,exports,N_America_ex_US,other manufactured goods,133059248.0,comtrade_mirror_raw
+2002,exports,S_America,agricultural goods,95711049.84,comtrade_mirror_raw
+2002,exports,S_America,minerals & metals,3514229281.66,comtrade_mirror_raw
+2002,exports,S_America,apparel,84177321.06,comtrade_mirror_raw
+2002,exports,S_America,other manufactured goods,507426791.9,comtrade_mirror_raw
+2002,exports,Oceania,agricultural goods,160701655.0,comtrade_mirror_raw
+2002,exports,Oceania,minerals & metals,241337099.0,comtrade_mirror_raw
+2002,exports,Oceania,apparel,30889611.0,comtrade_mirror_raw
+2002,exports,Oceania,other manufactured goods,565109142.0,comtrade_mirror_raw
+2003,exports,USA,agricultural goods,1318378543.0,comtrade_mirror_raw
+2003,exports,USA,minerals & metals,27679621790.0,comtrade_mirror_raw
+2003,exports,USA,apparel,2368752182.0,comtrade_mirror_raw
+2003,exports,USA,other manufactured goods,2111519101.0,comtrade_mirror_raw
+2003,exports,China,agricultural goods,246717507.0,comtrade_mirror_raw
+2003,exports,China,minerals & metals,5139111638.0,comtrade_mirror_raw
+2003,exports,China,apparel,284300167.0,comtrade_mirror_raw
+2003,exports,China,other manufactured goods,962044805.0,comtrade_mirror_raw
+2003,exports,Europe,agricultural goods,15046999881.659,comtrade_mirror_raw
+2003,exports,Europe,minerals & metals,55597483621.871,comtrade_mirror_raw
+2003,exports,Europe,apparel,9367081078.296,comtrade_mirror_raw
+2003,exports,Europe,other manufactured goods,14856137390.953,comtrade_mirror_raw
+2003,exports,Asia_ex_China,agricultural goods,3631508100.865,comtrade_mirror_raw
+2003,exports,Asia_ex_China,minerals & metals,14970415356.965,comtrade_mirror_raw
+2003,exports,Asia_ex_China,apparel,1077109908.48,comtrade_mirror_raw
+2003,exports,Asia_ex_China,other manufactured goods,5052080347.921,comtrade_mirror_raw
+2003,exports,N_America_ex_US,agricultural goods,300198657.0,comtrade_mirror_raw
+2003,exports,N_America_ex_US,minerals & metals,2601371066.0,comtrade_mirror_raw
+2003,exports,N_America_ex_US,apparel,58182075.0,comtrade_mirror_raw
+2003,exports,N_America_ex_US,other manufactured goods,167636673.0,comtrade_mirror_raw
+2003,exports,S_America,agricultural goods,121802946.441,comtrade_mirror_raw
+2003,exports,S_America,minerals & metals,4304850780.457,comtrade_mirror_raw
+2003,exports,S_America,apparel,80361754.531,comtrade_mirror_raw
+2003,exports,S_America,other manufactured goods,589263360.941,comtrade_mirror_raw
+2003,exports,Oceania,agricultural goods,200397909.0,comtrade_mirror_raw
+2003,exports,Oceania,minerals & metals,231342377.0,comtrade_mirror_raw
+2003,exports,Oceania,apparel,37916968.0,comtrade_mirror_raw
+2003,exports,Oceania,other manufactured goods,748824318.0,comtrade_mirror_raw
+2004,exports,USA,agricultural goods,1358522499.0,comtrade_mirror_raw
+2004,exports,USA,minerals & metals,41581617579.0,comtrade_mirror_raw
+2004,exports,USA,apparel,2657502195.0,comtrade_mirror_raw
+2004,exports,USA,other manufactured goods,2374109269.0,comtrade_mirror_raw
+2004,exports,China,agricultural goods,221004826.0,comtrade_mirror_raw
+2004,exports,China,minerals & metals,11554885077.0,comtrade_mirror_raw
+2004,exports,China,apparel,685528781.0,comtrade_mirror_raw
+2004,exports,China,other manufactured goods,1056993598.0,comtrade_mirror_raw
+2004,exports,Europe,agricultural goods,16070104747.044,comtrade_mirror_raw
+2004,exports,Europe,minerals & metals,67862697391.828,comtrade_mirror_raw
+2004,exports,Europe,apparel,10123658111.44,comtrade_mirror_raw
+2004,exports,Europe,other manufactured goods,17479678508.639,comtrade_mirror_raw
+2004,exports,Asia_ex_China,agricultural goods,4258740190.554,comtrade_mirror_raw
+2004,exports,Asia_ex_China,minerals & metals,21613278695.388,comtrade_mirror_raw
+2004,exports,Asia_ex_China,apparel,1263517771.55,comtrade_mirror_raw
+2004,exports,Asia_ex_China,other manufactured goods,6353606455.675,comtrade_mirror_raw
+2004,exports,N_America_ex_US,agricultural goods,342360457.0,comtrade_mirror_raw
+2004,exports,N_America_ex_US,minerals & metals,3146702062.0,comtrade_mirror_raw
+2004,exports,N_America_ex_US,apparel,71116780.0,comtrade_mirror_raw
+2004,exports,N_America_ex_US,other manufactured goods,259547639.0,comtrade_mirror_raw
+2004,exports,S_America,agricultural goods,132409932.195,comtrade_mirror_raw
+2004,exports,S_America,minerals & metals,7802128050.871,comtrade_mirror_raw
+2004,exports,S_America,apparel,72718626.032,comtrade_mirror_raw
+2004,exports,S_America,other manufactured goods,811171087.163,comtrade_mirror_raw
+2004,exports,Oceania,agricultural goods,206545116.0,comtrade_mirror_raw
+2004,exports,Oceania,minerals & metals,282880496.0,comtrade_mirror_raw
+2004,exports,Oceania,apparel,42269262.0,comtrade_mirror_raw
+2004,exports,Oceania,other manufactured goods,939999864.0,comtrade_mirror_raw
+2005,exports,USA,agricultural goods,1595726627.0,comtrade_mirror_raw
+2005,exports,USA,minerals & metals,61324698188.0,comtrade_mirror_raw
+2005,exports,USA,apparel,2365090658.0,comtrade_mirror_raw
+2005,exports,USA,other manufactured goods,2444231770.0,comtrade_mirror_raw
+2005,exports,China,agricultural goods,356717008.0,comtrade_mirror_raw
+2005,exports,China,minerals & metals,15708155425.0,comtrade_mirror_raw
+2005,exports,China,apparel,717100893.0,comtrade_mirror_raw
+2005,exports,China,other manufactured goods,1201517635.0,comtrade_mirror_raw
+2005,exports,Europe,agricultural goods,16819559592.264,comtrade_mirror_raw
+2005,exports,Europe,minerals & metals,91056825470.854,comtrade_mirror_raw
+2005,exports,Europe,apparel,9609986922.397,comtrade_mirror_raw
+2005,exports,Europe,other manufactured goods,18951175180.194,comtrade_mirror_raw
+2005,exports,Asia_ex_China,agricultural goods,4579372078.125,comtrade_mirror_raw
+2005,exports,Asia_ex_China,minerals & metals,23234888294.925,comtrade_mirror_raw
+2005,exports,Asia_ex_China,apparel,1172528135.249,comtrade_mirror_raw
+2005,exports,Asia_ex_China,other manufactured goods,7370208523.824,comtrade_mirror_raw
+2005,exports,N_America_ex_US,agricultural goods,322810791.0,comtrade_mirror_raw
+2005,exports,N_America_ex_US,minerals & metals,4956067371.0,comtrade_mirror_raw
+2005,exports,N_America_ex_US,apparel,72623316.0,comtrade_mirror_raw
+2005,exports,N_America_ex_US,other manufactured goods,318600765.0,comtrade_mirror_raw
+2005,exports,S_America,agricultural goods,100129318.623,comtrade_mirror_raw
+2005,exports,S_America,minerals & metals,10084411472.728,comtrade_mirror_raw
+2005,exports,S_America,apparel,85458949.095,comtrade_mirror_raw
+2005,exports,S_America,other manufactured goods,878612425.591,comtrade_mirror_raw
+2005,exports,Oceania,agricultural goods,213152002.0,comtrade_mirror_raw
+2005,exports,Oceania,minerals & metals,523656517.0,comtrade_mirror_raw
+2005,exports,Oceania,apparel,36601245.0,comtrade_mirror_raw
+2005,exports,Oceania,other manufactured goods,1257370859.0,comtrade_mirror_raw
+2006,exports,USA,agricultural goods,1572066667.0,comtrade_mirror_raw
+2006,exports,USA,minerals & metals,76748483245.0,comtrade_mirror_raw
+2006,exports,USA,apparel,2445688884.0,comtrade_mirror_raw
+2006,exports,USA,other manufactured goods,2749162505.0,comtrade_mirror_raw
+2006,exports,China,agricultural goods,368979688.0,comtrade_mirror_raw
+2006,exports,China,minerals & metals,23649690923.0,comtrade_mirror_raw
+2006,exports,China,apparel,795322404.0,comtrade_mirror_raw
+2006,exports,China,other manufactured goods,1551887879.0,comtrade_mirror_raw
+2006,exports,Europe,agricultural goods,17622706661.996,comtrade_mirror_raw
+2006,exports,Europe,minerals & metals,122830069752.845,comtrade_mirror_raw
+2006,exports,Europe,apparel,10085129958.908,comtrade_mirror_raw
+2006,exports,Europe,other manufactured goods,21116431321.835,comtrade_mirror_raw
+2006,exports,Asia_ex_China,agricultural goods,4789432094.962,comtrade_mirror_raw
+2006,exports,Asia_ex_China,minerals & metals,38788186692.748,comtrade_mirror_raw
+2006,exports,Asia_ex_China,apparel,1116873321.889,comtrade_mirror_raw
+2006,exports,Asia_ex_China,other manufactured goods,8096913451.37,comtrade_mirror_raw
+2006,exports,N_America_ex_US,agricultural goods,386151398.0,comtrade_mirror_raw
+2006,exports,N_America_ex_US,minerals & metals,6428988321.0,comtrade_mirror_raw
+2006,exports,N_America_ex_US,apparel,80490152.0,comtrade_mirror_raw
+2006,exports,N_America_ex_US,other manufactured goods,474638959.0,comtrade_mirror_raw
+2006,exports,S_America,agricultural goods,146699096.997,comtrade_mirror_raw
+2006,exports,S_America,minerals & metals,12164916428.687,comtrade_mirror_raw
+2006,exports,S_America,apparel,137797989.472,comtrade_mirror_raw
+2006,exports,S_America,other manufactured goods,1026428334.447,comtrade_mirror_raw
+2006,exports,Oceania,agricultural goods,209509070.0,comtrade_mirror_raw
+2006,exports,Oceania,minerals & metals,241634454.0,comtrade_mirror_raw
+2006,exports,Oceania,apparel,38028684.0,comtrade_mirror_raw
+2006,exports,Oceania,other manufactured goods,1299274327.0,comtrade_mirror_raw
+2007,exports,USA,agricultural goods,1471928451.0,comtrade_mirror_raw
+2007,exports,USA,minerals & metals,87554475506.0,comtrade_mirror_raw
+2007,exports,USA,apparel,2490285942.0,comtrade_mirror_raw
+2007,exports,USA,other manufactured goods,3371816521.0,comtrade_mirror_raw
+2007,exports,China,agricultural goods,377510242.0,comtrade_mirror_raw
+2007,exports,China,minerals & metals,28755235492.0,comtrade_mirror_raw
+2007,exports,China,apparel,553240358.0,comtrade_mirror_raw
+2007,exports,China,other manufactured goods,1924356787.0,comtrade_mirror_raw
+2007,exports,Europe,agricultural goods,21210016996.39,comtrade_mirror_raw
+2007,exports,Europe,minerals & metals,130883244737.595,comtrade_mirror_raw
+2007,exports,Europe,apparel,11609704664.461,comtrade_mirror_raw
+2007,exports,Europe,other manufactured goods,24287033472.284,comtrade_mirror_raw
+2007,exports,Asia_ex_China,agricultural goods,5737397229.144,comtrade_mirror_raw
+2007,exports,Asia_ex_China,minerals & metals,50676923070.991,comtrade_mirror_raw
+2007,exports,Asia_ex_China,apparel,1429684280.8470001,comtrade_mirror_raw
+2007,exports,Asia_ex_China,other manufactured goods,9077870241.978,comtrade_mirror_raw
+2007,exports,N_America_ex_US,agricultural goods,405357032.0,comtrade_mirror_raw
+2007,exports,N_America_ex_US,minerals & metals,7130037215.0,comtrade_mirror_raw
+2007,exports,N_America_ex_US,apparel,91981817.0,comtrade_mirror_raw
+2007,exports,N_America_ex_US,other manufactured goods,761195606.0,comtrade_mirror_raw
+2007,exports,S_America,agricultural goods,218654767.943,comtrade_mirror_raw
+2007,exports,S_America,minerals & metals,15438400735.293,comtrade_mirror_raw
+2007,exports,S_America,apparel,203960698.403,comtrade_mirror_raw
+2007,exports,S_America,other manufactured goods,1444099936.575,comtrade_mirror_raw
+2007,exports,Oceania,agricultural goods,257978844.0,comtrade_mirror_raw
+2007,exports,Oceania,minerals & metals,524338545.0,comtrade_mirror_raw
+2007,exports,Oceania,apparel,46877945.0,comtrade_mirror_raw
+2007,exports,Oceania,other manufactured goods,1148022662.0,comtrade_mirror_raw
+2008,exports,USA,agricultural goods,1789093045.0,comtrade_mirror_raw
+2008,exports,USA,minerals & metals,107329351933.0,comtrade_mirror_raw
+2008,exports,USA,apparel,2392347183.0,comtrade_mirror_raw
+2008,exports,USA,other manufactured goods,5158194705.0,comtrade_mirror_raw
+2008,exports,China,agricultural goods,477772089.0,comtrade_mirror_raw
+2008,exports,China,minerals & metals,44985267677.0,comtrade_mirror_raw
+2008,exports,China,apparel,467963661.0,comtrade_mirror_raw
+2008,exports,China,other manufactured goods,2158261945.0,comtrade_mirror_raw
+2008,exports,Europe,agricultural goods,24231658766.036,comtrade_mirror_raw
+2008,exports,Europe,minerals & metals,189625331334.126,comtrade_mirror_raw
+2008,exports,Europe,apparel,12151742538.692,comtrade_mirror_raw
+2008,exports,Europe,other manufactured goods,27241571690.545002,comtrade_mirror_raw
+2008,exports,Asia_ex_China,agricultural goods,6863665072.402,comtrade_mirror_raw
+2008,exports,Asia_ex_China,minerals & metals,66426481458.954,comtrade_mirror_raw
+2008,exports,Asia_ex_China,apparel,1718199720.135,comtrade_mirror_raw
+2008,exports,Asia_ex_China,other manufactured goods,13282234542.006,comtrade_mirror_raw
+2008,exports,N_America_ex_US,agricultural goods,490128118.0,comtrade_mirror_raw
+2008,exports,N_America_ex_US,minerals & metals,11201334171.0,comtrade_mirror_raw
+2008,exports,N_America_ex_US,apparel,98360606.0,comtrade_mirror_raw
+2008,exports,N_America_ex_US,other manufactured goods,706567251.0,comtrade_mirror_raw
+2008,exports,S_America,agricultural goods,251983703.236,comtrade_mirror_raw
+2008,exports,S_America,minerals & metals,20801703921.949,comtrade_mirror_raw
+2008,exports,S_America,apparel,173088961.616,comtrade_mirror_raw
+2008,exports,S_America,other manufactured goods,2416613059.416,comtrade_mirror_raw
+2008,exports,Oceania,agricultural goods,258190604.0,comtrade_mirror_raw
+2008,exports,Oceania,minerals & metals,965399291.0,comtrade_mirror_raw
+2008,exports,Oceania,apparel,54035403.0,comtrade_mirror_raw
+2008,exports,Oceania,other manufactured goods,1408253849.0,comtrade_mirror_raw
+2009,exports,USA,agricultural goods,1858190664.0,comtrade_mirror_raw
+2009,exports,USA,minerals & metals,57076787029.0,comtrade_mirror_raw
+2009,exports,USA,apparel,2048539922.0,comtrade_mirror_raw
+2009,exports,USA,other manufactured goods,3301905524.0,comtrade_mirror_raw
+2009,exports,China,agricultural goods,627557144.0,comtrade_mirror_raw
+2009,exports,China,minerals & metals,34700457053.0,comtrade_mirror_raw
+2009,exports,China,apparel,523315324.0,comtrade_mirror_raw
+2009,exports,China,other manufactured goods,1892033017.0,comtrade_mirror_raw
+2009,exports,Europe,agricultural goods,22873203115.715,comtrade_mirror_raw
+2009,exports,Europe,minerals & metals,115931040569.913,comtrade_mirror_raw
+2009,exports,Europe,apparel,9986597848.752,comtrade_mirror_raw
+2009,exports,Europe,other manufactured goods,21024280822.45,comtrade_mirror_raw
+2009,exports,Asia_ex_China,agricultural goods,6888746515.697,comtrade_mirror_raw
+2009,exports,Asia_ex_China,minerals & metals,43528768469.282,comtrade_mirror_raw
+2009,exports,Asia_ex_China,apparel,1251163897.552,comtrade_mirror_raw
+2009,exports,Asia_ex_China,other manufactured goods,8658388074.587,comtrade_mirror_raw
+2009,exports,N_America_ex_US,agricultural goods,477059396.52,comtrade_mirror_raw
+2009,exports,N_America_ex_US,minerals & metals,5534615033.92,comtrade_mirror_raw
+2009,exports,N_America_ex_US,apparel,100399989.72,comtrade_mirror_raw
+2009,exports,N_America_ex_US,other manufactured goods,612855607.37,comtrade_mirror_raw
+2009,exports,S_America,agricultural goods,267123775.835,comtrade_mirror_raw
+2009,exports,S_America,minerals & metals,10588007932.21,comtrade_mirror_raw
+2009,exports,S_America,apparel,134691639.802,comtrade_mirror_raw
+2009,exports,S_America,other manufactured goods,1308753336.98,comtrade_mirror_raw
+2009,exports,Oceania,agricultural goods,249696456.814,comtrade_mirror_raw
+2009,exports,Oceania,minerals & metals,577866706.315,comtrade_mirror_raw
+2009,exports,Oceania,apparel,50723120.032,comtrade_mirror_raw
+2009,exports,Oceania,other manufactured goods,712976379.944,comtrade_mirror_raw
+2010,exports,USA,agricultural goods,2274838625.0,comtrade_mirror_raw
+2010,exports,USA,minerals & metals,78436774297.0,comtrade_mirror_raw
+2010,exports,USA,apparel,2061019047.0,comtrade_mirror_raw
+2010,exports,USA,other manufactured goods,4399704837.0,comtrade_mirror_raw
+2010,exports,China,agricultural goods,808526689.0,comtrade_mirror_raw
+2010,exports,China,minerals & metals,52726046948.0,comtrade_mirror_raw
+2010,exports,China,apparel,679909311.0,comtrade_mirror_raw
+2010,exports,China,other manufactured goods,2779224149.0,comtrade_mirror_raw
+2010,exports,Europe,agricultural goods,23163413618.316,comtrade_mirror_raw
+2010,exports,Europe,minerals & metals,128610405600.406,comtrade_mirror_raw
+2010,exports,Europe,apparel,9828366313.392,comtrade_mirror_raw
+2010,exports,Europe,other manufactured goods,24941923422.051,comtrade_mirror_raw
+2010,exports,Asia_ex_China,agricultural goods,8261507453.05,comtrade_mirror_raw
+2010,exports,Asia_ex_China,minerals & metals,66230865516.583,comtrade_mirror_raw
+2010,exports,Asia_ex_China,apparel,2054625783.964,comtrade_mirror_raw
+2010,exports,Asia_ex_China,other manufactured goods,10598224430.657,comtrade_mirror_raw
+2010,exports,N_America_ex_US,agricultural goods,551707857.34,comtrade_mirror_raw
+2010,exports,N_America_ex_US,minerals & metals,8118003866.04,comtrade_mirror_raw
+2010,exports,N_America_ex_US,apparel,120696632.32,comtrade_mirror_raw
+2010,exports,N_America_ex_US,other manufactured goods,754362990.55,comtrade_mirror_raw
+2010,exports,S_America,agricultural goods,238569601.532,comtrade_mirror_raw
+2010,exports,S_America,minerals & metals,14669297803.861,comtrade_mirror_raw
+2010,exports,S_America,apparel,158763702.383,comtrade_mirror_raw
+2010,exports,S_America,other manufactured goods,1845510331.381,comtrade_mirror_raw
+2010,exports,Oceania,agricultural goods,319942283.686,comtrade_mirror_raw
+2010,exports,Oceania,minerals & metals,2173774325.492,comtrade_mirror_raw
+2010,exports,Oceania,apparel,65691156.673,comtrade_mirror_raw
+2010,exports,Oceania,other manufactured goods,910614701.411,comtrade_mirror_raw
+2011,exports,USA,agricultural goods,2554267270.0,comtrade_mirror_raw
+2011,exports,USA,minerals & metals,84099858348.0,comtrade_mirror_raw
+2011,exports,USA,apparel,2279230090.0,comtrade_mirror_raw
+2011,exports,USA,other manufactured goods,5687758131.0,comtrade_mirror_raw
+2011,exports,China,agricultural goods,1116700244.0,comtrade_mirror_raw
+2011,exports,China,minerals & metals,62761228557.0,comtrade_mirror_raw
+2011,exports,China,apparel,1107074641.0,comtrade_mirror_raw
+2011,exports,China,other manufactured goods,2779835873.0,comtrade_mirror_raw
+2011,exports,Europe,agricultural goods,26732050948.324,comtrade_mirror_raw
+2011,exports,Europe,minerals & metals,149801333490.615,comtrade_mirror_raw
+2011,exports,Europe,apparel,11119495933.934,comtrade_mirror_raw
+2011,exports,Europe,other manufactured goods,29298678219.971,comtrade_mirror_raw
+2011,exports,Asia_ex_China,agricultural goods,10319196827.412,comtrade_mirror_raw
+2011,exports,Asia_ex_China,minerals & metals,91474850885.869,comtrade_mirror_raw
+2011,exports,Asia_ex_China,apparel,2377070452.333,comtrade_mirror_raw
+2011,exports,Asia_ex_China,other manufactured goods,12479832693.63,comtrade_mirror_raw
+2011,exports,N_America_ex_US,agricultural goods,628427295.95,comtrade_mirror_raw
+2011,exports,N_America_ex_US,minerals & metals,12643022454.0,comtrade_mirror_raw
+2011,exports,N_America_ex_US,apparel,120039321.87,comtrade_mirror_raw
+2011,exports,N_America_ex_US,other manufactured goods,1007076030.43,comtrade_mirror_raw
+2011,exports,S_America,agricultural goods,699160251.033,comtrade_mirror_raw
+2011,exports,S_America,minerals & metals,19052876783.170002,comtrade_mirror_raw
+2011,exports,S_America,apparel,209412102.311,comtrade_mirror_raw
+2011,exports,S_America,other manufactured goods,2675884561.953,comtrade_mirror_raw
+2011,exports,Oceania,agricultural goods,256520154.518,comtrade_mirror_raw
+2011,exports,Oceania,minerals & metals,4550884245.155,comtrade_mirror_raw
+2011,exports,Oceania,apparel,65505299.575,comtrade_mirror_raw
+2011,exports,Oceania,other manufactured goods,836570011.887,comtrade_mirror_raw
+2012,exports,USA,agricultural goods,2377385984.0,comtrade_mirror_raw
+2012,exports,USA,minerals & metals,57970454906.0,comtrade_mirror_raw
+2012,exports,USA,apparel,2226113306.0,comtrade_mirror_raw
+2012,exports,USA,other manufactured goods,5370083145.0,comtrade_mirror_raw
+2012,exports,China,agricultural goods,1302893291.0,comtrade_mirror_raw
+2012,exports,China,minerals & metals,78276166092.0,comtrade_mirror_raw
+2012,exports,China,apparel,1601780461.0,comtrade_mirror_raw
+2012,exports,China,other manufactured goods,3105489655.0,comtrade_mirror_raw
+2012,exports,Europe,agricultural goods,24110254204.334,comtrade_mirror_raw
+2012,exports,Europe,minerals & metals,188851102379.777,comtrade_mirror_raw
+2012,exports,Europe,apparel,9739658970.256,comtrade_mirror_raw
+2012,exports,Europe,other manufactured goods,26588510150.542,comtrade_mirror_raw
+2012,exports,Asia_ex_China,agricultural goods,10555312015.782,comtrade_mirror_raw
+2012,exports,Asia_ex_China,minerals & metals,114066409398.963,comtrade_mirror_raw
+2012,exports,Asia_ex_China,apparel,2418065254.965,comtrade_mirror_raw
+2012,exports,Asia_ex_China,other manufactured goods,12332103194.055,comtrade_mirror_raw
+2012,exports,N_America_ex_US,agricultural goods,545679488.33,comtrade_mirror_raw
+2012,exports,N_America_ex_US,minerals & metals,12041281133.0,comtrade_mirror_raw
+2012,exports,N_America_ex_US,apparel,128454377.14,comtrade_mirror_raw
+2012,exports,N_America_ex_US,other manufactured goods,762988563.69,comtrade_mirror_raw
+2012,exports,S_America,agricultural goods,819318126.049,comtrade_mirror_raw
+2012,exports,S_America,minerals & metals,16725801978.102999,comtrade_mirror_raw
+2012,exports,S_America,apparel,198280063.958,comtrade_mirror_raw
+2012,exports,S_America,other manufactured goods,2831550765.413,comtrade_mirror_raw
+2012,exports,Oceania,agricultural goods,226816148.914,comtrade_mirror_raw
+2012,exports,Oceania,minerals & metals,6391958080.379,comtrade_mirror_raw
+2012,exports,Oceania,apparel,69200491.409,comtrade_mirror_raw
+2012,exports,Oceania,other manufactured goods,860055735.833,comtrade_mirror_raw
+2013,exports,USA,agricultural goods,2475722066.0,comtrade_mirror_raw
+2013,exports,USA,minerals & metals,40695075023.0,comtrade_mirror_raw
+2013,exports,USA,apparel,2255180521.0,comtrade_mirror_raw
+2013,exports,USA,other manufactured goods,5439909398.0,comtrade_mirror_raw
+2013,exports,China,agricultural goods,1828019305.0,comtrade_mirror_raw
+2013,exports,China,minerals & metals,80167061086.0,comtrade_mirror_raw
+2013,exports,China,apparel,1300014332.0,comtrade_mirror_raw
+2013,exports,China,other manufactured goods,3434748412.0,comtrade_mirror_raw
+2013,exports,Europe,agricultural goods,25596193196.966,comtrade_mirror_raw
+2013,exports,Europe,minerals & metals,173370583350.246,comtrade_mirror_raw
+2013,exports,Europe,apparel,9998405765.468,comtrade_mirror_raw
+2013,exports,Europe,other manufactured goods,27793371641.164,comtrade_mirror_raw
+2013,exports,Asia_ex_China,agricultural goods,11664295436.399,comtrade_mirror_raw
+2013,exports,Asia_ex_China,minerals & metals,108823732902.195,comtrade_mirror_raw
+2013,exports,Asia_ex_China,apparel,2888026088.743,comtrade_mirror_raw
+2013,exports,Asia_ex_China,other manufactured goods,12282982983.552,comtrade_mirror_raw
+2013,exports,N_America_ex_US,agricultural goods,542926006.26,comtrade_mirror_raw
+2013,exports,N_America_ex_US,minerals & metals,7790630683.48,comtrade_mirror_raw
+2013,exports,N_America_ex_US,apparel,123315565.85,comtrade_mirror_raw
+2013,exports,N_America_ex_US,other manufactured goods,604055748.69,comtrade_mirror_raw
+2013,exports,S_America,agricultural goods,446338904.642,comtrade_mirror_raw
+2013,exports,S_America,minerals & metals,21076085186.03,comtrade_mirror_raw
+2013,exports,S_America,apparel,226710213.623,comtrade_mirror_raw
+2013,exports,S_America,other manufactured goods,3099442730.653,comtrade_mirror_raw
+2013,exports,Oceania,agricultural goods,260243194.343,comtrade_mirror_raw
+2013,exports,Oceania,minerals & metals,4933389787.779,comtrade_mirror_raw
+2013,exports,Oceania,apparel,69227104.4,comtrade_mirror_raw
+2013,exports,Oceania,other manufactured goods,717240669.206,comtrade_mirror_raw
+2014,exports,USA,agricultural goods,2751680481.0,comtrade_mirror_raw
+2014,exports,USA,minerals & metals,25308343564.0,comtrade_mirror_raw
+2014,exports,USA,apparel,2367216154.0,comtrade_mirror_raw
+2014,exports,USA,other manufactured goods,4639860587.0,comtrade_mirror_raw
+2014,exports,China,agricultural goods,2439009866.0,comtrade_mirror_raw
+2014,exports,China,minerals & metals,80945440805.0,comtrade_mirror_raw
+2014,exports,China,apparel,863206268.0,comtrade_mirror_raw
+2014,exports,China,other manufactured goods,4432557393.0,comtrade_mirror_raw
+2014,exports,Europe,agricultural goods,26473073580.086998,comtrade_mirror_raw
+2014,exports,Europe,minerals & metals,149163122153.228,comtrade_mirror_raw
+2014,exports,Europe,apparel,10477036753.428999,comtrade_mirror_raw
+2014,exports,Europe,other manufactured goods,29727923428.427,comtrade_mirror_raw
+2014,exports,Asia_ex_China,agricultural goods,13684822710.909,comtrade_mirror_raw
+2014,exports,Asia_ex_China,minerals & metals,107146969003.964,comtrade_mirror_raw
+2014,exports,Asia_ex_China,apparel,2746745289.906,comtrade_mirror_raw
+2014,exports,Asia_ex_China,other manufactured goods,12738197870.256,comtrade_mirror_raw
+2014,exports,N_America_ex_US,agricultural goods,613023140.13,comtrade_mirror_raw
+2014,exports,N_America_ex_US,minerals & metals,4430569662.69,comtrade_mirror_raw
+2014,exports,N_America_ex_US,apparel,135576114.03,comtrade_mirror_raw
+2014,exports,N_America_ex_US,other manufactured goods,581148099.31,comtrade_mirror_raw
+2014,exports,S_America,agricultural goods,419679576.974,comtrade_mirror_raw
+2014,exports,S_America,minerals & metals,21246048010.906998,comtrade_mirror_raw
+2014,exports,S_America,apparel,270593825.79,comtrade_mirror_raw
+2014,exports,S_America,other manufactured goods,2387990019.146,comtrade_mirror_raw
+2014,exports,Oceania,agricultural goods,265075878.37,comtrade_mirror_raw
+2014,exports,Oceania,minerals & metals,3828998555.43,comtrade_mirror_raw
+2014,exports,Oceania,apparel,75230697.213,comtrade_mirror_raw
+2014,exports,Oceania,other manufactured goods,805775334.718,comtrade_mirror_raw
+2015,exports,USA,agricultural goods,3014626087.0,comtrade_mirror_raw
+2015,exports,USA,minerals & metals,15508765179.0,comtrade_mirror_raw
+2015,exports,USA,apparel,2356728570.0,comtrade_mirror_raw
+2015,exports,USA,other manufactured goods,4691292596.0,comtrade_mirror_raw
+2015,exports,China,agricultural goods,2466862028.0,comtrade_mirror_raw
+2015,exports,China,minerals & metals,63492410167.0,comtrade_mirror_raw
+2015,exports,China,apparel,639644643.0,comtrade_mirror_raw
+2015,exports,China,other manufactured goods,3659037628.0,comtrade_mirror_raw
+2015,exports,Europe,agricultural goods,25745011777.856,comtrade_mirror_raw
+2015,exports,Europe,minerals & metals,94858472663.657,comtrade_mirror_raw
+2015,exports,Europe,apparel,8932968317.087,comtrade_mirror_raw
+2015,exports,Europe,other manufactured goods,27469527966.802002,comtrade_mirror_raw
+2015,exports,Asia_ex_China,agricultural goods,14402520165.955,comtrade_mirror_raw
+2015,exports,Asia_ex_China,minerals & metals,77388764249.118,comtrade_mirror_raw
+2015,exports,Asia_ex_China,apparel,2800032277.729,comtrade_mirror_raw
+2015,exports,Asia_ex_China,other manufactured goods,13190824892.403,comtrade_mirror_raw
+2015,exports,N_America_ex_US,agricultural goods,617368241.576,comtrade_mirror_raw
+2015,exports,N_America_ex_US,minerals & metals,3285194775.183,comtrade_mirror_raw
+2015,exports,N_America_ex_US,apparel,127533411.858,comtrade_mirror_raw
+2015,exports,N_America_ex_US,other manufactured goods,522716151.836,comtrade_mirror_raw
+2015,exports,S_America,agricultural goods,322485862.198,comtrade_mirror_raw
+2015,exports,S_America,minerals & metals,10910955471.252,comtrade_mirror_raw
+2015,exports,S_America,apparel,241045325.053,comtrade_mirror_raw
+2015,exports,S_America,other manufactured goods,1864212525.606,comtrade_mirror_raw
+2015,exports,Oceania,agricultural goods,236656184.384,comtrade_mirror_raw
+2015,exports,Oceania,minerals & metals,853884603.554,comtrade_mirror_raw
+2015,exports,Oceania,apparel,75214125.107,comtrade_mirror_raw
+2015,exports,Oceania,other manufactured goods,820307758.364,comtrade_mirror_raw
+2016,exports,USA,agricultural goods,3040338477.0,comtrade_mirror_raw
+2016,exports,USA,minerals & metals,17084146845.0,comtrade_mirror_raw
+2016,exports,USA,apparel,2186386964.0,comtrade_mirror_raw
+2016,exports,USA,other manufactured goods,4711116065.0,comtrade_mirror_raw
+2016,exports,China,agricultural goods,2364623894.0,comtrade_mirror_raw
+2016,exports,China,minerals & metals,50375632365.0,comtrade_mirror_raw
+2016,exports,China,apparel,609665922.0,comtrade_mirror_raw
+2016,exports,China,other manufactured goods,3338427475.0,comtrade_mirror_raw
+2016,exports,Europe,agricultural goods,26380537000.054,comtrade_mirror_raw
+2016,exports,Europe,minerals & metals,76462325677.142,comtrade_mirror_raw
+2016,exports,Europe,apparel,9263091333.404,comtrade_mirror_raw
+2016,exports,Europe,other manufactured goods,28480617826.6,comtrade_mirror_raw
+2016,exports,Asia_ex_China,agricultural goods,14612302978.413,comtrade_mirror_raw
+2016,exports,Asia_ex_China,minerals & metals,68375971704.734,comtrade_mirror_raw
+2016,exports,Asia_ex_China,apparel,2631788951.237,comtrade_mirror_raw
+2016,exports,Asia_ex_China,other manufactured goods,13148124041.447,comtrade_mirror_raw
+2016,exports,N_America_ex_US,agricultural goods,652193595.197,comtrade_mirror_raw
+2016,exports,N_America_ex_US,minerals & metals,3957658793.902,comtrade_mirror_raw
+2016,exports,N_America_ex_US,apparel,133262489.50299999,comtrade_mirror_raw
+2016,exports,N_America_ex_US,other manufactured goods,444242491.344,comtrade_mirror_raw
+2016,exports,S_America,agricultural goods,565343292.27,comtrade_mirror_raw
+2016,exports,S_America,minerals & metals,5855347605.25,comtrade_mirror_raw
+2016,exports,S_America,apparel,237423014.058,comtrade_mirror_raw
+2016,exports,S_America,other manufactured goods,1879239159.67,comtrade_mirror_raw
+2016,exports,Oceania,agricultural goods,222289738.066,comtrade_mirror_raw
+2016,exports,Oceania,minerals & metals,1158477609.181,comtrade_mirror_raw
+2016,exports,Oceania,apparel,80621850.208,comtrade_mirror_raw
+2016,exports,Oceania,other manufactured goods,750492987.826,comtrade_mirror_raw
+2017,exports,USA,agricultural goods,3300701536.0,comtrade_mirror_raw
+2017,exports,USA,minerals & metals,23836332234.0,comtrade_mirror_raw
+2017,exports,USA,apparel,2249230039.0,comtrade_mirror_raw
+2017,exports,USA,other manufactured goods,4611407276.0,comtrade_mirror_raw
+2017,exports,China,agricultural goods,2433265856.0,comtrade_mirror_raw
+2017,exports,China,minerals & metals,68853550900.0,comtrade_mirror_raw
+2017,exports,China,apparel,724166220.0,comtrade_mirror_raw
+2017,exports,China,other manufactured goods,3911288122.0,comtrade_mirror_raw
+2017,exports,Europe,agricultural goods,27412347110.995,comtrade_mirror_raw
+2017,exports,Europe,minerals & metals,89864003306.929,comtrade_mirror_raw
+2017,exports,Europe,apparel,9697392362.347,comtrade_mirror_raw
+2017,exports,Europe,other manufactured goods,32870921423.161,comtrade_mirror_raw
+2017,exports,Asia_ex_China,agricultural goods,16573533733.41,comtrade_mirror_raw
+2017,exports,Asia_ex_China,minerals & metals,86087084989.109,comtrade_mirror_raw
+2017,exports,Asia_ex_China,apparel,3250094383.819,comtrade_mirror_raw
+2017,exports,Asia_ex_China,other manufactured goods,14621069458.434,comtrade_mirror_raw
+2017,exports,N_America_ex_US,agricultural goods,694848391.9399999,comtrade_mirror_raw
+2017,exports,N_America_ex_US,minerals & metals,2834734161.715,comtrade_mirror_raw
+2017,exports,N_America_ex_US,apparel,153024097.803,comtrade_mirror_raw
+2017,exports,N_America_ex_US,other manufactured goods,436404843.06,comtrade_mirror_raw
+2017,exports,S_America,agricultural goods,584993597.357,comtrade_mirror_raw
+2017,exports,S_America,minerals & metals,6896786984.727,comtrade_mirror_raw
+2017,exports,S_America,apparel,258853048.97100002,comtrade_mirror_raw
+2017,exports,S_America,other manufactured goods,2504134433.034,comtrade_mirror_raw
+2017,exports,Oceania,agricultural goods,262923037.114,comtrade_mirror_raw
+2017,exports,Oceania,minerals & metals,1779404999.0240002,comtrade_mirror_raw
+2017,exports,Oceania,apparel,81747315.875,comtrade_mirror_raw
+2017,exports,Oceania,other manufactured goods,851290505.633,comtrade_mirror_raw
+2018,exports,USA,agricultural goods,3438607472.0,comtrade_mirror_raw
+2018,exports,USA,minerals & metals,25444661727.0,comtrade_mirror_raw
+2018,exports,USA,apparel,2587580125.0,comtrade_mirror_raw
+2018,exports,USA,other manufactured goods,4725276129.0,comtrade_mirror_raw
+2018,exports,China,agricultural goods,2862600327.0,comtrade_mirror_raw
+2018,exports,China,minerals & metals,91152557452.0,comtrade_mirror_raw
+2018,exports,China,apparel,947464410.0,comtrade_mirror_raw
+2018,exports,China,other manufactured goods,4314997470.0,comtrade_mirror_raw
+2018,exports,Europe,agricultural goods,29003955434.656,comtrade_mirror_raw
+2018,exports,Europe,minerals & metals,116749079002.937,comtrade_mirror_raw
+2018,exports,Europe,apparel,10636493428.591,comtrade_mirror_raw
+2018,exports,Europe,other manufactured goods,37007404851.733,comtrade_mirror_raw
+2018,exports,Asia_ex_China,agricultural goods,16288261478.578,comtrade_mirror_raw
+2018,exports,Asia_ex_China,minerals & metals,99391200661.417,comtrade_mirror_raw
+2018,exports,Asia_ex_China,apparel,2921615889.635,comtrade_mirror_raw
+2018,exports,Asia_ex_China,other manufactured goods,14775275674.67,comtrade_mirror_raw
+2018,exports,N_America_ex_US,agricultural goods,797614347.855,comtrade_mirror_raw
+2018,exports,N_America_ex_US,minerals & metals,1963569654.445,comtrade_mirror_raw
+2018,exports,N_America_ex_US,apparel,157944112.145,comtrade_mirror_raw
+2018,exports,N_America_ex_US,other manufactured goods,383853231.29,comtrade_mirror_raw
+2018,exports,S_America,agricultural goods,602605233.857,comtrade_mirror_raw
+2018,exports,S_America,minerals & metals,8106395639.623,comtrade_mirror_raw
+2018,exports,S_America,apparel,274926777.45,comtrade_mirror_raw
+2018,exports,S_America,other manufactured goods,4236445935.568,comtrade_mirror_raw
+2018,exports,Oceania,agricultural goods,293083401.708,comtrade_mirror_raw
+2018,exports,Oceania,minerals & metals,2666956372.557,comtrade_mirror_raw
+2018,exports,Oceania,apparel,81968633.05499999,comtrade_mirror_raw
+2018,exports,Oceania,other manufactured goods,830844453.861,comtrade_mirror_raw
+2019,exports,USA,agricultural goods,3281723290.0,comtrade_mirror_raw
+2019,exports,USA,minerals & metals,19524243847.0,comtrade_mirror_raw
+2019,exports,USA,apparel,2950945041.0,comtrade_mirror_raw
+2019,exports,USA,other manufactured goods,4797945613.0,comtrade_mirror_raw
+2019,exports,China,agricultural goods,3425673650.0,comtrade_mirror_raw
+2019,exports,China,minerals & metals,87584256281.0,comtrade_mirror_raw
+2019,exports,China,apparel,946235066.0,comtrade_mirror_raw
+2019,exports,China,other manufactured goods,3842132341.0,comtrade_mirror_raw
+2019,exports,Europe,agricultural goods,27500336482.065998,comtrade_mirror_raw
+2019,exports,Europe,minerals & metals,111359595036.415,comtrade_mirror_raw
+2019,exports,Europe,apparel,10162416280.095,comtrade_mirror_raw
+2019,exports,Europe,other manufactured goods,39184435818.497,comtrade_mirror_raw
+2019,exports,Asia_ex_China,agricultural goods,15730310512.031,comtrade_mirror_raw
+2019,exports,Asia_ex_China,minerals & metals,94317743359.349,comtrade_mirror_raw
+2019,exports,Asia_ex_China,apparel,2262770632.625,comtrade_mirror_raw
+2019,exports,Asia_ex_China,other manufactured goods,13801205335.847,comtrade_mirror_raw
+2019,exports,N_America_ex_US,agricultural goods,822515612.703,comtrade_mirror_raw
+2019,exports,N_America_ex_US,minerals & metals,1929474936.123,comtrade_mirror_raw
+2019,exports,N_America_ex_US,apparel,165283099.869,comtrade_mirror_raw
+2019,exports,N_America_ex_US,other manufactured goods,491099846.477,comtrade_mirror_raw
+2019,exports,S_America,agricultural goods,526047507.725,comtrade_mirror_raw
+2019,exports,S_America,minerals & metals,6091399123.83,comtrade_mirror_raw
+2019,exports,S_America,apparel,281000454.213,comtrade_mirror_raw
+2019,exports,S_America,other manufactured goods,3424969058.083,comtrade_mirror_raw
+2019,exports,Oceania,agricultural goods,265389638.175,comtrade_mirror_raw
+2019,exports,Oceania,minerals & metals,1743574239.781,comtrade_mirror_raw
+2019,exports,Oceania,apparel,82085286.41,comtrade_mirror_raw
+2019,exports,Oceania,other manufactured goods,749028706.133,comtrade_mirror_raw
+2020,exports,USA,agricultural goods,3471975368.0,comtrade_mirror_raw
+2020,exports,USA,minerals & metals,13952780169.0,comtrade_mirror_raw
+2020,exports,USA,apparel,2457742023.0,comtrade_mirror_raw
+2020,exports,USA,other manufactured goods,3786552682.0,comtrade_mirror_raw
+2020,exports,China,agricultural goods,3784040922.0,comtrade_mirror_raw
+2020,exports,China,minerals & metals,65717005437.0,comtrade_mirror_raw
+2020,exports,China,apparel,788712663.0,comtrade_mirror_raw
+2020,exports,China,other manufactured goods,3426581961.0,comtrade_mirror_raw
+2020,exports,Europe,agricultural goods,28189435731.604,comtrade_mirror_raw
+2020,exports,Europe,minerals & metals,79255692636.737,comtrade_mirror_raw
+2020,exports,Europe,apparel,8878094777.359,comtrade_mirror_raw
+2020,exports,Europe,other manufactured goods,32873252412.322002,comtrade_mirror_raw
+2020,exports,Asia_ex_China,agricultural goods,15629204078.921,comtrade_mirror_raw
+2020,exports,Asia_ex_China,minerals & metals,88469934181.229,comtrade_mirror_raw
+2020,exports,Asia_ex_China,apparel,1690743971.639,comtrade_mirror_raw
+2020,exports,Asia_ex_China,other manufactured goods,13360292770.16,comtrade_mirror_raw
+2020,exports,N_America_ex_US,agricultural goods,868391004.855,comtrade_mirror_raw
+2020,exports,N_America_ex_US,minerals & metals,3422945460.4309998,comtrade_mirror_raw
+2020,exports,N_America_ex_US,apparel,131374984.506,comtrade_mirror_raw
+2020,exports,N_America_ex_US,other manufactured goods,575486834.105,comtrade_mirror_raw
+2020,exports,S_America,agricultural goods,500308499.62299997,comtrade_mirror_raw
+2020,exports,S_America,minerals & metals,3274291289.03,comtrade_mirror_raw
+2020,exports,S_America,apparel,179465864.922,comtrade_mirror_raw
+2020,exports,S_America,other manufactured goods,3463567516.486,comtrade_mirror_raw
+2020,exports,Oceania,agricultural goods,255639561.262,comtrade_mirror_raw
+2020,exports,Oceania,minerals & metals,1523469841.574,comtrade_mirror_raw
+2020,exports,Oceania,apparel,72895157.286,comtrade_mirror_raw
+2020,exports,Oceania,other manufactured goods,694031395.472,comtrade_mirror_raw
+2021,exports,USA,agricultural goods,4030741378.0,comtrade_mirror_raw
+2021,exports,USA,minerals & metals,24487537038.0,comtrade_mirror_raw
+2021,exports,USA,apparel,3258742960.0,comtrade_mirror_raw
+2021,exports,USA,other manufactured goods,6061067060.0,comtrade_mirror_raw
+2021,exports,China,agricultural goods,4411110091.0,comtrade_mirror_raw
+2021,exports,China,minerals & metals,96676211314.0,comtrade_mirror_raw
+2021,exports,China,apparel,882450482.0,comtrade_mirror_raw
+2021,exports,China,other manufactured goods,3864300078.0,comtrade_mirror_raw
+2021,exports,Europe,agricultural goods,31685577918.202,comtrade_mirror_raw
+2021,exports,Europe,minerals & metals,127209652437.25,comtrade_mirror_raw
+2021,exports,Europe,apparel,10347237413.42,comtrade_mirror_raw
+2021,exports,Europe,other manufactured goods,43092589380.674,comtrade_mirror_raw
+2021,exports,Asia_ex_China,agricultural goods,17843696944.627,comtrade_mirror_raw
+2021,exports,Asia_ex_China,minerals & metals,134310214335.855,comtrade_mirror_raw
+2021,exports,Asia_ex_China,apparel,2528410226.562,comtrade_mirror_raw
+2021,exports,Asia_ex_China,other manufactured goods,16428748783.827,comtrade_mirror_raw
+2021,exports,N_America_ex_US,agricultural goods,1047868473.0270001,comtrade_mirror_raw
+2021,exports,N_America_ex_US,minerals & metals,4241207485.084,comtrade_mirror_raw
+2021,exports,N_America_ex_US,apparel,151557640.181,comtrade_mirror_raw
+2021,exports,N_America_ex_US,other manufactured goods,805601565.686,comtrade_mirror_raw
+2021,exports,S_America,agricultural goods,580329521.9120001,comtrade_mirror_raw
+2021,exports,S_America,minerals & metals,5869045688.709,comtrade_mirror_raw
+2021,exports,S_America,apparel,275172578.444,comtrade_mirror_raw
+2021,exports,S_America,other manufactured goods,5889197760.515,comtrade_mirror_raw
+2021,exports,Oceania,agricultural goods,280032421.908,comtrade_mirror_raw
+2021,exports,Oceania,minerals & metals,2536557596.371,comtrade_mirror_raw
+2021,exports,Oceania,apparel,100450698.241,comtrade_mirror_raw
+2021,exports,Oceania,other manufactured goods,858394294.417,comtrade_mirror_raw
+2022,exports,USA,agricultural goods,4567732039.0,comtrade_mirror_raw
+2022,exports,USA,minerals & metals,26874571761.0,comtrade_mirror_raw
+2022,exports,USA,apparel,3973752377.0,comtrade_mirror_raw
+2022,exports,USA,other manufactured goods,6785202195.0,comtrade_mirror_raw
+2022,exports,China,agricultural goods,4557554060.0,comtrade_mirror_raw
+2022,exports,China,minerals & metals,108141276471.0,comtrade_mirror_raw
+2022,exports,China,apparel,847374067.0,comtrade_mirror_raw
+2022,exports,China,other manufactured goods,3956621360.0,comtrade_mirror_raw
+2022,exports,Europe,agricultural goods,30184484903.948,comtrade_mirror_raw
+2022,exports,Europe,minerals & metals,195390846414.0,comtrade_mirror_raw
+2022,exports,Europe,apparel,11481859778.45,comtrade_mirror_raw
+2022,exports,Europe,other manufactured goods,49133086401.325,comtrade_mirror_raw
+2022,exports,Asia_ex_China,agricultural goods,20432616588.3,comtrade_mirror_raw
+2022,exports,Asia_ex_China,minerals & metals,158601818185.322,comtrade_mirror_raw
+2022,exports,Asia_ex_China,apparel,3139699291.416,comtrade_mirror_raw
+2022,exports,Asia_ex_China,other manufactured goods,21233278777.334,comtrade_mirror_raw
+2022,exports,N_America_ex_US,agricultural goods,1217940358.099,comtrade_mirror_raw
+2022,exports,N_America_ex_US,minerals & metals,4787687328.728,comtrade_mirror_raw
+2022,exports,N_America_ex_US,apparel,210249342.03,comtrade_mirror_raw
+2022,exports,N_America_ex_US,other manufactured goods,1055573740.169,comtrade_mirror_raw
+2022,exports,S_America,agricultural goods,629022137.668,comtrade_mirror_raw
+2022,exports,S_America,minerals & metals,7426831908.098001,comtrade_mirror_raw
+2022,exports,S_America,apparel,373229695.051,comtrade_mirror_raw
+2022,exports,S_America,other manufactured goods,7105182170.617,comtrade_mirror_raw
+2022,exports,Oceania,agricultural goods,315126017.927,comtrade_mirror_raw
+2022,exports,Oceania,minerals & metals,2451920314.773,comtrade_mirror_raw
+2022,exports,Oceania,apparel,104403952.171,comtrade_mirror_raw
+2022,exports,Oceania,other manufactured goods,1238607732.813,comtrade_mirror_raw
+2023,exports,USA,agricultural goods,4090263042.0,comtrade_mirror_raw
+2023,exports,USA,minerals & metals,24980377387.0,comtrade_mirror_raw
+2023,exports,USA,apparel,3164150855.0,comtrade_mirror_raw
+2023,exports,USA,other manufactured goods,7046285282.0,comtrade_mirror_raw
+2023,exports,China,agricultural goods,4693123421.0,comtrade_mirror_raw
+2023,exports,China,minerals & metals,99723755770.0,comtrade_mirror_raw
+2023,exports,China,apparel,858965198.0,comtrade_mirror_raw
+2023,exports,China,other manufactured goods,3974124027.0,comtrade_mirror_raw
+2023,exports,Europe,agricultural goods,33754599354.309,comtrade_mirror_raw
+2023,exports,Europe,minerals & metals,161930772628.086,comtrade_mirror_raw
+2023,exports,Europe,apparel,11514264425.205,comtrade_mirror_raw
+2023,exports,Europe,other manufactured goods,53359986475.752,comtrade_mirror_raw
+2023,exports,Asia_ex_China,agricultural goods,22185585743.191,comtrade_mirror_raw
+2023,exports,Asia_ex_China,minerals & metals,139306147597.534,comtrade_mirror_raw
+2023,exports,Asia_ex_China,apparel,2618943228.453,comtrade_mirror_raw
+2023,exports,Asia_ex_China,other manufactured goods,18272783842.158,comtrade_mirror_raw
+2023,exports,N_America_ex_US,agricultural goods,1168708021.145,comtrade_mirror_raw
+2023,exports,N_America_ex_US,minerals & metals,5280742836.973001,comtrade_mirror_raw
+2023,exports,N_America_ex_US,apparel,199512828.012,comtrade_mirror_raw
+2023,exports,N_America_ex_US,other manufactured goods,1095271213.3669999,comtrade_mirror_raw
+2023,exports,S_America,agricultural goods,834430217.375,comtrade_mirror_raw
+2023,exports,S_America,minerals & metals,7308865625.11,comtrade_mirror_raw
+2023,exports,S_America,apparel,408120060.608,comtrade_mirror_raw
+2023,exports,S_America,other manufactured goods,5332763069.986,comtrade_mirror_raw
+2023,exports,Oceania,agricultural goods,286246179.349,comtrade_mirror_raw
+2023,exports,Oceania,minerals & metals,1460630023.537,comtrade_mirror_raw
+2023,exports,Oceania,apparel,92583595.75,comtrade_mirror_raw
+2023,exports,Oceania,other manufactured goods,1225262297.609,comtrade_mirror_raw
+2024,exports,USA,agricultural goods,4699772941.0,comtrade_mirror_raw
+2024,exports,USA,minerals & metals,24713147814.0,comtrade_mirror_raw
+2024,exports,USA,apparel,3255070442.0,comtrade_mirror_raw
+2024,exports,USA,other manufactured goods,7202090591.0,comtrade_mirror_raw
+2024,exports,China,agricultural goods,4826614115.0,comtrade_mirror_raw
+2024,exports,China,minerals & metals,107220087772.0,comtrade_mirror_raw
+2024,exports,China,apparel,713075535.0,comtrade_mirror_raw
+2024,exports,China,other manufactured goods,3986355812.0,comtrade_mirror_raw
+2024,exports,Europe,agricultural goods,40798191946.92,comtrade_mirror_raw
+2024,exports,Europe,minerals & metals,148380693015.793,comtrade_mirror_raw
+2024,exports,Europe,apparel,11800207401.53,comtrade_mirror_raw
+2024,exports,Europe,other manufactured goods,53680242757.681,comtrade_mirror_raw
+2024,exports,Asia_ex_China,agricultural goods,20960942417.972,comtrade_mirror_raw
+2024,exports,Asia_ex_China,minerals & metals,93132178021.896,comtrade_mirror_raw
+2024,exports,Asia_ex_China,apparel,2446895841.509,comtrade_mirror_raw
+2024,exports,Asia_ex_China,other manufactured goods,16699569174.243,comtrade_mirror_raw
+2024,exports,N_America_ex_US,agricultural goods,1523971994.434,comtrade_mirror_raw
+2024,exports,N_America_ex_US,minerals & metals,3998983187.805,comtrade_mirror_raw
+2024,exports,N_America_ex_US,apparel,205808360.19799998,comtrade_mirror_raw
+2024,exports,N_America_ex_US,other manufactured goods,1148504420.002,comtrade_mirror_raw
+2024,exports,S_America,agricultural goods,889743327.332,comtrade_mirror_raw
+2024,exports,S_America,minerals & metals,7858454011.155,comtrade_mirror_raw
+2024,exports,S_America,apparel,463636770.181,comtrade_mirror_raw
+2024,exports,S_America,other manufactured goods,5537235298.6189995,comtrade_mirror_raw
+2024,exports,Oceania,agricultural goods,343553929.092,comtrade_mirror_raw
+2024,exports,Oceania,minerals & metals,1474534048.158,comtrade_mirror_raw
+2024,exports,Oceania,apparel,91676363.792,comtrade_mirror_raw
+2024,exports,Oceania,other manufactured goods,1537141557.932,comtrade_mirror_raw
+2025,exports,USA,agricultural goods,6351727750.0,comtrade_mirror_raw
+2025,exports,USA,minerals & metals,27469364369.0,comtrade_mirror_raw
+2025,exports,USA,apparel,3453813803.0,comtrade_mirror_raw
+2025,exports,USA,other manufactured goods,5908066155.0,comtrade_mirror_raw
+2025,exports,Europe,agricultural goods,51706581334.219,comtrade_mirror_raw
+2025,exports,Europe,minerals & metals,159920239268.059,comtrade_mirror_raw
+2025,exports,Europe,apparel,13241801867.018,comtrade_mirror_raw
+2025,exports,Europe,other manufactured goods,59495375917.758,comtrade_mirror_raw
+2025,exports,Asia_ex_China,agricultural goods,19313300122.229,comtrade_mirror_raw
+2025,exports,Asia_ex_China,minerals & metals,91732173473.815,comtrade_mirror_raw
+2025,exports,Asia_ex_China,apparel,2754098661.006,comtrade_mirror_raw
+2025,exports,Asia_ex_China,other manufactured goods,17939743633.751,comtrade_mirror_raw
+2025,exports,N_America_ex_US,agricultural goods,2114299181.615,comtrade_mirror_raw
+2025,exports,N_America_ex_US,minerals & metals,4883812078.695,comtrade_mirror_raw
+2025,exports,N_America_ex_US,apparel,205318684.33,comtrade_mirror_raw
+2025,exports,N_America_ex_US,other manufactured goods,1296214159.98,comtrade_mirror_raw
+2025,exports,S_America,agricultural goods,1418010577.768,comtrade_mirror_raw
+2025,exports,S_America,minerals & metals,5728060680.631,comtrade_mirror_raw
+2025,exports,S_America,apparel,502369880.986,comtrade_mirror_raw
+2025,exports,S_America,other manufactured goods,8412539565.302,comtrade_mirror_raw
+2025,exports,Oceania,agricultural goods,415664824.519,comtrade_mirror_raw
+2025,exports,Oceania,minerals & metals,1561290276.536,comtrade_mirror_raw
+2025,exports,Oceania,apparel,89332049.134,comtrade_mirror_raw
+2025,exports,Oceania,other manufactured goods,1654397664.254,comtrade_mirror_raw
+2000,two_way,USA,agricultural goods,3256131657.0,comtrade_mirror_raw
+2000,two_way,USA,minerals & metals,24109359018.0,comtrade_mirror_raw
+2000,two_way,USA,apparel,1627783907.0,comtrade_mirror_raw
+2000,two_way,USA,other manufactured goods,8894479897.0,comtrade_mirror_raw
+2000,two_way,China,agricultural goods,619677636.0,comtrade_mirror_raw
+2000,two_way,China,minerals & metals,3833591933.0,comtrade_mirror_raw
+2000,two_way,China,apparel,1420266311.0,comtrade_mirror_raw
+2000,two_way,China,other manufactured goods,3462938534.0,comtrade_mirror_raw
+2000,two_way,Europe,agricultural goods,17237322896.614,comtrade_mirror_raw
+2000,two_way,Europe,minerals & metals,55990048439.217995,comtrade_mirror_raw
+2000,two_way,Europe,apparel,12343839539.795,comtrade_mirror_raw
+2000,two_way,Europe,other manufactured goods,54617748717.061005,comtrade_mirror_raw
+2000,two_way,Asia_ex_China,agricultural goods,4765121212.564,comtrade_mirror_raw
+2000,two_way,Asia_ex_China,minerals & metals,16813813081.287,comtrade_mirror_raw
+2000,two_way,Asia_ex_China,apparel,4320277063.125,comtrade_mirror_raw
+2000,two_way,Asia_ex_China,other manufactured goods,19056869886.459,comtrade_mirror_raw
+2000,two_way,N_America_ex_US,agricultural goods,780189842.0,comtrade_mirror_raw
+2000,two_way,N_America_ex_US,minerals & metals,1454606879.0,comtrade_mirror_raw
+2000,two_way,N_America_ex_US,apparel,88679840.0,comtrade_mirror_raw
+2000,two_way,N_America_ex_US,other manufactured goods,547552694.0,comtrade_mirror_raw
+2000,two_way,S_America,agricultural goods,1771188764.3600001,comtrade_mirror_raw
+2000,two_way,S_America,minerals & metals,4767892233.88,comtrade_mirror_raw
+2000,two_way,S_America,apparel,229493883.3,comtrade_mirror_raw
+2000,two_way,S_America,other manufactured goods,1326552160.73,comtrade_mirror_raw
+2000,two_way,Oceania,agricultural goods,574580382.0,comtrade_mirror_raw
+2000,two_way,Oceania,minerals & metals,372085563.0,comtrade_mirror_raw
+2000,two_way,Oceania,apparel,55371119.0,comtrade_mirror_raw
+2000,two_way,Oceania,other manufactured goods,738398334.0,comtrade_mirror_raw
+2001,two_way,USA,agricultural goods,2994947627.0,comtrade_mirror_raw
+2001,two_way,USA,minerals & metals,21166235225.0,comtrade_mirror_raw
+2001,two_way,USA,apparel,1827154126.0,comtrade_mirror_raw
+2001,two_way,USA,other manufactured goods,10785860380.0,comtrade_mirror_raw
+2001,two_way,China,agricultural goods,581548594.0,comtrade_mirror_raw
+2001,two_way,China,minerals & metals,2843180489.0,comtrade_mirror_raw
+2001,two_way,China,apparel,1606515977.0,comtrade_mirror_raw
+2001,two_way,China,other manufactured goods,4094949444.0,comtrade_mirror_raw
+2001,two_way,Europe,agricultural goods,18167419182.2,comtrade_mirror_raw
+2001,two_way,Europe,minerals & metals,54594059794.296,comtrade_mirror_raw
+2001,two_way,Europe,apparel,12829131864.682999,comtrade_mirror_raw
+2001,two_way,Europe,other manufactured goods,57633172336.773,comtrade_mirror_raw
+2001,two_way,Asia_ex_China,agricultural goods,5252163256.155001,comtrade_mirror_raw
+2001,two_way,Asia_ex_China,minerals & metals,14528619201.269001,comtrade_mirror_raw
+2001,two_way,Asia_ex_China,apparel,4405021608.236,comtrade_mirror_raw
+2001,two_way,Asia_ex_China,other manufactured goods,19221156729.578,comtrade_mirror_raw
+2001,two_way,N_America_ex_US,agricultural goods,717968845.0,comtrade_mirror_raw
+2001,two_way,N_America_ex_US,minerals & metals,1195778449.0,comtrade_mirror_raw
+2001,two_way,N_America_ex_US,apparel,95830301.0,comtrade_mirror_raw
+2001,two_way,N_America_ex_US,other manufactured goods,409936020.0,comtrade_mirror_raw
+2001,two_way,S_America,agricultural goods,2345166634.56,comtrade_mirror_raw
+2001,two_way,S_America,minerals & metals,5037497976.96,comtrade_mirror_raw
+2001,two_way,S_America,apparel,146389810.81,comtrade_mirror_raw
+2001,two_way,S_America,other manufactured goods,1548506683.6599998,comtrade_mirror_raw
+2001,two_way,Oceania,agricultural goods,627441940.0,comtrade_mirror_raw
+2001,two_way,Oceania,minerals & metals,301267411.0,comtrade_mirror_raw
+2001,two_way,Oceania,apparel,53616845.0,comtrade_mirror_raw
+2001,two_way,Oceania,other manufactured goods,803155698.0,comtrade_mirror_raw
+2002,two_way,USA,agricultural goods,3360753202.0,comtrade_mirror_raw
+2002,two_way,USA,minerals & metals,18279507221.0,comtrade_mirror_raw
+2002,two_way,USA,apparel,2005783720.0,comtrade_mirror_raw
+2002,two_way,USA,other manufactured goods,9245033177.0,comtrade_mirror_raw
+2002,two_way,China,agricultural goods,650842901.0,comtrade_mirror_raw
+2002,two_way,China,minerals & metals,3069904320.0,comtrade_mirror_raw
+2002,two_way,China,apparel,1874529779.0,comtrade_mirror_raw
+2002,two_way,China,other manufactured goods,4776314201.0,comtrade_mirror_raw
+2002,two_way,Europe,agricultural goods,20214993886.182,comtrade_mirror_raw
+2002,two_way,Europe,minerals & metals,52675097811.94499,comtrade_mirror_raw
+2002,two_way,Europe,apparel,13310439307.258,comtrade_mirror_raw
+2002,two_way,Europe,other manufactured goods,60815646147.798,comtrade_mirror_raw
+2002,two_way,Asia_ex_China,agricultural goods,6135000330.690001,comtrade_mirror_raw
+2002,two_way,Asia_ex_China,minerals & metals,15346415766.013,comtrade_mirror_raw
+2002,two_way,Asia_ex_China,apparel,4404207779.005,comtrade_mirror_raw
+2002,two_way,Asia_ex_China,other manufactured goods,20742147978.427002,comtrade_mirror_raw
+2002,two_way,N_America_ex_US,agricultural goods,798178111.0,comtrade_mirror_raw
+2002,two_way,N_America_ex_US,minerals & metals,1658003426.0,comtrade_mirror_raw
+2002,two_way,N_America_ex_US,apparel,88790971.0,comtrade_mirror_raw
+2002,two_way,N_America_ex_US,other manufactured goods,462383228.0,comtrade_mirror_raw
+2002,two_way,S_America,agricultural goods,2548702839.6400003,comtrade_mirror_raw
+2002,two_way,S_America,minerals & metals,4057257006.66,comtrade_mirror_raw
+2002,two_way,S_America,apparel,112901683.51300001,comtrade_mirror_raw
+2002,two_way,S_America,other manufactured goods,1594940376.6399999,comtrade_mirror_raw
+2002,two_way,Oceania,agricultural goods,651067882.0,comtrade_mirror_raw
+2002,two_way,Oceania,minerals & metals,462426384.0,comtrade_mirror_raw
+2002,two_way,Oceania,apparel,63752998.0,comtrade_mirror_raw
+2002,two_way,Oceania,other manufactured goods,904255555.0,comtrade_mirror_raw
+2003,two_way,USA,agricultural goods,3781670818.0,comtrade_mirror_raw
+2003,two_way,USA,minerals & metals,28066758225.0,comtrade_mirror_raw
+2003,two_way,USA,apparel,2532307587.0,comtrade_mirror_raw
+2003,two_way,USA,other manufactured goods,9334685530.0,comtrade_mirror_raw
+2003,two_way,China,agricultural goods,882033166.0,comtrade_mirror_raw
+2003,two_way,China,minerals & metals,5394294167.0,comtrade_mirror_raw
+2003,two_way,China,apparel,3144351691.0,comtrade_mirror_raw
+2003,two_way,China,other manufactured goods,6770984684.0,comtrade_mirror_raw
+2003,two_way,Europe,agricultural goods,23429095603.477,comtrade_mirror_raw
+2003,two_way,Europe,minerals & metals,62935595590.785,comtrade_mirror_raw
+2003,two_way,Europe,apparel,14941287597.775,comtrade_mirror_raw
+2003,two_way,Europe,other manufactured goods,73261846908.302,comtrade_mirror_raw
+2003,two_way,Asia_ex_China,agricultural goods,7277741155.733,comtrade_mirror_raw
+2003,two_way,Asia_ex_China,minerals & metals,17086738132.108,comtrade_mirror_raw
+2003,two_way,Asia_ex_China,apparel,5410539311.485001,comtrade_mirror_raw
+2003,two_way,Asia_ex_China,other manufactured goods,23992795574.120003,comtrade_mirror_raw
+2003,two_way,N_America_ex_US,agricultural goods,791910388.0,comtrade_mirror_raw
+2003,two_way,N_America_ex_US,minerals & metals,2686718642.0,comtrade_mirror_raw
+2003,two_way,N_America_ex_US,apparel,109437250.0,comtrade_mirror_raw
+2003,two_way,N_America_ex_US,other manufactured goods,658276916.0,comtrade_mirror_raw
+2003,two_way,S_America,agricultural goods,2765493085.511,comtrade_mirror_raw
+2003,two_way,S_America,minerals & metals,4928579897.983999,comtrade_mirror_raw
+2003,two_way,S_America,apparel,111390645.40200001,comtrade_mirror_raw
+2003,two_way,S_America,other manufactured goods,1960605538.448,comtrade_mirror_raw
+2003,two_way,Oceania,agricultural goods,570219794.0,comtrade_mirror_raw
+2003,two_way,Oceania,minerals & metals,491684024.0,comtrade_mirror_raw
+2003,two_way,Oceania,apparel,69106489.0,comtrade_mirror_raw
+2003,two_way,Oceania,other manufactured goods,1137083276.0,comtrade_mirror_raw
+2004,two_way,USA,agricultural goods,4267187716.0,comtrade_mirror_raw
+2004,two_way,USA,minerals & metals,42092073893.0,comtrade_mirror_raw
+2004,two_way,USA,apparel,2828114193.0,comtrade_mirror_raw
+2004,two_way,USA,other manufactured goods,11478500169.0,comtrade_mirror_raw
+2004,two_way,China,agricultural goods,793785717.0,comtrade_mirror_raw
+2004,two_way,China,minerals & metals,11921440311.0,comtrade_mirror_raw
+2004,two_way,China,apparel,4552765986.0,comtrade_mirror_raw
+2004,two_way,China,other manufactured goods,9043941128.0,comtrade_mirror_raw
+2004,two_way,Europe,agricultural goods,25263711986.697998,comtrade_mirror_raw
+2004,two_way,Europe,minerals & metals,78306754327.022,comtrade_mirror_raw
+2004,two_way,Europe,apparel,16064888245.29,comtrade_mirror_raw
+2004,two_way,Europe,other manufactured goods,87098549934.552,comtrade_mirror_raw
+2004,two_way,Asia_ex_China,agricultural goods,8786745776.976,comtrade_mirror_raw
+2004,two_way,Asia_ex_China,minerals & metals,24516332272.125,comtrade_mirror_raw
+2004,two_way,Asia_ex_China,apparel,6048967990.922,comtrade_mirror_raw
+2004,two_way,Asia_ex_China,other manufactured goods,33925016037.174,comtrade_mirror_raw
+2004,two_way,N_America_ex_US,agricultural goods,803041618.0,comtrade_mirror_raw
+2004,two_way,N_America_ex_US,minerals & metals,3212910743.0,comtrade_mirror_raw
+2004,two_way,N_America_ex_US,apparel,115053696.0,comtrade_mirror_raw
+2004,two_way,N_America_ex_US,other manufactured goods,906388587.0,comtrade_mirror_raw
+2004,two_way,S_America,agricultural goods,4092531773.355,comtrade_mirror_raw
+2004,two_way,S_America,minerals & metals,8799613884.829,comtrade_mirror_raw
+2004,two_way,S_America,apparel,101774877.53400001,comtrade_mirror_raw
+2004,two_way,S_America,other manufactured goods,2661804488.9639997,comtrade_mirror_raw
+2004,two_way,Oceania,agricultural goods,721245575.0,comtrade_mirror_raw
+2004,two_way,Oceania,minerals & metals,565465763.0,comtrade_mirror_raw
+2004,two_way,Oceania,apparel,76281504.0,comtrade_mirror_raw
+2004,two_way,Oceania,other manufactured goods,1425988328.0,comtrade_mirror_raw
+2005,two_way,USA,agricultural goods,4288141071.0,comtrade_mirror_raw
+2005,two_way,USA,minerals & metals,61936575824.0,comtrade_mirror_raw
+2005,two_way,USA,apparel,2528951849.0,comtrade_mirror_raw
+2005,two_way,USA,other manufactured goods,13592364565.0,comtrade_mirror_raw
+2005,two_way,China,agricultural goods,987618864.0,comtrade_mirror_raw
+2005,two_way,China,minerals & metals,16253323868.0,comtrade_mirror_raw
+2005,two_way,China,apparel,5369903289.0,comtrade_mirror_raw
+2005,two_way,China,other manufactured goods,12472495730.0,comtrade_mirror_raw
+2005,two_way,Europe,agricultural goods,26741371159.917,comtrade_mirror_raw
+2005,two_way,Europe,minerals & metals,104862820901.889,comtrade_mirror_raw
+2005,two_way,Europe,apparel,15275087199.848999,comtrade_mirror_raw
+2005,two_way,Europe,other manufactured goods,96651949713.659,comtrade_mirror_raw
+2005,two_way,Asia_ex_China,agricultural goods,9811598374.414,comtrade_mirror_raw
+2005,two_way,Asia_ex_China,minerals & metals,27195881261.925,comtrade_mirror_raw
+2005,two_way,Asia_ex_China,apparel,5761797295.632999,comtrade_mirror_raw
+2005,two_way,Asia_ex_China,other manufactured goods,39112358086.090996,comtrade_mirror_raw
+2005,two_way,N_America_ex_US,agricultural goods,792248289.0,comtrade_mirror_raw
+2005,two_way,N_America_ex_US,minerals & metals,5113110676.0,comtrade_mirror_raw
+2005,two_way,N_America_ex_US,apparel,155395506.0,comtrade_mirror_raw
+2005,two_way,N_America_ex_US,other manufactured goods,1181319235.0,comtrade_mirror_raw
+2005,two_way,S_America,agricultural goods,5054034142.583,comtrade_mirror_raw
+2005,two_way,S_America,minerals & metals,11615491289.325,comtrade_mirror_raw
+2005,two_way,S_America,apparel,119543365.375,comtrade_mirror_raw
+2005,two_way,S_America,other manufactured goods,3660659099.389,comtrade_mirror_raw
+2005,two_way,Oceania,agricultural goods,793271195.0,comtrade_mirror_raw
+2005,two_way,Oceania,minerals & metals,991760245.0,comtrade_mirror_raw
+2005,two_way,Oceania,apparel,73786896.0,comtrade_mirror_raw
+2005,two_way,Oceania,other manufactured goods,2076366180.0,comtrade_mirror_raw
+2006,two_way,USA,agricultural goods,4589406577.0,comtrade_mirror_raw
+2006,two_way,USA,minerals & metals,77884820948.0,comtrade_mirror_raw
+2006,two_way,USA,apparel,2625014295.0,comtrade_mirror_raw
+2006,two_way,USA,other manufactured goods,16528944626.0,comtrade_mirror_raw
+2006,two_way,China,agricultural goods,1212072722.0,comtrade_mirror_raw
+2006,two_way,China,minerals & metals,24714852137.0,comtrade_mirror_raw
+2006,two_way,China,apparel,7202184297.0,comtrade_mirror_raw
+2006,two_way,China,other manufactured goods,18053135495.0,comtrade_mirror_raw
+2006,two_way,Europe,agricultural goods,28323959408.135998,comtrade_mirror_raw
+2006,two_way,Europe,minerals & metals,139927430576.728,comtrade_mirror_raw
+2006,two_way,Europe,apparel,16030149909.239002,comtrade_mirror_raw
+2006,two_way,Europe,other manufactured goods,106560960989.82901,comtrade_mirror_raw
+2006,two_way,Asia_ex_China,agricultural goods,10578480315.857,comtrade_mirror_raw
+2006,two_way,Asia_ex_China,minerals & metals,46505717420.432,comtrade_mirror_raw
+2006,two_way,Asia_ex_China,apparel,6248955386.896,comtrade_mirror_raw
+2006,two_way,Asia_ex_China,other manufactured goods,46436134115.564,comtrade_mirror_raw
+2006,two_way,N_America_ex_US,agricultural goods,1058629022.0,comtrade_mirror_raw
+2006,two_way,N_America_ex_US,minerals & metals,6601945425.0,comtrade_mirror_raw
+2006,two_way,N_America_ex_US,apparel,194084468.0,comtrade_mirror_raw
+2006,two_way,N_America_ex_US,other manufactured goods,1615082949.0,comtrade_mirror_raw
+2006,two_way,S_America,agricultural goods,6001032344.537,comtrade_mirror_raw
+2006,two_way,S_America,minerals & metals,14179834903.962,comtrade_mirror_raw
+2006,two_way,S_America,apparel,181382556.482,comtrade_mirror_raw
+2006,two_way,S_America,other manufactured goods,4760343713.374001,comtrade_mirror_raw
+2006,two_way,Oceania,agricultural goods,978897236.0,comtrade_mirror_raw
+2006,two_way,Oceania,minerals & metals,797676442.0,comtrade_mirror_raw
+2006,two_way,Oceania,apparel,75577820.0,comtrade_mirror_raw
+2006,two_way,Oceania,other manufactured goods,2189415293.0,comtrade_mirror_raw
+2007,two_way,USA,agricultural goods,6633750958.0,comtrade_mirror_raw
+2007,two_way,USA,minerals & metals,89270354480.0,comtrade_mirror_raw
+2007,two_way,USA,apparel,2707696960.0,comtrade_mirror_raw
+2007,two_way,USA,other manufactured goods,19105144300.0,comtrade_mirror_raw
+2007,two_way,China,agricultural goods,1460881091.0,comtrade_mirror_raw
+2007,two_way,China,minerals & metals,30633071987.0,comtrade_mirror_raw
+2007,two_way,China,apparel,9303409995.0,comtrade_mirror_raw
+2007,two_way,China,other manufactured goods,25804687830.0,comtrade_mirror_raw
+2007,two_way,Europe,agricultural goods,35643618334.126,comtrade_mirror_raw
+2007,two_way,Europe,minerals & metals,152933345356.885,comtrade_mirror_raw
+2007,two_way,Europe,apparel,18273106888.562,comtrade_mirror_raw
+2007,two_way,Europe,other manufactured goods,128155278296.894,comtrade_mirror_raw
+2007,two_way,Asia_ex_China,agricultural goods,13884562501.972,comtrade_mirror_raw
+2007,two_way,Asia_ex_China,minerals & metals,60249340866.991,comtrade_mirror_raw
+2007,two_way,Asia_ex_China,apparel,7221602974.814,comtrade_mirror_raw
+2007,two_way,Asia_ex_China,other manufactured goods,56176319876.638,comtrade_mirror_raw
+2007,two_way,N_America_ex_US,agricultural goods,1298934887.0,comtrade_mirror_raw
+2007,two_way,N_America_ex_US,minerals & metals,7312755938.0,comtrade_mirror_raw
+2007,two_way,N_America_ex_US,apparel,207359520.0,comtrade_mirror_raw
+2007,two_way,N_America_ex_US,other manufactured goods,2440147576.0,comtrade_mirror_raw
+2007,two_way,S_America,agricultural goods,7461671189.332,comtrade_mirror_raw
+2007,two_way,S_America,minerals & metals,17808809012.325,comtrade_mirror_raw
+2007,two_way,S_America,apparel,254757149.658,comtrade_mirror_raw
+2007,two_way,S_America,other manufactured goods,5736803259.754,comtrade_mirror_raw
+2007,two_way,Oceania,agricultural goods,1162049004.0,comtrade_mirror_raw
+2007,two_way,Oceania,minerals & metals,997620548.0,comtrade_mirror_raw
+2007,two_way,Oceania,apparel,89199424.0,comtrade_mirror_raw
+2007,two_way,Oceania,other manufactured goods,2611388950.0,comtrade_mirror_raw
+2008,two_way,USA,agricultural goods,7483785165.0,comtrade_mirror_raw
+2008,two_way,USA,minerals & metals,110570118511.0,comtrade_mirror_raw
+2008,two_way,USA,apparel,2687674724.0,comtrade_mirror_raw
+2008,two_way,USA,other manufactured goods,23594353115.0,comtrade_mirror_raw
+2008,two_way,China,agricultural goods,1951347848.0,comtrade_mirror_raw
+2008,two_way,China,minerals & metals,48611788758.0,comtrade_mirror_raw
+2008,two_way,China,apparel,9246215386.0,comtrade_mirror_raw
+2008,two_way,China,other manufactured goods,37481309123.0,comtrade_mirror_raw
+2008,two_way,Europe,agricultural goods,43190708764.716,comtrade_mirror_raw
+2008,two_way,Europe,minerals & metals,225106769230.195,comtrade_mirror_raw
+2008,two_way,Europe,apparel,19511907633.079,comtrade_mirror_raw
+2008,two_way,Europe,other manufactured goods,150725537671.053,comtrade_mirror_raw
+2008,two_way,Asia_ex_China,agricultural goods,18716788832.237,comtrade_mirror_raw
+2008,two_way,Asia_ex_China,minerals & metals,81353339547.95401,comtrade_mirror_raw
+2008,two_way,Asia_ex_China,apparel,8401344727.975,comtrade_mirror_raw
+2008,two_way,Asia_ex_China,other manufactured goods,69729822104.948,comtrade_mirror_raw
+2008,two_way,N_America_ex_US,agricultural goods,2038447567.0,comtrade_mirror_raw
+2008,two_way,N_America_ex_US,minerals & metals,11613523922.0,comtrade_mirror_raw
+2008,two_way,N_America_ex_US,apparel,234363152.0,comtrade_mirror_raw
+2008,two_way,N_America_ex_US,other manufactured goods,2371299051.0,comtrade_mirror_raw
+2008,two_way,S_America,agricultural goods,10081665531.236,comtrade_mirror_raw
+2008,two_way,S_America,minerals & metals,23376961194.850002,comtrade_mirror_raw
+2008,two_way,S_America,apparel,239854608.484,comtrade_mirror_raw
+2008,two_way,S_America,other manufactured goods,7298018919.885,comtrade_mirror_raw
+2008,two_way,Oceania,agricultural goods,1365656279.0,comtrade_mirror_raw
+2008,two_way,Oceania,minerals & metals,1709819723.0,comtrade_mirror_raw
+2008,two_way,Oceania,apparel,93088450.0,comtrade_mirror_raw
+2008,two_way,Oceania,other manufactured goods,2819672030.0,comtrade_mirror_raw
+2009,two_way,USA,agricultural goods,5981541978.0,comtrade_mirror_raw
+2009,two_way,USA,minerals & metals,59434351198.0,comtrade_mirror_raw
+2009,two_way,USA,apparel,2303600045.0,comtrade_mirror_raw
+2009,two_way,USA,other manufactured goods,20041239541.0,comtrade_mirror_raw
+2009,two_way,China,agricultural goods,2141410630.0,comtrade_mirror_raw
+2009,two_way,China,minerals & metals,36853885717.0,comtrade_mirror_raw
+2009,two_way,China,apparel,8945640362.0,comtrade_mirror_raw
+2009,two_way,China,other manufactured goods,35720059491.0,comtrade_mirror_raw
+2009,two_way,Europe,agricultural goods,39887178605.719,comtrade_mirror_raw
+2009,two_way,Europe,minerals & metals,141276399638.158,comtrade_mirror_raw
+2009,two_way,Europe,apparel,16324864470.739002,comtrade_mirror_raw
+2009,two_way,Europe,other manufactured goods,130719234808.02,comtrade_mirror_raw
+2009,two_way,Asia_ex_China,agricultural goods,16996055876.628998,comtrade_mirror_raw
+2009,two_way,Asia_ex_China,minerals & metals,55893420563.282,comtrade_mirror_raw
+2009,two_way,Asia_ex_China,apparel,6832784723.77,comtrade_mirror_raw
+2009,two_way,Asia_ex_China,other manufactured goods,61155331470.798996,comtrade_mirror_raw
+2009,two_way,N_America_ex_US,agricultural goods,1434731811.52,comtrade_mirror_raw
+2009,two_way,N_America_ex_US,minerals & metals,5801996867.92,comtrade_mirror_raw
+2009,two_way,N_America_ex_US,apparel,211286653.72,comtrade_mirror_raw
+2009,two_way,N_America_ex_US,other manufactured goods,2063469485.37,comtrade_mirror_raw
+2009,two_way,S_America,agricultural goods,8328267642.12,comtrade_mirror_raw
+2009,two_way,S_America,minerals & metals,12117126571.577,comtrade_mirror_raw
+2009,two_way,S_America,apparel,185186984.33699998,comtrade_mirror_raw
+2009,two_way,S_America,other manufactured goods,5098650664.354,comtrade_mirror_raw
+2009,two_way,Oceania,agricultural goods,1292062454.821,comtrade_mirror_raw
+2009,two_way,Oceania,minerals & metals,903298437.7540001,comtrade_mirror_raw
+2009,two_way,Oceania,apparel,85797407.032,comtrade_mirror_raw
+2009,two_way,Oceania,other manufactured goods,1602379158.944,comtrade_mirror_raw
+2010,two_way,USA,agricultural goods,7861397933.0,comtrade_mirror_raw
+2010,two_way,USA,minerals & metals,81942449823.0,comtrade_mirror_raw
+2010,two_way,USA,apparel,2400571822.0,comtrade_mirror_raw
+2010,two_way,USA,other manufactured goods,22387086535.0,comtrade_mirror_raw
+2010,two_way,China,agricultural goods,2514077261.0,comtrade_mirror_raw
+2010,two_way,China,minerals & metals,55695448114.0,comtrade_mirror_raw
+2010,two_way,China,apparel,11180871566.0,comtrade_mirror_raw
+2010,two_way,China,other manufactured goods,45444858222.0,comtrade_mirror_raw
+2010,two_way,Europe,agricultural goods,42104492247.906006,comtrade_mirror_raw
+2010,two_way,Europe,minerals & metals,160720920559.09802,comtrade_mirror_raw
+2010,two_way,Europe,apparel,16334324200.845001,comtrade_mirror_raw
+2010,two_way,Europe,other manufactured goods,138975227254.898,comtrade_mirror_raw
+2010,two_way,Asia_ex_China,agricultural goods,20735514466.313,comtrade_mirror_raw
+2010,two_way,Asia_ex_China,minerals & metals,81684442497.174,comtrade_mirror_raw
+2010,two_way,Asia_ex_China,apparel,8390004904.763,comtrade_mirror_raw
+2010,two_way,Asia_ex_China,other manufactured goods,73448092913.812,comtrade_mirror_raw
+2010,two_way,N_America_ex_US,agricultural goods,1607543984.3400002,comtrade_mirror_raw
+2010,two_way,N_America_ex_US,minerals & metals,8430227433.04,comtrade_mirror_raw
+2010,two_way,N_America_ex_US,apparel,246369549.32,comtrade_mirror_raw
+2010,two_way,N_America_ex_US,other manufactured goods,2393312132.55,comtrade_mirror_raw
+2010,two_way,S_America,agricultural goods,10023345225.182999,comtrade_mirror_raw
+2010,two_way,S_America,minerals & metals,16841289603.075,comtrade_mirror_raw
+2010,two_way,S_America,apparel,222303852.17999998,comtrade_mirror_raw
+2010,two_way,S_America,other manufactured goods,5423497625.073,comtrade_mirror_raw
+2010,two_way,Oceania,agricultural goods,1783290561.0489998,comtrade_mirror_raw
+2010,two_way,Oceania,minerals & metals,2748919631.729,comtrade_mirror_raw
+2010,two_way,Oceania,apparel,103523431.759,comtrade_mirror_raw
+2010,two_way,Oceania,other manufactured goods,2014608699.335,comtrade_mirror_raw
+2011,two_way,USA,agricultural goods,9515961948.0,comtrade_mirror_raw
+2011,two_way,USA,minerals & metals,89088189387.0,comtrade_mirror_raw
+2011,two_way,USA,apparel,2735666525.0,comtrade_mirror_raw
+2011,two_way,USA,other manufactured goods,25039181962.0,comtrade_mirror_raw
+2011,two_way,China,agricultural goods,3469392124.0,comtrade_mirror_raw
+2011,two_way,China,minerals & metals,66857165654.0,comtrade_mirror_raw
+2011,two_way,China,apparel,14301279219.0,comtrade_mirror_raw
+2011,two_way,China,other manufactured goods,54029798965.0,comtrade_mirror_raw
+2011,two_way,Europe,agricultural goods,50905546882.368,comtrade_mirror_raw
+2011,two_way,Europe,minerals & metals,191678785074.836,comtrade_mirror_raw
+2011,two_way,Europe,apparel,18145452392.051,comtrade_mirror_raw
+2011,two_way,Europe,other manufactured goods,153259231572.402,comtrade_mirror_raw
+2011,two_way,Asia_ex_China,agricultural goods,27879340901.165,comtrade_mirror_raw
+2011,two_way,Asia_ex_China,minerals & metals,113121845658.909,comtrade_mirror_raw
+2011,two_way,Asia_ex_China,apparel,9284497622.846,comtrade_mirror_raw
+2011,two_way,Asia_ex_China,other manufactured goods,83220769430.558,comtrade_mirror_raw
+2011,two_way,N_America_ex_US,agricultural goods,1749736516.95,comtrade_mirror_raw
+2011,two_way,N_America_ex_US,minerals & metals,13069466541.0,comtrade_mirror_raw
+2011,two_way,N_America_ex_US,apparel,261884282.87,comtrade_mirror_raw
+2011,two_way,N_America_ex_US,other manufactured goods,2654114789.43,comtrade_mirror_raw
+2011,two_way,S_America,agricultural goods,15855290261.251999,comtrade_mirror_raw
+2011,two_way,S_America,minerals & metals,21159999421.299004,comtrade_mirror_raw
+2011,two_way,S_America,apparel,318567269.604,comtrade_mirror_raw
+2011,two_way,S_America,other manufactured goods,6594733867.625999,comtrade_mirror_raw
+2011,two_way,Oceania,agricultural goods,2322348543.022,comtrade_mirror_raw
+2011,two_way,Oceania,minerals & metals,5093213698.955,comtrade_mirror_raw
+2011,two_way,Oceania,apparel,111667835.475,comtrade_mirror_raw
+2011,two_way,Oceania,other manufactured goods,2000688746.014,comtrade_mirror_raw
+2012,two_way,USA,agricultural goods,8071354830.0,comtrade_mirror_raw
+2012,two_way,USA,minerals & metals,62360706071.0,comtrade_mirror_raw
+2012,two_way,USA,apparel,2655501351.0,comtrade_mirror_raw
+2012,two_way,USA,other manufactured goods,26700399092.0,comtrade_mirror_raw
+2012,two_way,China,agricultural goods,3727966148.0,comtrade_mirror_raw
+2012,two_way,China,minerals & metals,82718529510.0,comtrade_mirror_raw
+2012,two_way,China,apparel,16964342707.0,comtrade_mirror_raw
+2012,two_way,China,other manufactured goods,66010580632.0,comtrade_mirror_raw
+2012,two_way,Europe,agricultural goods,51139539145.728,comtrade_mirror_raw
+2012,two_way,Europe,minerals & metals,236684944219.957,comtrade_mirror_raw
+2012,two_way,Europe,apparel,16302696496.176,comtrade_mirror_raw
+2012,two_way,Europe,other manufactured goods,151999101829.863,comtrade_mirror_raw
+2012,two_way,Asia_ex_China,agricultural goods,30033020655.543,comtrade_mirror_raw
+2012,two_way,Asia_ex_China,minerals & metals,138955288017.059,comtrade_mirror_raw
+2012,two_way,Asia_ex_China,apparel,10011673969.491001,comtrade_mirror_raw
+2012,two_way,Asia_ex_China,other manufactured goods,91295847472.87799,comtrade_mirror_raw
+2012,two_way,N_America_ex_US,agricultural goods,2082522376.33,comtrade_mirror_raw
+2012,two_way,N_America_ex_US,minerals & metals,12336356603.0,comtrade_mirror_raw
+2012,two_way,N_America_ex_US,apparel,271197043.14,comtrade_mirror_raw
+2012,two_way,N_America_ex_US,other manufactured goods,2578924191.69,comtrade_mirror_raw
+2012,two_way,S_America,agricultural goods,15735041110.888,comtrade_mirror_raw
+2012,two_way,S_America,minerals & metals,18645674932.059998,comtrade_mirror_raw
+2012,two_way,S_America,apparel,270009306.46500003,comtrade_mirror_raw
+2012,two_way,S_America,other manufactured goods,6777057156.370001,comtrade_mirror_raw
+2012,two_way,Oceania,agricultural goods,2612910215.121,comtrade_mirror_raw
+2012,two_way,Oceania,minerals & metals,6856168925.745,comtrade_mirror_raw
+2012,two_way,Oceania,apparel,138599296.978,comtrade_mirror_raw
+2012,two_way,Oceania,other manufactured goods,2118786386.7849998,comtrade_mirror_raw
+2013,two_way,USA,agricultural goods,7773379760.0,comtrade_mirror_raw
+2013,two_way,USA,minerals & metals,48320263598.0,comtrade_mirror_raw
+2013,two_way,USA,apparel,2705182120.0,comtrade_mirror_raw
+2013,two_way,USA,other manufactured goods,26399530650.0,comtrade_mirror_raw
+2013,two_way,China,agricultural goods,4553564970.0,comtrade_mirror_raw
+2013,two_way,China,minerals & metals,85545297870.0,comtrade_mirror_raw
+2013,two_way,China,apparel,17575650715.0,comtrade_mirror_raw
+2013,two_way,China,other manufactured goods,71630478343.0,comtrade_mirror_raw
+2013,two_way,Europe,agricultural goods,53460526490.302,comtrade_mirror_raw
+2013,two_way,Europe,minerals & metals,220922547843.48,comtrade_mirror_raw
+2013,two_way,Europe,apparel,16780887965.244,comtrade_mirror_raw
+2013,two_way,Europe,other manufactured goods,159083482691.248,comtrade_mirror_raw
+2013,two_way,Asia_ex_China,agricultural goods,31337314774.22,comtrade_mirror_raw
+2013,two_way,Asia_ex_China,minerals & metals,139146852100.80002,comtrade_mirror_raw
+2013,two_way,Asia_ex_China,apparel,10879385147.345001,comtrade_mirror_raw
+2013,two_way,Asia_ex_China,other manufactured goods,90049594843.253,comtrade_mirror_raw
+2013,two_way,N_America_ex_US,agricultural goods,2159795172.26,comtrade_mirror_raw
+2013,two_way,N_America_ex_US,minerals & metals,8294127463.48,comtrade_mirror_raw
+2013,two_way,N_America_ex_US,apparel,249850747.85,comtrade_mirror_raw
+2013,two_way,N_America_ex_US,other manufactured goods,2197620474.38,comtrade_mirror_raw
+2013,two_way,S_America,agricultural goods,13971271875.091,comtrade_mirror_raw
+2013,two_way,S_America,minerals & metals,22976263348.875,comtrade_mirror_raw
+2013,two_way,S_America,apparel,283179760.812,comtrade_mirror_raw
+2013,two_way,S_America,other manufactured goods,6752513897.219,comtrade_mirror_raw
+2013,two_way,Oceania,agricultural goods,2722145386.407,comtrade_mirror_raw
+2013,two_way,Oceania,minerals & metals,5227408491.669001,comtrade_mirror_raw
+2013,two_way,Oceania,apparel,138474893.454,comtrade_mirror_raw
+2013,two_way,Oceania,other manufactured goods,1720915038.81,comtrade_mirror_raw
+2014,two_way,USA,agricultural goods,7704267170.0,comtrade_mirror_raw
+2014,two_way,USA,minerals & metals,32557037311.0,comtrade_mirror_raw
+2014,two_way,USA,apparel,2826209080.0,comtrade_mirror_raw
+2014,two_way,USA,other manufactured goods,29156871100.0,comtrade_mirror_raw
+2014,two_way,China,agricultural goods,5202399248.0,comtrade_mirror_raw
+2014,two_way,China,minerals & metals,88007711857.0,comtrade_mirror_raw
+2014,two_way,China,apparel,19916611865.0,comtrade_mirror_raw
+2014,two_way,China,other manufactured goods,81390897542.0,comtrade_mirror_raw
+2014,two_way,Europe,agricultural goods,57152015830.787,comtrade_mirror_raw
+2014,two_way,Europe,minerals & metals,192637510180.627,comtrade_mirror_raw
+2014,two_way,Europe,apparel,17569390544.338997,comtrade_mirror_raw
+2014,two_way,Europe,other manufactured goods,162132397506.027,comtrade_mirror_raw
+2014,two_way,Asia_ex_China,agricultural goods,33712460812.488,comtrade_mirror_raw
+2014,two_way,Asia_ex_China,minerals & metals,138059991269.795,comtrade_mirror_raw
+2014,two_way,Asia_ex_China,apparel,10867788676.165,comtrade_mirror_raw
+2014,two_way,Asia_ex_China,other manufactured goods,92122097511.58699,comtrade_mirror_raw
+2014,two_way,N_America_ex_US,agricultural goods,2322805065.13,comtrade_mirror_raw
+2014,two_way,N_America_ex_US,minerals & metals,5225503872.69,comtrade_mirror_raw
+2014,two_way,N_America_ex_US,apparel,259078561.03,comtrade_mirror_raw
+2014,two_way,N_America_ex_US,other manufactured goods,2135562742.31,comtrade_mirror_raw
+2014,two_way,S_America,agricultural goods,12684254686.262001,comtrade_mirror_raw
+2014,two_way,S_America,minerals & metals,23036322232.677998,comtrade_mirror_raw
+2014,two_way,S_America,apparel,321412211.58100003,comtrade_mirror_raw
+2014,two_way,S_America,other manufactured goods,5978717974.034,comtrade_mirror_raw
+2014,two_way,Oceania,agricultural goods,2939894885.443,comtrade_mirror_raw
+2014,two_way,Oceania,minerals & metals,4076578615.207,comtrade_mirror_raw
+2014,two_way,Oceania,apparel,134195489.433,comtrade_mirror_raw
+2014,two_way,Oceania,other manufactured goods,1657964532.496,comtrade_mirror_raw
+2015,two_way,USA,agricultural goods,6557145767.0,comtrade_mirror_raw
+2015,two_way,USA,minerals & metals,18642757772.0,comtrade_mirror_raw
+2015,two_way,USA,apparel,2749729082.0,comtrade_mirror_raw
+2015,two_way,USA,other manufactured goods,24024823447.0,comtrade_mirror_raw
+2015,two_way,China,agricultural goods,5130844606.0,comtrade_mirror_raw
+2015,two_way,China,minerals & metals,70382005054.0,comtrade_mirror_raw
+2015,two_way,China,apparel,20563883744.0,comtrade_mirror_raw
+2015,two_way,China,other manufactured goods,82422905634.0,comtrade_mirror_raw
+2015,two_way,Europe,agricultural goods,50790641745.85,comtrade_mirror_raw
+2015,two_way,Europe,minerals & metals,125725731322.33499,comtrade_mirror_raw
+2015,two_way,Europe,apparel,14845029466.223999,comtrade_mirror_raw
+2015,two_way,Europe,other manufactured goods,143006061450.313,comtrade_mirror_raw
+2015,two_way,Asia_ex_China,agricultural goods,31848048348.706,comtrade_mirror_raw
+2015,two_way,Asia_ex_China,minerals & metals,96857404684.341,comtrade_mirror_raw
+2015,two_way,Asia_ex_China,apparel,10411831806.699001,comtrade_mirror_raw
+2015,two_way,Asia_ex_China,other manufactured goods,82400160339.449,comtrade_mirror_raw
+2015,two_way,N_America_ex_US,agricultural goods,2095699029.5149999,comtrade_mirror_raw
+2015,two_way,N_America_ex_US,minerals & metals,3882794430.933,comtrade_mirror_raw
+2015,two_way,N_America_ex_US,apparel,227310927.444,comtrade_mirror_raw
+2015,two_way,N_America_ex_US,other manufactured goods,1830460516.074,comtrade_mirror_raw
+2015,two_way,S_America,agricultural goods,10900406246.403,comtrade_mirror_raw
+2015,two_way,S_America,minerals & metals,12259850944.638,comtrade_mirror_raw
+2015,two_way,S_America,apparel,285051048.92,comtrade_mirror_raw
+2015,two_way,S_America,other manufactured goods,4815216260.755,comtrade_mirror_raw
+2015,two_way,Oceania,agricultural goods,2287984444.025,comtrade_mirror_raw
+2015,two_way,Oceania,minerals & metals,991959757.738,comtrade_mirror_raw
+2015,two_way,Oceania,apparel,130657414.298,comtrade_mirror_raw
+2015,two_way,Oceania,other manufactured goods,1713883981.65,comtrade_mirror_raw
+2016,two_way,USA,agricultural goods,6402428431.0,comtrade_mirror_raw
+2016,two_way,USA,minerals & metals,19153651178.0,comtrade_mirror_raw
+2016,two_way,USA,apparel,2501010030.0,comtrade_mirror_raw
+2016,two_way,USA,other manufactured goods,20052172562.0,comtrade_mirror_raw
+2016,two_way,China,agricultural goods,4966765798.0,comtrade_mirror_raw
+2016,two_way,China,minerals & metals,56242052400.0,comtrade_mirror_raw
+2016,two_way,China,apparel,17655368025.0,comtrade_mirror_raw
+2016,two_way,China,other manufactured goods,69727238126.0,comtrade_mirror_raw
+2016,two_way,Europe,agricultural goods,50481021401.231,comtrade_mirror_raw
+2016,two_way,Europe,minerals & metals,102344321279.624,comtrade_mirror_raw
+2016,two_way,Europe,apparel,15083393416.418,comtrade_mirror_raw
+2016,two_way,Europe,other manufactured goods,138657128302.031,comtrade_mirror_raw
+2016,two_way,Asia_ex_China,agricultural goods,30939783731.822998,comtrade_mirror_raw
+2016,two_way,Asia_ex_China,minerals & metals,86023604486.637,comtrade_mirror_raw
+2016,two_way,Asia_ex_China,apparel,9462290784.798,comtrade_mirror_raw
+2016,two_way,Asia_ex_China,other manufactured goods,76038066203.2,comtrade_mirror_raw
+2016,two_way,N_America_ex_US,agricultural goods,1897702000.9880002,comtrade_mirror_raw
+2016,two_way,N_America_ex_US,minerals & metals,4369314249.249,comtrade_mirror_raw
+2016,two_way,N_America_ex_US,apparel,214575422.62199998,comtrade_mirror_raw
+2016,two_way,N_America_ex_US,other manufactured goods,1483661030.277,comtrade_mirror_raw
+2016,two_way,S_America,agricultural goods,11815358924.862,comtrade_mirror_raw
+2016,two_way,S_America,minerals & metals,7007561709.398,comtrade_mirror_raw
+2016,two_way,S_America,apparel,282884720.422,comtrade_mirror_raw
+2016,two_way,S_America,other manufactured goods,4454957321.589001,comtrade_mirror_raw
+2016,two_way,Oceania,agricultural goods,1935141793.9459999,comtrade_mirror_raw
+2016,two_way,Oceania,minerals & metals,1342673967.751,comtrade_mirror_raw
+2016,two_way,Oceania,apparel,134888918.987,comtrade_mirror_raw
+2016,two_way,Oceania,other manufactured goods,1928424136.431,comtrade_mirror_raw
+2017,two_way,USA,agricultural goods,6837359822.0,comtrade_mirror_raw
+2017,two_way,USA,minerals & metals,27369088887.0,comtrade_mirror_raw
+2017,two_way,USA,apparel,2602990272.0,comtrade_mirror_raw
+2017,two_way,USA,other manufactured goods,18561828346.0,comtrade_mirror_raw
+2017,two_way,China,agricultural goods,5453623332.0,comtrade_mirror_raw
+2017,two_way,China,minerals & metals,74803205695.0,comtrade_mirror_raw
+2017,two_way,China,apparel,18301114329.0,comtrade_mirror_raw
+2017,two_way,China,other manufactured goods,71840832766.0,comtrade_mirror_raw
+2017,two_way,Europe,agricultural goods,52430586803.641,comtrade_mirror_raw
+2017,two_way,Europe,minerals & metals,121382023408.16699,comtrade_mirror_raw
+2017,two_way,Europe,apparel,15741698265.602001,comtrade_mirror_raw
+2017,two_way,Europe,other manufactured goods,145163279194.91602,comtrade_mirror_raw
+2017,two_way,Asia_ex_China,agricultural goods,35649829779.983,comtrade_mirror_raw
+2017,two_way,Asia_ex_China,minerals & metals,104743140075.497,comtrade_mirror_raw
+2017,two_way,Asia_ex_China,apparel,10571890705.411,comtrade_mirror_raw
+2017,two_way,Asia_ex_China,other manufactured goods,81975287868.084,comtrade_mirror_raw
+2017,two_way,N_America_ex_US,agricultural goods,2063136852.275,comtrade_mirror_raw
+2017,two_way,N_America_ex_US,minerals & metals,3401789947.046,comtrade_mirror_raw
+2017,two_way,N_America_ex_US,apparel,236535449.407,comtrade_mirror_raw
+2017,two_way,N_America_ex_US,other manufactured goods,1479599928.51,comtrade_mirror_raw
+2017,two_way,S_America,agricultural goods,13311500444.941,comtrade_mirror_raw
+2017,two_way,S_America,minerals & metals,8188795515.735001,comtrade_mirror_raw
+2017,two_way,S_America,apparel,304529773.57,comtrade_mirror_raw
+2017,two_way,S_America,other manufactured goods,4949300601.259,comtrade_mirror_raw
+2017,two_way,Oceania,agricultural goods,1972766194.437,comtrade_mirror_raw
+2017,two_way,Oceania,minerals & metals,2189004195.521,comtrade_mirror_raw
+2017,two_way,Oceania,apparel,140136280.286,comtrade_mirror_raw
+2017,two_way,Oceania,other manufactured goods,2429891526.92,comtrade_mirror_raw
+2018,two_way,USA,agricultural goods,8010980216.0,comtrade_mirror_raw
+2018,two_way,USA,minerals & metals,29983970119.0,comtrade_mirror_raw
+2018,two_way,USA,apparel,2946187449.0,comtrade_mirror_raw
+2018,two_way,USA,other manufactured goods,20587556969.0,comtrade_mirror_raw
+2018,two_way,China,agricultural goods,6157343866.0,comtrade_mirror_raw
+2018,two_way,China,minerals & metals,98629430066.0,comtrade_mirror_raw
+2018,two_way,China,apparel,19151980929.0,comtrade_mirror_raw
+2018,two_way,China,other manufactured goods,79994226096.0,comtrade_mirror_raw
+2018,two_way,Europe,agricultural goods,55773284329.246,comtrade_mirror_raw
+2018,two_way,Europe,minerals & metals,156718422208.422,comtrade_mirror_raw
+2018,two_way,Europe,apparel,17132597549.723,comtrade_mirror_raw
+2018,two_way,Europe,other manufactured goods,154227932415.534,comtrade_mirror_raw
+2018,two_way,Asia_ex_China,agricultural goods,34829157007.384995,comtrade_mirror_raw
+2018,two_way,Asia_ex_China,minerals & metals,121141185350.32901,comtrade_mirror_raw
+2018,two_way,Asia_ex_China,apparel,10658717316.299,comtrade_mirror_raw
+2018,two_way,Asia_ex_China,other manufactured goods,92240449219.817,comtrade_mirror_raw
+2018,two_way,N_America_ex_US,agricultural goods,2163047363.021,comtrade_mirror_raw
+2018,two_way,N_America_ex_US,minerals & metals,2682363377.502,comtrade_mirror_raw
+2018,two_way,N_America_ex_US,apparel,245962083.52400002,comtrade_mirror_raw
+2018,two_way,N_America_ex_US,other manufactured goods,1620271562.552,comtrade_mirror_raw
+2018,two_way,S_America,agricultural goods,11098609539.997,comtrade_mirror_raw
+2018,two_way,S_America,minerals & metals,9783846757.091,comtrade_mirror_raw
+2018,two_way,S_America,apparel,314961558.62,comtrade_mirror_raw
+2018,two_way,S_America,other manufactured goods,7180132078.152,comtrade_mirror_raw
+2018,two_way,Oceania,agricultural goods,1750591004.432,comtrade_mirror_raw
+2018,two_way,Oceania,minerals & metals,2980640820.392,comtrade_mirror_raw
+2018,two_way,Oceania,apparel,136055272.95099998,comtrade_mirror_raw
+2018,two_way,Oceania,other manufactured goods,2767971296.603,comtrade_mirror_raw
+2019,two_way,USA,agricultural goods,7588385883.0,comtrade_mirror_raw
+2019,two_way,USA,minerals & metals,23491639155.0,comtrade_mirror_raw
+2019,two_way,USA,apparel,3247903947.0,comtrade_mirror_raw
+2019,two_way,USA,other manufactured goods,22131128031.0,comtrade_mirror_raw
+2019,two_way,China,agricultural goods,6973186892.0,comtrade_mirror_raw
+2019,two_way,China,minerals & metals,94866381256.0,comtrade_mirror_raw
+2019,two_way,China,apparel,20740849457.0,comtrade_mirror_raw
+2019,two_way,China,other manufactured goods,86086121036.0,comtrade_mirror_raw
+2019,two_way,Europe,agricultural goods,54506853727.651,comtrade_mirror_raw
+2019,two_way,Europe,minerals & metals,146257532719.353,comtrade_mirror_raw
+2019,two_way,Europe,apparel,16391313007.085,comtrade_mirror_raw
+2019,two_way,Europe,other manufactured goods,154819841293.598,comtrade_mirror_raw
+2019,two_way,Asia_ex_China,agricultural goods,33908884703.718002,comtrade_mirror_raw
+2019,two_way,Asia_ex_China,minerals & metals,118860806004.177,comtrade_mirror_raw
+2019,two_way,Asia_ex_China,apparel,10236960909.637001,comtrade_mirror_raw
+2019,two_way,Asia_ex_China,other manufactured goods,91426517698.54,comtrade_mirror_raw
+2019,two_way,N_America_ex_US,agricultural goods,2132952516.3070002,comtrade_mirror_raw
+2019,two_way,N_America_ex_US,minerals & metals,2591258422.592,comtrade_mirror_raw
+2019,two_way,N_America_ex_US,apparel,254278221.714,comtrade_mirror_raw
+2019,two_way,N_America_ex_US,other manufactured goods,2238678486.908,comtrade_mirror_raw
+2019,two_way,S_America,agricultural goods,11309617833.698,comtrade_mirror_raw
+2019,two_way,S_America,minerals & metals,7511816090.307,comtrade_mirror_raw
+2019,two_way,S_America,apparel,322972032.581,comtrade_mirror_raw
+2019,two_way,S_America,other manufactured goods,6048445810.989,comtrade_mirror_raw
+2019,two_way,Oceania,agricultural goods,1500352338.762,comtrade_mirror_raw
+2019,two_way,Oceania,minerals & metals,2045404443.0249999,comtrade_mirror_raw
+2019,two_way,Oceania,apparel,134985270.466,comtrade_mirror_raw
+2019,two_way,Oceania,other manufactured goods,2286176132.79,comtrade_mirror_raw
+2020,two_way,USA,agricultural goods,8096434753.0,comtrade_mirror_raw
+2020,two_way,USA,minerals & metals,16525903822.0,comtrade_mirror_raw
+2020,two_way,USA,apparel,2743792579.0,comtrade_mirror_raw
+2020,two_way,USA,other manufactured goods,17850840147.0,comtrade_mirror_raw
+2020,two_way,China,agricultural goods,7046168803.0,comtrade_mirror_raw
+2020,two_way,China,minerals & metals,73380080473.0,comtrade_mirror_raw
+2020,two_way,China,apparel,20267275677.0,comtrade_mirror_raw
+2020,two_way,China,other manufactured goods,86924117819.0,comtrade_mirror_raw
+2020,two_way,Europe,agricultural goods,57106750157.058,comtrade_mirror_raw
+2020,two_way,Europe,minerals & metals,106686033698.13,comtrade_mirror_raw
+2020,two_way,Europe,apparel,14132435668.272999,comtrade_mirror_raw
+2020,two_way,Europe,other manufactured goods,132957323659.90001,comtrade_mirror_raw
+2020,two_way,Asia_ex_China,agricultural goods,35696546220.37,comtrade_mirror_raw
+2020,two_way,Asia_ex_China,minerals & metals,106873986683.223,comtrade_mirror_raw
+2020,two_way,Asia_ex_China,apparel,8405944575.913,comtrade_mirror_raw
+2020,two_way,Asia_ex_China,other manufactured goods,84808273472.171,comtrade_mirror_raw
+2020,two_way,N_America_ex_US,agricultural goods,2473478979.4449997,comtrade_mirror_raw
+2020,two_way,N_America_ex_US,minerals & metals,3964892744.588,comtrade_mirror_raw
+2020,two_way,N_America_ex_US,apparel,184367669.014,comtrade_mirror_raw
+2020,two_way,N_America_ex_US,other manufactured goods,2077841128.355,comtrade_mirror_raw
+2020,two_way,S_America,agricultural goods,11644399766.129,comtrade_mirror_raw
+2020,two_way,S_America,minerals & metals,4541720075.818001,comtrade_mirror_raw
+2020,two_way,S_America,apparel,207398978.61699998,comtrade_mirror_raw
+2020,two_way,S_America,other manufactured goods,5595583752.882,comtrade_mirror_raw
+2020,two_way,Oceania,agricultural goods,1534983846.737,comtrade_mirror_raw
+2020,two_way,Oceania,minerals & metals,1715733000.5709999,comtrade_mirror_raw
+2020,two_way,Oceania,apparel,102357682.087,comtrade_mirror_raw
+2020,two_way,Oceania,other manufactured goods,1684156789.744,comtrade_mirror_raw
+2021,two_way,USA,agricultural goods,9492138149.0,comtrade_mirror_raw
+2021,two_way,USA,minerals & metals,28846116041.0,comtrade_mirror_raw
+2021,two_way,USA,apparel,3576432226.0,comtrade_mirror_raw
+2021,two_way,USA,other manufactured goods,21882019068.0,comtrade_mirror_raw
+2021,two_way,China,agricultural goods,7963603358.0,comtrade_mirror_raw
+2021,two_way,China,minerals & metals,108283131576.0,comtrade_mirror_raw
+2021,two_way,China,apparel,24683960439.0,comtrade_mirror_raw
+2021,two_way,China,other manufactured goods,109993017946.0,comtrade_mirror_raw
+2021,two_way,Europe,agricultural goods,64348063729.774,comtrade_mirror_raw
+2021,two_way,Europe,minerals & metals,167301426444.038,comtrade_mirror_raw
+2021,two_way,Europe,apparel,16860842038.001999,comtrade_mirror_raw
+2021,two_way,Europe,other manufactured goods,160469312748.958,comtrade_mirror_raw
+2021,two_way,Asia_ex_China,agricultural goods,44088190993.813,comtrade_mirror_raw
+2021,two_way,Asia_ex_China,minerals & metals,165070650896.487,comtrade_mirror_raw
+2021,two_way,Asia_ex_China,apparel,11343100655.431,comtrade_mirror_raw
+2021,two_way,Asia_ex_China,other manufactured goods,112604075541.023,comtrade_mirror_raw
+2021,two_way,N_America_ex_US,agricultural goods,2925192967.983,comtrade_mirror_raw
+2021,two_way,N_America_ex_US,minerals & metals,4931370312.68,comtrade_mirror_raw
+2021,two_way,N_America_ex_US,apparel,222309124.12699997,comtrade_mirror_raw
+2021,two_way,N_America_ex_US,other manufactured goods,2411358315.414,comtrade_mirror_raw
+2021,two_way,S_America,agricultural goods,13136773487.066,comtrade_mirror_raw
+2021,two_way,S_America,minerals & metals,7583134530.059,comtrade_mirror_raw
+2021,two_way,S_America,apparel,316252993.026,comtrade_mirror_raw
+2021,two_way,S_America,other manufactured goods,8510288839.592001,comtrade_mirror_raw
+2021,two_way,Oceania,agricultural goods,2315560981.69,comtrade_mirror_raw
+2021,two_way,Oceania,minerals & metals,2855504427.743,comtrade_mirror_raw
+2021,two_way,Oceania,apparel,140062837.606,comtrade_mirror_raw
+2021,two_way,Oceania,other manufactured goods,1650322566.1820002,comtrade_mirror_raw
+2022,two_way,USA,agricultural goods,10929717037.0,comtrade_mirror_raw
+2022,two_way,USA,minerals & metals,33050096428.0,comtrade_mirror_raw
+2022,two_way,USA,apparel,4216138295.0,comtrade_mirror_raw
+2022,two_way,USA,other manufactured goods,23833241280.0,comtrade_mirror_raw
+2022,two_way,China,agricultural goods,8065720618.0,comtrade_mirror_raw
+2022,two_way,China,minerals & metals,123966986720.0,comtrade_mirror_raw
+2022,two_way,China,apparel,24361030293.0,comtrade_mirror_raw
+2022,two_way,China,other manufactured goods,125126762484.0,comtrade_mirror_raw
+2022,two_way,Europe,agricultural goods,60773026396.770996,comtrade_mirror_raw
+2022,two_way,Europe,minerals & metals,247049852425.72,comtrade_mirror_raw
+2022,two_way,Europe,apparel,18202626624.107002,comtrade_mirror_raw
+2022,two_way,Europe,other manufactured goods,162415300642.135,comtrade_mirror_raw
+2022,two_way,Asia_ex_China,agricultural goods,49294413633.981,comtrade_mirror_raw
+2022,two_way,Asia_ex_China,minerals & metals,210652198670.418,comtrade_mirror_raw
+2022,two_way,Asia_ex_China,apparel,11794749859.85,comtrade_mirror_raw
+2022,two_way,Asia_ex_China,other manufactured goods,117555631187.152,comtrade_mirror_raw
+2022,two_way,N_America_ex_US,agricultural goods,3074695803.966,comtrade_mirror_raw
+2022,two_way,N_America_ex_US,minerals & metals,5516077663.51,comtrade_mirror_raw
+2022,two_way,N_America_ex_US,apparel,280152674.87,comtrade_mirror_raw
+2022,two_way,N_America_ex_US,other manufactured goods,2613531571.859,comtrade_mirror_raw
+2022,two_way,S_America,agricultural goods,17472915032.689,comtrade_mirror_raw
+2022,two_way,S_America,minerals & metals,10277434928.702,comtrade_mirror_raw
+2022,two_way,S_America,apparel,428412720.217,comtrade_mirror_raw
+2022,two_way,S_America,other manufactured goods,10484560499.11,comtrade_mirror_raw
+2022,two_way,Oceania,agricultural goods,2867640761.171,comtrade_mirror_raw
+2022,two_way,Oceania,minerals & metals,2756612151.026,comtrade_mirror_raw
+2022,two_way,Oceania,apparel,158139324.37,comtrade_mirror_raw
+2022,two_way,Oceania,other manufactured goods,3051825656.8789997,comtrade_mirror_raw
+2023,two_way,USA,agricultural goods,7866624492.0,comtrade_mirror_raw
+2023,two_way,USA,minerals & metals,30406733387.0,comtrade_mirror_raw
+2023,two_way,USA,apparel,3422658796.0,comtrade_mirror_raw
+2023,two_way,USA,other manufactured goods,25356808041.0,comtrade_mirror_raw
+2023,two_way,China,agricultural goods,8623894082.0,comtrade_mirror_raw
+2023,two_way,China,minerals & metals,113268381861.0,comtrade_mirror_raw
+2023,two_way,China,apparel,24555998842.0,comtrade_mirror_raw
+2023,two_way,China,other manufactured goods,135044103678.0,comtrade_mirror_raw
+2023,two_way,Europe,agricultural goods,62456564494.259995,comtrade_mirror_raw
+2023,two_way,Europe,minerals & metals,200058997230.778,comtrade_mirror_raw
+2023,two_way,Europe,apparel,18462697041.635002,comtrade_mirror_raw
+2023,two_way,Europe,other manufactured goods,172207627868.892,comtrade_mirror_raw
+2023,two_way,Asia_ex_China,agricultural goods,51639456501.731,comtrade_mirror_raw
+2023,two_way,Asia_ex_China,minerals & metals,182616516749.986,comtrade_mirror_raw
+2023,two_way,Asia_ex_China,apparel,10257612793.251999,comtrade_mirror_raw
+2023,two_way,Asia_ex_China,other manufactured goods,109578117460.226,comtrade_mirror_raw
+2023,two_way,N_America_ex_US,agricultural goods,3412999429.196,comtrade_mirror_raw
+2023,two_way,N_America_ex_US,minerals & metals,5745059632.063001,comtrade_mirror_raw
+2023,two_way,N_America_ex_US,apparel,256785136.95499998,comtrade_mirror_raw
+2023,two_way,N_America_ex_US,other manufactured goods,2569085444.778,comtrade_mirror_raw
+2023,two_way,S_America,agricultural goods,15203315442.742,comtrade_mirror_raw
+2023,two_way,S_America,minerals & metals,10038339403.999,comtrade_mirror_raw
+2023,two_way,S_America,apparel,448134607.756,comtrade_mirror_raw
+2023,two_way,S_America,other manufactured goods,8026590215.124001,comtrade_mirror_raw
+2023,two_way,Oceania,agricultural goods,2085676893.853,comtrade_mirror_raw
+2023,two_way,Oceania,minerals & metals,1756466367.61,comtrade_mirror_raw
+2023,two_way,Oceania,apparel,125223070.006,comtrade_mirror_raw
+2023,two_way,Oceania,other manufactured goods,3035472053.613,comtrade_mirror_raw
+2024,two_way,USA,agricultural goods,8952409813.0,comtrade_mirror_raw
+2024,two_way,USA,minerals & metals,32007791919.0,comtrade_mirror_raw
+2024,two_way,USA,apparel,3462446981.0,comtrade_mirror_raw
+2024,two_way,USA,other manufactured goods,26648159004.0,comtrade_mirror_raw
+2024,two_way,China,agricultural goods,9291161545.0,comtrade_mirror_raw
+2024,two_way,China,minerals & metals,120767739593.0,comtrade_mirror_raw
+2024,two_way,China,apparel,23126081766.0,comtrade_mirror_raw
+2024,two_way,China,other manufactured goods,141719195308.0,comtrade_mirror_raw
+2024,two_way,Europe,agricultural goods,69445805155.372,comtrade_mirror_raw
+2024,two_way,Europe,minerals & metals,182814476832.26898,comtrade_mirror_raw
+2024,two_way,Europe,apparel,18500230823.305,comtrade_mirror_raw
+2024,two_way,Europe,other manufactured goods,172422564290.139,comtrade_mirror_raw
+2024,two_way,Asia_ex_China,agricultural goods,47980791881.179,comtrade_mirror_raw
+2024,two_way,Asia_ex_China,minerals & metals,118052230723.54999,comtrade_mirror_raw
+2024,two_way,Asia_ex_China,apparel,9036042550.112,comtrade_mirror_raw
+2024,two_way,Asia_ex_China,other manufactured goods,90652123073.465,comtrade_mirror_raw
+2024,two_way,N_America_ex_US,agricultural goods,3464497834.799,comtrade_mirror_raw
+2024,two_way,N_America_ex_US,minerals & metals,4647139115.208,comtrade_mirror_raw
+2024,two_way,N_America_ex_US,apparel,256139342.46999997,comtrade_mirror_raw
+2024,two_way,N_America_ex_US,other manufactured goods,2641742813.038,comtrade_mirror_raw
+2024,two_way,S_America,agricultural goods,17015184177.553001,comtrade_mirror_raw
+2024,two_way,S_America,minerals & metals,10722887481.001999,comtrade_mirror_raw
+2024,two_way,S_America,apparel,578500243.006,comtrade_mirror_raw
+2024,two_way,S_America,other manufactured goods,8390442960.381,comtrade_mirror_raw
+2024,two_way,Oceania,agricultural goods,2241117183.5959997,comtrade_mirror_raw
+2024,two_way,Oceania,minerals & metals,1662648669.851,comtrade_mirror_raw
+2024,two_way,Oceania,apparel,117092844.338,comtrade_mirror_raw
+2024,two_way,Oceania,other manufactured goods,3430123708.722,comtrade_mirror_raw
+2025,two_way,USA,agricultural goods,12237231236.0,comtrade_mirror_raw
+2025,two_way,USA,minerals & metals,39076042484.0,comtrade_mirror_raw
+2025,two_way,USA,apparel,3670782371.0,comtrade_mirror_raw
+2025,two_way,USA,other manufactured goods,27613853853.0,comtrade_mirror_raw
+2025,two_way,Europe,agricultural goods,79894378479.84,comtrade_mirror_raw
+2025,two_way,Europe,minerals & metals,188280366303.13998,comtrade_mirror_raw
+2025,two_way,Europe,apparel,20378298158.601997,comtrade_mirror_raw
+2025,two_way,Europe,other manufactured goods,189761337270.34,comtrade_mirror_raw
+2025,two_way,Asia_ex_China,agricultural goods,47960344721.494,comtrade_mirror_raw
+2025,two_way,Asia_ex_China,minerals & metals,113564142605.235,comtrade_mirror_raw
+2025,two_way,Asia_ex_China,apparel,9730721474.807,comtrade_mirror_raw
+2025,two_way,Asia_ex_China,other manufactured goods,96937407317.272,comtrade_mirror_raw
+2025,two_way,N_America_ex_US,agricultural goods,4143745610.894,comtrade_mirror_raw
+2025,two_way,N_America_ex_US,minerals & metals,5455175056.709,comtrade_mirror_raw
+2025,two_way,N_America_ex_US,apparel,255485052.30200002,comtrade_mirror_raw
+2025,two_way,N_America_ex_US,other manufactured goods,3377017020.777,comtrade_mirror_raw
+2025,two_way,S_America,agricultural goods,19039061332.634003,comtrade_mirror_raw
+2025,two_way,S_America,minerals & metals,10296824759.548,comtrade_mirror_raw
+2025,two_way,S_America,apparel,719296388.339,comtrade_mirror_raw
+2025,two_way,S_America,other manufactured goods,10987408252.827,comtrade_mirror_raw
+2025,two_way,Oceania,agricultural goods,2647949411.088,comtrade_mirror_raw
+2025,two_way,Oceania,minerals & metals,1670850823.15,comtrade_mirror_raw
+2025,two_way,Oceania,apparel,114146560.669,comtrade_mirror_raw
+2025,two_way,Oceania,other manufactured goods,3545746823.778,comtrade_mirror_raw
